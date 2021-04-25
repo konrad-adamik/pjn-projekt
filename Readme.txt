@@ -1,0 +1,1 @@
+Przetwarzanie języka naturalnego - projekt
