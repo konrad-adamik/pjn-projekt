@@ -1,38 +1,38 @@
-# Kod "wspÛlny" -----------------------------------------------------------
+# Kod "wsp√≥lny" -----------------------------------------------------------
 
 
-# Za≥adowanie bibliotek dla przetwarzania i stworzenia macierzy czÍstoúci
+# Za≈Çadowanie bibliotek dla przetwarzania i stworzenia macierzy cz?sto?ci
 library(tm)
 library(hunspell)
 library(stringr)
 
-# Za≥adowanie biblioteki dla redukcji wymiarÛw przy uøyciu dekompozycji wed≥ug wartoúci osobliwych
+# Za≈Çadowanie biblioteki dla redukcji wymiar√≥w przy u≈ºyciu dekompozycji wed≈Çug warto?ci osobliwych
 library(lsa)
 
-# Za≥adowanie bibliotek dla analizy skupieÒ dokumentÛw
+# Za≈Çadowanie bibliotek dla analizy skupie≈Ñ dokument√≥w
 library(proxy)
 library(dendextend)
 library(corrplot)
 library(flexclust)
 
-# Za≥adowanie biblioteki dla analityki tematyk
+# Za≈Çadowanie biblioteki dla analityki tematyk
 library(topicmodels)
 
-# Za≥adowanie biblioteki dla analizy s≥Ûw kluczowych
+# Za≈Çadowanie biblioteki dla analizy s≈Ç√≥w kluczowych
 library(wordcloud)
 
 # Zmiana katalogu roboczego
 workDir <- "D:\\Software\\UEK\\PJN_Projekt"
 setwd(workDir)
 
-# Definicja úcieøek dostÍpu do katalogÛw funkcjonalnych
+# Definicja ≈õcie≈ºek dostƒôpu do katalog√≥w funkcjonalnych
 inputDir <- ".\\Dane"
 outputDir <- ".\\Wyniki"
 
-# Przetwarzanie wstÍpne (podpunkt A oraz B) ---------------------------------------------------
+# Przetwarzanie wstƒôpne (podpunkt A oraz B) ---------------------------------------------------
 
 
-# Utworzenie korpusu dokumentÛw dla przetwarzania wstÍpnego
+# Utworzenie korpusu dokument√≥w dla przetwarzania wstƒôpnego
 corpusPPDir <- paste(
     inputDir,
     "Dokumenty",
@@ -50,7 +50,7 @@ corpusPP <- VCorpus(
     )
 )
 
-# WstÍpne przetwarzanie
+# Wstƒôpne przetwarzanie
 corpusPP <- tm_map(corpusPP, removeNumbers)
 corpusPP <- tm_map(corpusPP, removePunctuation)
 corpusPP <- tm_map(corpusPP, stripWhitespace)
@@ -65,14 +65,14 @@ stoplistPP <- readLines(stoplistFilePP, encoding = "UTF-8")
 corpusPP <- tm_map(corpusPP, removeWords, stoplistPP)
 corpusPP <- tm_map(corpusPP, stripWhitespace)
 
-# UsuniÍcie znakÛw em dash i 3/4
+# Usuniƒôcie znak√≥w em dash i 3/4
 removeCharPP <- content_transformer(
     function(x,character) gsub(character, "",x)
 )
 corpusPP <- tm_map(corpusPP, removeCharPP, intToUtf8(8722))
 corpusPP <- tm_map(corpusPP, removeCharPP, intToUtf8(190))
 
-# UsuniÍcie rozszerzeÒ z nazw dokumentÛw w korpusie
+# Usuniƒôcie rozszerze≈Ñ? z nazw dokument√≥w w korpusie
 cutExtensionsPP <- function(document){
     meta(document,"id") <- gsub(
         pattern = "\\.txt$",
@@ -83,13 +83,13 @@ cutExtensionsPP <- function(document){
 }
 corpusPP <- tm_map(corpusPP, cutExtensionsPP)
 
-#usuniÍcie podzia≥u na akapity w dokumentach tekstowych
+# Usuniƒôcie podzia≈Çu na akapity w dokumentach tekstowych
 pasteParagraphsPP <- content_transformer(
     function(text, char) paste(text, collapse = char)
 )
 corpusPP <- tm_map(corpusPP, pasteParagraphsPP, " ")
 
-#lematyzacja
+# Lematyzacja
 polishDictPP <- dictionary("pl_PL")
 
 lemmatize <- function(text){
@@ -106,7 +106,7 @@ lemmatize <- function(text){
 }
 corpusPP <- tm_map(corpusPP, content_transformer(lemmatize))
 
-#eksport przetworzonego korpusu
+# Eksport przetworzonego korpusu
 preprocessedDir <- paste(
     outputDir,
     "Dokumenty_Przetworzone",
@@ -116,10 +116,10 @@ dir.create(preprocessedDir, showWarnings = FALSE)
 writeCorpus(corpusPP, path = preprocessedDir)
 
 
-# Macierze czÍstoúci (podpunkt C) ------------------------------------------------------
+# Macierze czƒôsto≈õci (podpunkt C) ------------------------------------------------------
 
 
-# Utworzenie korpusu dokumentÛw
+# Utworzenie korpusu dokument√≥w
 corpusMatrixDir <- paste(
     outputDir,
     "Dokumenty_Przetworzone",
@@ -137,7 +137,7 @@ corpusMatrix <- VCorpus(
     )
 )
 
-# UsuniÍcie rozszerzeÒ z nazw dokumentÛw w korpusie
+# Usuniƒôcie rozszerze≈Ñ z nazw dokument√≥w w korpusie
 cutExtensionsMatrix <- function(document){
     meta(document,"id") <- gsub(
         pattern = "\\.txt$",
@@ -148,7 +148,7 @@ cutExtensionsMatrix <- function(document){
 }
 corpusMatrix <- tm_map(corpusMatrix, cutExtensionsMatrix)
 
-# Tworzenie macierzy czÍstoúci
+# Tworzenie macierzy czƒôsto≈õci
 tdmTfAll <- TermDocumentMatrix(corpusMatrix)
 tdmTfIdfAll <- TermDocumentMatrix(
     corpusMatrix,
@@ -209,7 +209,7 @@ dtmTfIdfAllMatrix <- as.matrix(dtmTfIdfAll)
 dtmTfBoundsMatrix <- as.matrix(dtmTfBounds)
 dtmTfIdfBoundsMatrix <- as.matrix(dtmTfIdfBounds)
 
-# Eksport macierzy czÍstoúci do pliku
+# Eksport macierzy czƒôsto≈õci do pliku
 matrixFile <- paste(
   outputDir,
   "tdmTfAllMatrix.csv",
@@ -224,20 +224,20 @@ write.table(
 )
 
 
-# Redukcje wymiarÛw (podpunkt D) -------------------------------------------------------
+# Redukcje wymiar√≥w (podpunkt D) -------------------------------------------------------
 
 
-##-- Redukcja przy uøyciu analizy g≥Ûwnych sk≥adowych --##
+##-- Redukcja przy u≈ºyciu analizy g≈Ç√≥wnych sk≈Çadowych --##
 
-# Analiza g≥Ûwnych sk≥adowych dla wczeúniej utworzonej macierzy czÍstoúci
+# Analiza g≈Ç√≥wnych sk≈Çadowych dla wcze≈õniej utworzonej macierzy czƒôsto≈õci
 pca <- prcomp(dtmTfIdfBounds)
 
-#przygotowanie danych do wykresu
+# Przygotowanie danych do wykresu
 legendPCA <- paste(paste("d",1:20,sep = ""), rownames(dtmTfIdfBounds), sep = " => ")
 xPCA <- pca$x[,1]
 yPCA <- pca$x[,2]
 
-#eksport wykresu do pliku
+# Eksport wykresu do pliku
 plotFilePCA <- paste(
     outputDir,
     "pca.png",
@@ -245,11 +245,11 @@ plotFilePCA <- paste(
 )
 png(filename = plotFilePCA, width = 1920, height = 1080)
 
-#wykres w przestrzeni dwuwymiarowej
+# Wykres w przestrzeni dwuwymiarowej
 plot(
     xPCA,
     yPCA, 
-    main = "Analiza g≥Ûwnych sk≥adowych",
+    main = "Analiza g??wnych sk?adowych",
     xlab = "PC1",
     ylab = "PC2",
     col = "darkorchid4",
@@ -272,17 +272,14 @@ legend(
     text.col = "darkorchid4"
 )
 
-#zamkniÍcie pliku
-dev.off()
+##-- Redukcja przy u≈ºyciu dekompozycji wed≈Çug warto≈õci osobliwych --##
 
-##-- Redukcja przy uøyciu dekompozycji wed≥ug wartoúci osobliwych --##
-
-# Analiza ukrytych wymiarÛw semantycznych 
-#(dekompozycja wg wartoúci osobliwych)
+# Analiza ukrytych wymiar√≥w semantycznych 
+# (dekompozycja wg warto≈õci osobliwych)
 
 lsa <- lsa(tdmTfAllMatrix)
 
-#przygotowanie danych do wykresu
+# Przygotowanie danych do wykresu
 coordDocsLSA <- lsa$dk%*%diag(lsa$sk)
 coordTermsLSA <- lsa$tk%*%diag(lsa$sk)
 termsImportanceLSA <- diag(lsa$tk%*%diag(lsa$sk)%*%t(diag(lsa$sk))%*%t(lsa$tk))
@@ -303,7 +300,7 @@ y2LSA <- coordImportantTermsLSA[,2]
 #x2LSA <- coordOwnTermsLSA[,1]
 #y2LSA <- coordOwnTermsLSA[,2]
 
-#eksport wykresu do pliku
+# Eksport wykresu do pliku
 plotFileLSA <- paste(
     outputDir,
     "lsa.png",
@@ -311,11 +308,11 @@ plotFileLSA <- paste(
 )
 png(filename = plotFileLSA, height = 1920, width = 1080)
 
-#wykres w przestrzeni dwuwymiarowej
+# Wykres w przestrzeni dwuwymiarowej
 plot(
     x1LSA,
     y1LSA, 
-    main = "Analiza ukrytych wymiarÛw semantycznych",
+    main = "Analiza ukrytych wymiar?w semantycznych",
     xlab = "SD1",
     ylab = "SD2",
     col = "darkorchid4",
@@ -352,19 +349,16 @@ legend(
     text.col = "darkorchid4"
 )
 
-#zamkniÍcie pliku
-dev.off()
 
-
-# Analiza skupieÒ dokumentÛw (podpunkt E) ----------------------------------------------
+# Analiza skupie≈Ñ dokument√≥w (podpunkt E) ----------------------------------------------
 
 ##-- Metoda hierarchiczna --##
 ##-- Parametry metody --##
-# 1. Macierz czÍstoúci
+# 1. Macierz czƒôsto≈õci
 # a. Waga (weighting)
-# b. Z zakresem uwzglÍdnionych zmiennych (bounds)
-# 2. Miara odleg≥oúci (euclidean, jaccard, cosine)
-# 3. SposÛb wyznaczania odleg≥oúci pomiÍdzy skupieniami 
+# b. Z zakresem uwzglƒôdnionych zmiennych (bounds)
+# 2. Miara odleg≈Ço≈õci (euclidean, jaccard, cosine)
+# 3. Spos√≥b wyznaczania odleg≈Ço≈õci pomiƒôdzy skupieniami 
 #    (single, complete, ward.D2)
 
 par(mai = c(1,2,1,1))
@@ -439,7 +433,7 @@ for (i in 1:nDocumentsClust) {
 }
 corrplot(clustersMatrix3)
 
-# PorÛwnanie wynikÛw eksperymentÛw
+# Por√≥wnanie wynik√≥w eksperyment√≥w
 Bk_plot(
     expDendrogram2,
     expDendrogram3,
@@ -486,7 +480,7 @@ lda <- LDA(
 )
 resultsLDA <- posterior(lda)
 
-# Prezentacja tematÛw
+# Prezentacja temat√≥w
 par(mai = c(1,2,1,1))
 coloursLDA <- c("violet","orange","turquoise","darkseagreen")
 topic1 <- head(sort(resultsLDA$terms[1,],decreasing = TRUE),20)
@@ -495,7 +489,7 @@ barplot(
     horiz = TRUE,
     las = 1, 
     main = "Temat 1",
-    xlab = "PrawdopodobieÒstwo",
+    xlab = "Prawdopodobie≈Ñstwo",
     col = coloursLDA[1]
 )
 topic2 <- head(sort(resultsLDA$terms[2,],decreasing = TRUE),20)
@@ -504,7 +498,7 @@ barplot(
     horiz = TRUE,
     las = 1, 
     main = "Temat 2",
-    xlab = "PrawdopodobieÒstwo",
+    xlab = "Prawdopodobie≈Ñstwo",
     col = coloursLDA[2]
 )
 topic3 <- head(sort(resultsLDA$terms[3,],decreasing = TRUE),20)
@@ -513,7 +507,7 @@ barplot(
     horiz = TRUE,
     las = 1, 
     main = "Temat 3",
-    xlab = "PrawdopodobieÒstwo",
+    xlab = "Prawdopodobie≈Ñstwo",
     col = coloursLDA[3]
 )
 topic4 <- head(sort(resultsLDA$terms[4,],decreasing = TRUE),20)
@@ -522,18 +516,18 @@ barplot(
     horiz = TRUE,
     las = 1, 
     main = "Temat 4",
-    xlab = "PrawdopodobieÒstwo",
+    xlab = "Prawdopodobie≈Ñstwo",
     col = coloursLDA[4]
 )
 
-# Prezentacja dokumentÛw
+# Prezentacja dokument√≥w
 document1 <- resultsLDA$topics[1,]
 barplot(
     document1,
     horiz = TRUE,
     las = 1, 
     main = rownames(resultsLDA$topics)[1],
-    xlab = "PrawdopodobieÒstwo",
+    xlab = "Prawdopodobie≈Ñstwo",
     col = coloursLDA
     #col = coloursLDA[which.max(resultsLDA$topics[1,])]
 )
@@ -543,7 +537,7 @@ barplot(
     horiz = TRUE,
     las = 1, 
     main = rownames(resultsLDA$topics)[4],
-    xlab = "PrawdopodobieÒstwo",
+    xlab = "Prawdopodobie≈Ñstwo",
     col = coloursLDA
     #col = coloursLDA[which.max(resultsLDA$topics[4,])]
 )
@@ -553,7 +547,7 @@ barplot(
     horiz = TRUE,
     las = 1, 
     main = rownames(resultsLDA$topics)[11],
-    xlab = "PrawdopodobieÒstwo",
+    xlab = "Prawdopodobie≈Ñstwo",
     col = coloursLDA
     #col = coloursLDA[which.max(resultsLDA$topics[11,])]
 )
@@ -563,12 +557,12 @@ barplot(
     horiz = TRUE,
     las = 1, 
     main = rownames(resultsLDA$topics)[17],
-    xlab = "PrawdopodobieÒstwo",
+    xlab = "Prawdopodobie≈Ñstwo",
     col = coloursLDA
     #col = coloursLDA[which.max(resultsLDA$topics[17,])]
 )
 
-# Udzia≥ tematÛw w s≥owach
+# Udzia≈Ç temat√≥w w s≈Çowach
 options(scipen = 5)
 words1 <- c("pandemia")
 round(resultsLDA$terms[,words1],4)
@@ -580,23 +574,23 @@ words3 <- c("zdrowie")
 round(resultsLDA$terms[,words3],4)
 
 
-# Analiza s≥Ûw kluczowych (podpunkt G) ----------------------------------------------------------
+# Analiza s??w kluczowych (podpunkt G) ----------------------------------------------------------
 
 #-- Dla pierwszego dokumentu --#
-#-- Waga tf jako miara waønoúci s≥Ûw --#
+#-- Waga tf jako miara wa≈ºno≈õci s≈Ç√≥w --#
 keywordsTf1 <- head(sort(dtmTfBoundsMatrix[1,],decreasing = TRUE))
 keywordsTf1
 
-# -- Waga tfidf jako miara waønoúci s≥Ûw --#
+# -- Waga tfidf jako miara wa≈ºno≈õci s≈Ç√≥w --#
 keywordsTfIdf1 <- head(sort(dtmTfIdfBoundsMatrix[1,],decreasing = TRUE))
 keywordsTfIdf1
 
-#-- PrawdopodobieÒstwo w modelu LDA jako miara waønoúci s≥Ûw --##
+#-- Prawdopodobie≈Ñstwo w modelu LDA jako miara wa≈ºno≈õci s≈Ç√≥w --##
 termsImportance1 <- c(resultsLDA$topics[1,]%*%resultsLDA$terms)
 names(termsImportance1) <- colnames(resultsLDA$terms)
 keywordsLda1 <- head(sort(termsImportance1,decreasing = TRUE))
 keywordsLda1
 
-#-- Chmura tagÛw --##
+#-- Chmura tag√≥w --##
 par(mai = c(0,0,0,0))
 wordcloud(corpusPP[2], max.words = 200, colors = brewer.pal(8,"PuOr"))
