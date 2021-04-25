@@ -1,0 +1,591 @@
+1. Wstęp
+Problem komunikacji stanowi aktualnie jedno z największych wyzwań, z jakimi
+zmagają się od kilku lat szefowie działów IT. Świadczą o tym badania przeprowadzone przez firmę konsultingową Deloitte [Deloitte 2013]. Z tego względu coraz
+więcej czasu poświęca się przedsięwzięciom mającym na celu doprowadzenie do
+stanu, w którym problemy z komunikacją na linii IT–biznes będą znacznie ograniczone. Osiągnięcie takiego stanu jest możliwe tylko wtedy, gdy organizacja będzie
+identyfikować problemy w komunikacji oraz opracowywać metody, techniki i narzędzia do przeciwdziałania im1
+.
+Celem artykułu jest przedstawienie metod i narzędzi rozwiązywania problemów,
+jakie zidentyfikowano w komunikacji na styku relacji IT–biznes. W drugim punkcie tekstu zdefiniowano pojęcia „metoda”, „narzędzie” i „technika”, w trzecim zaś
+wskazano problemy występujące w komunikacji IT−biznes, do czego wykorzystano
+diagram przyczyn i skutków2
+. Zastosowanie tego narzędzia pozwoliło zobrazować
+przyczyny występowania badanego zjawiska. Diagram ten stał się podstawą analizy występowania problemów z komunikacją oraz poszukiwania metod, narzędzi
+i technik służących do ich rozwiązywania. Wyniki analizy przedstawiono w punkcie
+czwartym artykułu.
+Niniejszy tekst jest kontynuacją problematyki poruszanej wcześniej przez autorki w opracowaniu Identyfikacja problemów komunikacji w relacji IT–biznes w projektach informatycznych. Spojrzenie z perspektywy uczestnika procesu wytwórczego
+opublikowanym w Informatyce Ekonomicznej nr 2(40)2016.
+2. Definicje metod i narzędzi
+W celu zachowania porządku niniejszej publikacji należały przytoczyć definicje takich pojęć, jak „metoda” i „narzędzie” – zob. tab. 1.
+Warto również odwołać się do pojęcia, które jest ściśle związane z tymi omówionymi w tab. 1. Technika, bo o niej mowa, stanowi część składową metod lub narzędzi. Jest to przyjęty tok postępowania (procedura, receptura) dotyczący konkretnej
+części problemu. Technika jest świadomie i konsekwentnie przestrzegana, bo tylko
+wtedy pozwala osiągnąć zamierzone cele cząstkowe [Mazur, Gołaś 2010, s. 105].
+Metoda stosowana jest do określonego etapu w procesie wytwórczym. Narzędzia i techniki wykorzystywane są w całym cyklu wytwarzania. Tym, co je łączy,
+jest występujące między nimi sprzężenie [Chomiak-Orsa, Kołtonowska 2016]. Dane
+przetwarzane są przez narzędzia, a informacje z nich otrzymane są podstawą stosowania określonych metod, procedur postępowania.
+1
+ W myśl szóstej zasady zarządzania jakością decyzje powinny być podejmowane na podstawie
+danych opisujących fakty z przeszłości i teraźniejszości [Hamrol, Mantura 2005]. 2
+ Zwany również diagramem Ishikawy, diagramem rybiego szkieletu [Smith 2004].
+30 Iwona Chomiak-Orsa, Alicja Kołtonowska
+Tabela 1. Definicje pojęć
+Pojęcia Autorzy Definicja
+Metoda Adam Hamrol,
+Władysław Mantura
+Jest to oddziaływanie „średnioterminowe” wpływające
+na jakość projektową i wykonanie. Bazuje na ogólnie
+przyjętych procedurach postępowania [Hamrol, Mantura
+2002].
+Radosław Wolniak,
+Bożena Skotnicka
+Metoda charakteryzuje się planowanym, powtarzalnym,
+potwierdzonym naukowo sposobem postępowania
+[Wolniak, Skotnicka 2007].
+Anna Mazur,
+Hanna Gołaś
+Jest to norma postępowania uznana przez jakąś osobę za
+obowiązującą [Mazur, Gołaś 2010, s. 105].
+Narzędzie Adam Hamrol,
+Władysław Mantura
+Jest to sposób oddziaływania „krótkoterminowego”. Wyniki
+stosowania określonego narzędzia są widoczne natychmiast.
+Narzędzia powinny być używane razem z metodami. Tylko
+wtedy przynoszą zamierzony efekt [Hamrol, Mantura
+2002].
+Radosław Wolniak,
+Bożena Skotnicka
+Wykorzystywane jest do zbierania i przetwarzania
+danych. Zwykle służy do monitorowania całego cyklu
+produkcyjnegoa [Wolniak, Skotnicka 2007].
+Józef Frąś,
+Marian Gołębiowski,
+Anna Bielawa
+Służy do gromadzenia i przetwarzania danych oraz do
+nadzorowania i diagnozowania procesów projektowania
+[Frąś, Gołębiowski, Bielawa 2006].
+a W niniejszej pracy cyklem produkcyjnym jest proces wytwarzania oprogramowania.
+Źródło: opracowanie własne.
+Wprowadzenie metod, narzędzi i technik do organizacji, które mają na celu poprawę jakości i efektywności procesu wytwórczego oprogramowania, często trafia
+na opór i brak zrozumienia niektórych uczestników tego procesu. Z punktu widzenia pracowników jest to kolejna forma przyczyniająca się do zwiększenia formalizacji w procesie, zamiast do optymalizacji czasu dostarczania produktów. W związku
+z tym, aby skutecznie wykorzystywać te instrumenty, niezbędne jest zrozumienie potrzeby ich stosowania oraz pełne zaangażowanie i wsparcie ze strony menedżerów.
+3. Procedura badawcza
+W artykule przyjęto, że wyznacznikiem istnienia problemów związanych z komunikacją w projektach informatycznych są problemy, jakie zidentyfikowały i opisały
+autorki niniejszej publikacji w artykule Identyfikacja problemów komunikacji w relacji IT–biznes w projektach informatycznych. Spojrzenie z perspektywy uczestnika
+procesu wytwórczego. W artykule tym zaprezentowano szczegółowo przyczyny występowania problemu, jednak nie wskazano sposobów jego rozwiązania, co skłoniło
+autorki do podjęcia tej próby w niniejszej publikacji. Aby osiągnąć cel, wykonano
+takie zadania, jak:
+Metody i narzędzia rozwiązywania problemów komunikacji w relacji IT−biznes... 31
+1. Budowa diagramu Ishikawy na podstawie wyników uzyskanych w prowadzonych w badaniach roku 20163
+:
+a) określenie przedmiotu analizy (głowa ryby),
+b) zestawienie czynników opisujących problem (główne kategorie),
+c) zestawienie problemów i przyczyn,
+d) rozdzielenie czynników przyczynowych i skutkowych (ości).
+2. Analiza poszczególnych przyczyn i wskazanie rozwiązania danego problemu
+z wykorzystaniem własnych doświadczeń i literatury4
+.
+Rys. 1. Uproszczony schemat postępowania badawczego
+Źródło: opracowanie własne.
+Uproszczony schemat przyjętego postępowania badawczego przedstawia diagram na rys. 1.
+4. Identyfikacja problemów komunikacji na linii IT–biznes
+Autorki niniejszej publikacji poświęciły wiele czasu, aby zidentyfikować problemy,
+jakie w komunikacji widzi biznes i IT. Wyniki analizy przedstawiono na diagramie
+Ishikawy (rys. 2, 3)5
+, którego istotą jest wskazanie przyczyn i zależności wywołujących dany problem [Wawak 2011]. Diagram ten ma kształt rybiej ości. Głowa reprezentuje analizowany problem, kręgosłup skupia rozłożone promieniście przyczyny,
+które obrazowane są za pomocą ości [Gajewski 2007].
+Główne przyczyny problemów w komunikacji na linii IT–biznes dostrzegane
+przez dwie strony tej relacji można zaklasyfikować do trzech grup, takich jak: metoda, człowiek i zarządzanie6
+.
+3
+ Zbadano około 20 projektów w różnych instytucjach finansowych, w które było zaangażowanych
+średnio 100 osób ze środowiska biznesu i IT (w każdy z nich). Więcej na ten temat we wcześniejszej
+publikacji autorek: Identyfikacja problemów komunikacji w relacji IT–biznes w projektach informatycznych. Spojrzenie z perspektywy uczestnika procesu wytwórczego. 4
+ Analizę prowadzono od grudnia 2016 r. do lutego 2017 r.
+5
+ Kaoru Ishikawa, profesor Uniwersytetu w Tokio, w roku 1962 opublikował założenia do swojego
+wykresu, zwanego diagramem Ishikawy, diagramem rybiej ości, diagramem przyczynowo-skutkowym. 6
+ Oprócz tych kategorii analizowano również maszyny, narzędzia i materiały. 
+32 Iwona Chomiak-Orsa, Alicja Kołtonowska
+Z perspektywy biznesu na nieefektywną komunikację wpływają (rys. 2):
+• stosowane przez IT metody, takie jak dostarczanie szkiców ekranów zamiast ich
+prototypów czy też wytwarzanie dokumentacji technicznej niezrozumiałej dla
+biznesowych odbiorców,
+• ludzie z branży IT, którzy nie myślą kategoriami biznesu, nie mają wiedzy procesowej,
+• stosowane procedury zarządcze, przyczyniające się do braku aktualnej dokumentacji projektowej w jednym miejscu.
+Metoda
+Człowiek
+Zarządzanie
+IT nie myśli biznesowo
+Nie zwracanie uwagi
+na rozwiązanie
+w całości
+Brak znajomości pojęć
+dziedzinowych
+Prototyp
+Szkic zamiast prototypu
+Dokumentacja techniczna
+Specyfikacja komunikatów
+technicznych
+Notacje
+Brak wiedzy procesowej
+Implementacja
+funkcjonalności w oderwaniu
+od procesu
+Aktualna dokumentacja projektowa
+Różne miejsca składowania
+dokumentacji
+Nieefektywna
+komunikacja IT –
+biznes
+(perspektywa biznesu)
+Rys. 2. Komunikacja na linii IT–biznes – punkt widzenia przedstawicieli środowiska biznesu
+Źródło: opracowanie własne.
+Z punktu widzenia przedstawicieli środowiska IT na nieefektywną komunikację
+wpływają (rys. 3):
+• stosowane metody, np. specyfikacja wymagań biznesowych na poziomie zbyt
+ogólnym, który nie pozwala w pełni zrozumieć projektowanej zmiany, opisywanie procesów biznesowych bez wykorzystania diagramów,
+Metody i narzędzia rozwiązywania problemów komunikacji w relacji IT−biznes... 33
+Metoda
+Człowiek
+Zarządzanie
+Biznes nie wie czego chce
+Brak określonych
+sposobów realizacji celów
+z fazy strategicznej
+Brak określonych
+korzyści finansowych
+Brak
+konkretnych
+wymagań
+Zbyt ogólny poziom
+wymagań
+Brak znajomości notacji UML, BPMN
+Brak szkoleń z notacji
+Brak wiedzy informatycznej
+Brak szkoleń z zakresu
+wytwarzania oprogramowania
+Duża liczba chanege request
+Brak zaangażowania we
+wcześniejsze fazy wytwarzania
+Nieefektywna
+komunikacja IT–
+biznes
+(perspektywa IT)
+Rys. 3. Komunikacja na linii IT–biznes – perspektywa reprezentantów środowiska IT
+Źródło: opracowanie własne.
+• ludzie z biznesu, którzy nie wiedzą dokładnie, jaki ma być efekt danego przedsięwzięcia, nie mają wiedzy informatycznej,
+• procesy zarządzania wynikające z braku zaangażowania reprezentantów biznesu
+we wcześniejsze fazy przedsięwzięcia informatycznego.
+5. Propozycje rozwiązań zidentyfikowanych
+problemów komunikacji
+Identyfikacja problemów i przyczyn ich powstawania przyczyniła się do poszukiwania metod, narzędzi i technik przeciwdziałania ich występowaniu. Propozycje rozwiązań poszczególnych problemów przedstawiono w tab. 2 i 4. 
+34 Iwona Chomiak-Orsa, Alicja Kołtonowska
+Tabela 2. Propozycje rozwiązania problemów zgłoszonych przez przedstawicieli świata biznesu
+Problem Komentarz Propozycja rozwiązania
+1 2 3
+IT nie myśli
+biznesowo
+Myślenie biznesowe to
+posługiwanie się nazwami
+ze słownika biznesu
+w odniesieniu do dziedziny
+biznesowej w zakresie,
+na jaki pozwalają reguły,
+które rządzą tymi nazwami
+[Bartyzel 2015].
+Celem nadrzędnym w projekcie jest stworzenie
+wspólnego słownika pojęć dla danej dziedziny
+biznesoweja
+. Słownik ten powinien:
+• zostać umieszczony na wspólnej platformie
+dostępnej dla całej organizacji,
+• mieć wskazaną osobę odpowiedzialną za
+wprowadzanie i aktualizację pojęć,
+• powinien zawierać określoną strukturę (tab. 3)b
+.
+Brak wiedzy
+procesowej
+Wiedza procesowa to
+wiedza o procesach
+funkcjonujących
+w organizacji w ramach
+danej domeny biznesowej
+Należy znać procesy biznesowec
+. To z procesu
+wnioskuje się, która czynność ma być wspierana
+systemowo.
+Należy zrozumieć, jak przedstawiciele biznesu
+myślą i jak wykonują swoją pracę. W tym celu
+pomocne będzie:
+• wysłanie analityka do pracowników ze sfery
+biznesu operacyjnego, by mógł przyjrzeć się
+pracy ludzi, dla których będzie realizował
+projekt,
+• tworzenie diagramów procesów podczas
+warsztatów wspólnych z przedstawicielami
+biznesu; na tych diagramach od razu warto
+wskazać kroki które mają zostać wsparte
+systemowo, np. przez wyróżnienie ich innym
+kolorem.
+Pozwoli to uzyskać pewność, że oczekiwania
+reprezentantów sfery biznesu zostaną spełnione.
+Prototyp Szkic zawiera płaski obraz
+informacji. Na szkicach
+widać to, co powinien
+zawierać ekran – zakres
+informacyjny i nazwy
+funkcjonalności.
+Przedstawienie zależności
+wymaga dodatkowej
+wizualizacji. W przypadku
+prototypów zależności
+pokazuje się na tym samym
+ekranie (rys. 4).
+Należy tworzyć interaktywne prototypy ekranów,
+tzw. makiety. Czas, który poświęca się na
+przerysowywanie szkiców do narzędzi, należy
+przeznaczyć na przygotowanie prototypów
+z użytkownikami końcowymi. Dzięki temu
+zaprojektowane zostanie rozwiązanie, w którym
+uzyska się:
+• łatwą nawigację po ekranach,
+• właściwe rozmieszczenie modułów
+funkcjonalnych,
+• użycie odpowiednich elementów graficznych.
+Reprezentanci środowiska biznesowego
+i programiści nie będą musieli sobie wyobrażać,
+jak będzie wyglądał obraz formularza po zmianach
+− będą mieć rzeczywisty tego obraz. Dodatkowo
+będą mogli od razu zgłaszać uwagi. Pozwoli to
+uniknąć wielu błędów, które się pojawiają podczas
+fazy testów (User Acceptance Tests)
+d
+. 
+Metody i narzędzia rozwiązywania problemów komunikacji w relacji IT−biznes... 35
+1 2 3
+Aktualna
+dokumentacja
+projektowa
+Dokumentacja projektowa
+to narzędzie pośredniej
+komunikacji na styku
+IT−biznes.
+Należy stworzyć jedno miejsce do zarządzania
+dokumentami i komunikacją. Doskonałym
+narzędziem może być platforma SharePoint.
+Jest to rozwiązanie służące do przechowywania
+i wersjonowania dokumentów. Dodatkowo można
+ustawić otrzymywanie powiadomień na e-mail,
+kiedy w projekcie pojawia się nowy dokument do
+weryfikacji. Nie wolno dopuszczać do sytuacji,
+gdy pracownicy działu IT i przedstawiciele biznesu
+bazują na tych samych dokumentach, lecz na
+innych wersjach. Jest to szczególnie ważne podczas
+pracy w zespołach projektowych, w których część
+dostawców pochodzi z zewnątrz organizacji.
+Dokumentacja
+techniczna
+Głównym dokumentem
+projektowym dla biznesu
+jest dokument HLD (High
+Level Design)
+Należy oddzielić część, która podlega akceptacji
+biznesu, od części technicznej. Mówiąc „część
+techniczna”, należy mieć na uwadze odwołania
+do struktur baz danych czy też specyfikację
+komunikatów między systemami. Można
+zastosować dwa rozwiązania:
+• podzielić dokument na dwie części: część
+przeznaczoną do akceptacji biznesu i IT, część
+przeznaczoną tylko do akceptacji działu IT,
+• wysyłając dokument do akceptacji
+reprezentantów sfery biznesu, należy wprost
+wskazać te punkty, które mają duże znaczenie.
+a Określone pojęcie biznesowe stosowane jest w jakimś konkretnym kontekście, rozumianym jako
+obszar dziedziny biznesowej, w której każde pojęcie ma dokładnie jedno znaczenie [Evans 2003]; b
+ Ważne jest wskazanie właściciela biznesowego danego pojęcia wraz z nazwą jednostki, w której pracuje. Osoba ta będzie informowana o wszelkich zmianach wprowadzanych przez inne osoby w definicji pojęcia. Osoba ta będzie akceptować to pojęcie biznesowe; c
+ Proces biznesowy jest sekwencją
+czynności, które należy wykonać, aby uzyskać określony cel biznesowy. Czynności te mogą przedstawiać działania systemu, interakcje użytkownika lub czynności manualne. Czynności manualne nie
+są wspierane przez system informatyczny. Przykładem czynności manualnej jest wysłanie paczki do
+partnera biznesowego [Weske 2012]; d
+ W sieci można znaleźć wiele darmowych narzędzi do tworzenia
+makiet. Dodatkową zaletą jest to, że część tych rozwiązań pozwala na pracę w zespole i wzajemne
+komentowanie prac. Więcej na: http://blog.strefakursow.pl/przydatne-narzedzia-do-tworzenia-makietstron-internetowych-i-aplikacji.html.
+Źródło: opracowanie własne.
+36 Iwona Chomiak-Orsa, Alicja Kołtonowska
+Tabela 3. Struktura słownika pojęć biznesowych – przykład
+Nazwa Opis Reguły Kontekst Właściciel
+biznesowy
+Jednostka
+organizacyjna
+Rachunek
+bieżący
+Rodzaj rachunku
+bankowego
+przeznaczonego
+do gromadzenia
+środków
+pieniężnych oraz
+przeprowadzania
+rozliczeń
+pieniężnych
+Ma unikatowy
+numer
+Na rachunku
+bieżącym
+mogą być
+prowadzone
+wpłaty
+i wypłaty
+Sprzedaż Jan Kowalski Dział
+Sprzedaży
+Produktów
+Bankowych
+Źródło: opracowanie własne.
+Rys. 4. Różnica między szkicem a prototypem
+Źródło: opracowanie własne.
+Tabela 4. Propozycje rozwiązania problemów zgłoszonych przez reprezentantów branży IT
+Problem Komentarz Propozycja rozwiązania problemu
+1 2 3
+Biznes nie wie,
+czego chce
+Przedstawiciele
+biznesu widzą,
+czego chcą,
+ponieważ są
+specjalistami
+w swojej dziedzinie.
+Wiedzą, że chcą
+rozwiązać jakiś
+Reprezentanci biznesu odpowiadają na pytanie,
+dlaczego i po co chcą wprowadzić daną zmianę.
+Pracownicy działu IT odpowiadają na pytanie, jak tę
+zmianę można wprowadzić w określonej architekturze
+systemu. Aby lepiej zrozumieć problem, należy tworzyć
+z przedstawicielami biznesu use case lub user stories.
+Opracowując user stories, należy bazować na personacha
+[Adzic 2014]. Te narzędzia stworzono po to, by poprawić
+Metody i narzędzia rozwiązywania problemów komunikacji w relacji IT−biznes... 37
+1 2 3
+problem, osiągnąć
+dany cel −
+w przeciwnym razie
+nie zgłosiliby się
+do IT. Nie wiedzą
+jedynie, czego
+potrzebują:
+jakich rozwiązań
+technologicznych.
+komunikację między pracownikami branży IT i biznesu.
+Należy nauczyć reprezentantów biznesu korzystać z tych
+narzędzi, by przy kolejnych projektach sami wychodzili
+z inicjatywą do ich tworzenia (rys. 5).
+Brak wiedzy
+informatycznej
+Przedstawiciele
+biznesu to eksperci
+w swojej dziedzinie
+przedmiotowej.
+Nie są ekspertami
+w obszarze
+technologii
+informatycznych.
+To zadanie należy
+do pracowników
+działu IT.
+Należy edukować przedstawicieli sfery biznesu. Należy
+mówić o tym, dlaczego czegoś nie można wykonać
+w aktualnej architekturze. Należy także szacować
+zmiany z ekspertami i przedstawiać wyniki pracownikom
+z branży biznesowej. Powinno się tworzyć alternatywne
+rozwiązania.
+Brak
+konkretnych
+wymagań
+Przedstawiciele sfery
+biznesu nie wiedzą,
+jak szczegółowo
+specyfikować swoje
+wymagania. To
+zadaniem analityka
+(pracownika IT) jest
+spisanie wymagań
+na poziomie
+szczegółowości
+pozwalającym na
+rozpoczęcie prac
+projektowych.
+Wymagania są pomostem między reprezentantami
+branży IT i biznesu, określają zakres realizowanego
+przedsięwzięcia, dlatego proces ich zbierania jest
+najważniejszym etapem w projekcie informatycznym.
+Należy zadawać pytania konkretyzujące:
+→ Z czego się składa…?
+→ Jak poznać, że…?
+→ Jak często występuje…?
+→ Czym się różni od…?
+Pracownicy branży biznesu nie powinni stosować
+określeń: tak samo jak, mało, dużo, efektywny, optymalny,
+bo to nie są konkretne informacje dla przyszłej
+implementacji. W rozmowach z reprezentantami biznesu
+należy parafrazować, czyli starać się podsumowywać to,
+co zostało ustalone, a nie powtarzać użyte sformułowania.
+Powinno się wykorzystywać takie formuły, jak:
+→ Jeśli dobrze zrozumiałem, to …
+Należy rozmawiać z przedstawicielami biznesu
+o priorytetach. Nie powinno się pytać, co jest ważneb
+,
+lecz:
+→ Jakie będą korzyści finansowe wdrożenia danej
+funkcjonalności?
+→ Która z funkcjonalności w twoim procesie będzie
+wykorzystana jako pierwsza?
+Brak znajomości
+notacji UML,
+BPMN
+Umiejętność
+posługiwania się
+notacjami należy
+Powinno się używać prostych elementów notacji.
+Im bardziej skomplikowane diagramy, tym mniejsze
+prawdopodobieństwo ich zrozumienia przez
+38 Iwona Chomiak-Orsa, Alicja Kołtonowska
+1 2 3
+do analityków.
+Nie zwalnia to
+jednak innych osób
+zaangażowanych
+w projekt
+z obowiązku
+znajomości czytania
+diagramów.
+reprezentantów biznesu. Szkice diagramów należy
+tworzyć na warsztatach z przedstawicielami biznesu.
+Diagramy w dokumentacjach powinny zawierać legendę,
+a pracownicy ze sfery biznesu powinni wiedzieć, co
+formalnie oznacza dany element.
+Duża liczba
+change request
+Brak jasno
+określonej wizji,
+która determinuje
+zakres projektu.
+Należy dążyć do tego, by przedstawiciele sfery biznesu
+określili wizję, czyli do tego, by odpowiedzieli na
+pytanie: czym będzie system. Należy pokazać im, jak
+najprościej tworzyć wizję według danego szablonu
+[Bartyzel 2015]:
+System <NAZWA> jest to <PRZEZNACZENIE
+I GŁÓWNA FUNKCJONALNOŚĆ-CI>
+Przykład:
+System eRaportowanie to narzędzie webowe dla
+kierowników działu sprzedaży, które pozwala na
+generowanie i zapisywanie raportów sprzedażowych za
+określony okres dla wybranej grupy produktów.
+Nie powinno się rozpoczynać prac bez jasno określonej
+wizji. Jeśli jej nie ma, jej stworzenie należy zlecić
+PMowi. Wizja jednoznacznie określa funkcje przyszłego
+systemu informatycznego. Pozwala to uniknąć
+w przyszłości tworzenia zbędnych wodotrysków,
+czyli funkcjonalności nieprzynoszących korzyści
+biznesowychc
+. Wizję powinno się
+umieścić w dokumentacji, np. w dokumencie analizy
+systemowej specyfikującej wymagania funkcjonalne.
+Brak wizji powoduje, że ludzie wykonują swoje zadania
+bez celu. Wizja jest po to, by w każdym momencie
+trwania projektu informatycznego można było się do niej
+odwołać i zadać sobie pytanie, o to, czy wykonywane są
+czynności zaplanowane na początku.
+a Persony to profile wymyślonych użytkowników. Taka forma pozwala na wskazanie różnych
+motywacji i sposobów korzystania z systemu poszczególnych użytkowników. Dzięki temu można się
+dowiedzieć, jak system powinien się zachowywać z perspektywy użytkownika; b
+ Dla biznesu każde
+wymaganie jest najważniejsze; c
+ Wodotryski w informatyce to funkcjonalności, które nie przynoszą
+wymiernych korzyści biznesowych. Przykładem może być tworzenie systemu do raportowania, którego jedną z funkcjonalności jest możliwość odtwarzania plików mp3.
+Źródło: opracowanie własne.
+Tabela 4, cd.
+Metody i narzędzia rozwiązywania problemów komunikacji w relacji IT−biznes... 39
+Use case – formalny zapis konwersacji na temat
+działania systemu
+Nazwa: Generuj raport
+Numer: 1
+Twórca: Jan Kowalski – analityk
+Aktor: Kierownik sprzedaży
+Krótki opis: Wygenerowanie raportu
+sprzedażowego za określony
+czas
+Warunki
+wstępne:
+Brak
+Warunki
+końcowe:
+System umożliwia zapisanie
+raportu do pliku CSV
+Główny
+przepływ:
+1. Aktor wybiera opcję
+„Raport”
+2. System wyświetla okno
+do określenia filtru
+3. Aktor określa parametry
+wejściowe i wybiera
+opcję „Generuj”
+4. System wyświetla ekran
+z wynikami
+Alternatywny
+przepływ:
+4a. System wyświetla
+komunikat: brak danych
+dla zadanych parametrów
+wejściowych.
+Alternatywny
+przepływ:
+1. Czas wykonania operacji
+generowania raportu nie
+powinien przekroczyć
+5 sekund
+Uwagi: Brak
+User stories – krótka notatka z konwersacji
+o tym, jak działa system
+ABY kontrolować poziom sprzedaży
+poszczególnych produktów w kwartale,
+JAKO sprzedawca CHCĘ mieć możliwość
+generowania raportu za ustalony okres.
+Kryteria akceptacji:
+ wyszukiwanie po zadanych parametrach
+wejściowych: data: od-do, produkt,
+ wygenerowanie raportu po wybraniu opcji
+„Generuj”,
+ możliwość zapisania wygenerowanego
+raportu do pliku CSV.
+Andrzej Nowak Stanowisko: kierownik
+sprzedaży
+Wiek: 30 lat
+Lokalizacja: Wrocław
+Obsługa komputera:
+dobra
+O sobie
+Mąż i ojciec. Aktywnie spędza wolny czas
+z rodziną
+Po co nowy system
+Planowanie sprzedaży w różnych okresach
+na podstawie historycznych zestawień
+Frustracje w aktualnej pracy
+Roczne zestawienie raportów
+sprzedażowych otrzymywane od zarządu
+Idealne rozwiązanie:
+Generowanie raportów na żądanie za
+określony czas
+i określone produkty
+Rys. 5. Przykład opisywania funkcjonalności z wykorzystaniem use case i user stories
+Źródło: opracowanie własne na podstawie [Wrycza, Marcinkowski, Wyrzykowski 2005; Davies , Sedley 2009].
+6. Zakończenie
+Wskazane przez narzędzia i techniki rozwiązywania problemów w komunikacji
+na styku IT−biznes mogą być stosowane w projektach informatycznych niezależnie od branży, której dotyczą. Żadna ze wskazanych metod, technik czy narzędzi
+nie zadziała, jeśli partner nie będzie chciał współpracować. Z tego względu ważne
+jest nieustanne szukanie kompromisów, wzajemne uczenie się swojej odmienności,
+słuchanie się po to, by sprawniej reagować na aktualne i przyszłe wyzwania [Chomiak-Orsa 2015]. Przeprowadzone badania powinny stanowić podstawę szerszych
+badań z zakresu komunikacji IT−biznes w projektach informatycznych oraz metod,
+narzędzi i technik ograniczających wystąpienie problemów komunikacyjnych. 

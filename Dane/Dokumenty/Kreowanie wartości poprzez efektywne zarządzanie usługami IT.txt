@@ -1,0 +1,151 @@
+Wprowadzenie
+Współczesne przedsiębiorstwa coraz częściej korzystają z koncepcji zarządzania usługami IT, która pozwala na optymalne dopasowanie wartości dostarczanej przez IT do oczekiwań biznesu. Autorzy artykułu starają się przybliżyć tę koncepcję w kontekście wpływu na budowę wartości przedsiębiorstwa.
+
+Migracja wartości IT
+Od produktów IT do usług IT
+Do niedawna wykorzystywanie IT w przedsiębiorstwie wiązało się z zakupami, eksploatacją i rozwojem infrastruktury oraz systemów informatycznych, co od zawsze wywoływało niezrozumienie i niechęć ze strony menedżerów. Świat IT jest na tyle specyficzny, że niewiele osób potrafiło wejść w jego struktury na tyle głęboko, by móc zrozumieć, jak działa technologia i jaki jest jej wpływ na przedsiębiorstwo. Firmy inwestowały bardzo dużo w IT, licząc na uzyskanie przewagi nad konkurencją bądź odwrotnie, ograniczały wydatki na technologie informacyjne, aby konkurować kosztowo. Wykazanie bezpośredniego wpływu poszczególnych inwestycji w obszarze IT na wsparcie funkcjonowania określonych obszarów przedsiębiorstwa często było bardzo trudne, co stanowiło argument, aby kwestionować wartość dostarczaną przez IT.
+
+Dziś coraz częściej mówimy o usługach IT, dzięki którym biznes nie ponosi odpowiedzialności i ryzyka związanego z poszczególnymi komponentami teleinformatycznymi. Zamiast kupować oprogramowanie i elementy infrastruktury, które często są niezrozumiałe dla menedżerów, biznes korzysta z usług swoich wewnętrznych działów IT lub firm zewnętrznych. Celem świadczenia usługi tego typu nie jest dostarczanie sprzętu i oprogramowania, lecz zapewnianie osiągnięcia określonych efektów biznesowych (np. ocena zdolności kredytowej klienta w określonym czasie). Usługa ma również swój określony koszt, co powoduje, że możliwe jest takie kształtowanie jej zakresu i jakości, aby ten koszt był uzasadniony biznesowo. Dodatkowo przejrzystość kosztów usług IT umożliwia dokonywanie porównań kosztowych do rynku (benchmarking). Przyjęcie koncepcji usług IT pozwala zatem lepiej zademonstrować wartość dostarczaną przez IT, jak również dopasować tę wartość do określonych potrzeb jednostek biznesowych.
+
+Specjalizacja i koordynacja
+Celem zarządzania usługami IT jest dostarczanie klientom wewnętrznym (jednostkom biznesowym) odpowiednio dopasowanych, wyspecjalizowanych zdolności1 i zasobów2 IT w formie jednoznacznie zdefiniowanych usług, na akceptowalnym poziomie jakości, kosztów i ryzyka. Istotną wartością dla klientów, wynikającą z takiego sposobu wykorzystywania wyspecjalizowanych zasobów i zdolności IT, jest możliwość uwolnienia się od realizacji zadań niestanowiących elementów podstawowej działalności biznesowej, jak również zorientowanie swojej aktywności na dostarczanie rezultatów biznesowych poprzez wykorzystanie i rozwój własnych, kluczowych dla danego obszaru biznesu, zasobów i zdolności.
+
+Mechanizmy zarządzania usługami zapewniają koordynację pomiędzy pulami wyspecjalizowanych zdolności i zasobów po stronie dostawcy (np. wewnętrznego działu IT) i klienta (np. jednostki biznesowej), minimalizując przy tym ryzyko powstania i stymulacji "zjawiska silosowości". IT wspiera wówczas określone procesy biznesowe, które przechodzą w poprzek silosów organizacyjnych. Szczególnie istotna staje się wówczas rola zdolności IT - bez nich zasoby IT posiadają relatywnie niską wartość dla klienta.
+
+Użyteczność i gwarancja usług IT
+Usługa IT dostarcza wartość biznesowi, gdy jednocześnie zapewnia odpowiednią:
+
+użyteczność - opisującą zakres usługi, jej funkcjonalność (czemu służy?);
+gwarancję - definiującą jakość usługi (w jaki sposób usługa będzie dostarczana?).
+W celu dostarczenia optymalnej wartości dla biznesu, zarówno użyteczność, jak i gwarancja usługi powinny być powiązane z wymaganiami płynącymi z określonych procesów biznesowych, które dana usługa wspiera. Tak jak różny jest zakres i krytyczność poszczególnych działań przedsiębiorstwa, tak różny powinien być zakres i tryb świadczenia usług IT. W celu optymalnego dopasowania usługi do wymagań biznesu analizowane są tzw. schematy aktywności biznesowej, określające obecny i przyszły sposób prowadzenia oraz rozwoju określonego obszaru biznesu.
+
+Rola i odpowiedzialność biznesu i IT
+Przyjęcie koncepcji usługowego zarządzania IT powoduje również rozwiązanie odwiecznego konfliktu kompetencyjnego między biznesem a IT. Dla każdej fazy cyklu życia usługi IT zdefiniowany jest jasny zakres odpowiedzialności menedżerów biznesowych i IT. Dzięki temu biznes koncentruje się na określeniu swoich obecnych i przyszłych wymagań odnośnie usług, a IT skupia się na takim organizowaniu wewnętrznych zasobów i zdolności, aby stale dopasowywać i dostarczać usługi na oczekiwanym poziomie jakości i kosztów.
+
+Dobre praktyki zarządzania usługami IT
+W odpowiedzi na potrzebę stosowania usługowego zarządzania IT zostały opracowane dobre praktyki zarządzania IT, tzw. ITIL (IT Infrastructure Library). Najnowsza, trzecia wersja tego zbioru dobrych praktyk definiuje cykl życia usługi, który to jest kompleksowym i spójnym podejściem do zarządzania usługami IT. Cykl ten obejmuje pięć faz (budowę strategii, projektowanie, przekazanie, eksploatację i ciągłe doskonalenie usług), wzajemne połączenia pomiędzy fazami oraz wpływ zmian w poszczególnych fazach na cały system i jego poszczególne części. Jest to koncepcja organizacyjna zaprojektowana dla dostarczania i utrzymywania oczekiwanych efektów biznesowych. Podejście systemowe zapewnia uczenie się organizacji IT oraz ciągłe doskonalenie usług.
+Strategia usług IT
+Strategia usług dostarcza wskazówki w zakresie budowy, rozwoju oraz implementacji mechanizmów zarządzania usługami IT, nie tylko w kontekście rozwoju zdolności organizacyjnych, niezbędnych dla dostarczania wartości, ale także w kontekście budowy strategicznych aktywów dostawcy tych usług. Etap budowy strategii powinien wymuszać zatrzymanie i skupienie się nad odpowiedzią na pytanie: dlaczego organizacja IT powinna dostarczać określoną wartość, a dopiero później: jak tę wartość dostarczać.
+
+Zagadnienia poruszane na etapie budowy i rozwoju strategii usług IT obejmują analizę przestrzeni rynku usług (w tym segmentację klientów wewnętrznych), rozwój aktywów usług niezbędnych do właściwego ich dostarczania oraz zagadnienia związane z implementacją strategii poprzez pełen cykl życia usług IT. Zarządzanie portfelem usług, budowa struktur organizacyjnych oraz zarządzanie ryzykiem to inne, kluczowe obszary niezbędne dla budowy efektywnej strategii usług IT.
+
+Segmentacja klientów, przestrzeń rynkowa
+Przestrzeń rynkowa określa zestaw możliwości dostawcy usług IT, związanych z dostarczaniem wartości klientom poprzez świadczenie im jednej lub większej liczby usług. Często dość trudne jest określenie, w jaki sposób poszczególne usługi kreują wartość dla klientów, gdyż definiuje się je wyłącznie w kontekście udostępnianych (w ramach usługi) pul zasobów. Poprzez stosowanie tego typu definicji, które nie stopniują wartości poszczególnych zasobów w kontekście rezultatów biznesowych, bardzo trudno jest uzasadnić koszt usługi z perspektywy określonego klienta. Bardzo trudne staje się także dopasowanie i wprowadzenie skutecznych mechanizmów poprawy poziomu usług, gdyż poszczególni, często nieprawidłowo pogrupowani, klienci oceniają efekty tego typu działań wyłącznie w kontekście własnych zasobów, rezultatów biznesowych, efektywności i skuteczności. Odpowiednia segmentacja przestrzeni rynkowej (biorąca pod uwagę powyższe czynniki) oraz odpowiednia granulacja i dopasowanie funkcjonalności i gwarancji poszczególnych usług IT to jedne z najbardziej podstawowych aspektów strategii usług, decydujące o stopniu dopasowania finalnych usług IT do oczekiwań biznesu.
+
+Portfel usług
+Wszelkiego typu decyzje, dotyczące segmentacji rynku pod kątem dopasowania dostarczanej wartości do potrzeb poszczególnych grup klientów, znajdują swoje odzwierciedlenie we wprowadzonym w trzeciej wersji ITIL portfelu usług. Portfel usług to kompletny zestaw usług zarządzanych przez dostawcę, określający te usługi w kontekście dostarczanej przez nie wartości. Jest on wykorzystywany do zarządzania pełnym cyklem życia wszystkich usług i obejmuje ich trzy kategorie: usługi planowane, dostarczane lub gotowe do dostarczenia oraz usługi wycofane. Portfel reprezentuje zobowiązania oraz inwestycje dostawcy w kontekście wszystkich klientów oraz przestrzeni rynkowych. Ze względu na swoją strukturę odzwierciedla on zarówno obecne zobowiązania kontraktowe, jak i planowane inicjatywy rozwojowe oraz programy mające na celu ciągłą poprawę usług.
+
+Portfel usług reprezentuje także wszystkie zasoby, zarówno te zaangażowane obecnie, jak i te planowane do zaangażowania w poszczególnych fazach cyklu życia usługi. Każda faza wymaga odpowiednich zasobów dla realizacji rożnego typu zadań planistycznych, projektowych, wykonawczych, wdrożeniowych, operacyjnych i kontrolnych. Portfel usług powinien charakteryzować się prawidłowo zbilansowanym zestawem usług w fazach planowania, rozwoju i dostarczania. Możliwość zarządzania wykorzystywaniem zasobów i zdolności dostawcy w kontekście poszczególnych rynków usług przez pełen cykl życia usługi to następny, kluczowy aspekt dopasowania wartości dostarczanej przez IT w formie usług.
+
+Finanse usług
+Mechanizmy zarządzania finansami usług IT pozwalają m.in. odpowiedzieć na pytania:
+
+Czy przyjęta strategia usług IT pozwala na osiąganie większych przychodów, zysków, niższych kosztów lub większego wykorzystania usług IT?
+Które usługi generują największe koszty i dlaczego?
+Które i jakiego rodzaju usługi IT są konsumowane oraz jaki budżet jest wymagany dla tych usług?
+Jak efektywny jest stosowany model dostarczania usług IT w porównaniu z dostępnymi rozwiązaniami alternatywnymi?
+Czy przyjęte strategiczne podejście do projektowania usług IT umożliwia dostarczanie usług po konkurencyjnej cenie rynkowej oraz czy zapewnia większe bezpieczeństwo lub dostarcza dodatkową wartość dla biznesu?
+Które aspekty świadczenia usług są najbardziej nieefektywne?
+Na jakich obszarach należy się skupić w pierwszej kolejności, budując strategię ciągłej poprawy usług?
+W związku z tym głównymi zagadnieniami zarządzania finansami usług IT są:
+wycena usług,
+modelowanie popytu,
+zarządzanie portfelem usług,
+optymalizacja sposobów dostawy usług,
+pewność planowania,
+analiza zwrotu z inwestycji,
+ewidencja kosztów usługi,
+zapewnienie zgodności z regulacjami (compliance).
+Wycena usług IT, dzięki zastosowaniu odpowiedniego modelu kosztowego, pozwala na optymalną alokację kosztów do poszczególnych usług IT, a następnie do jednostek biznesowych, zgodnie z zasadami rachunku kosztów działań. Modelowanie popytu pozwala na określenie pełnego kosztu świadczenia usługi i przewidzenie konsekwencji finansowych przyszłego popytu na usługi. Pozwala to klientom na zarządzanie swoimi wymaganiami i na przygotowanie odpowiednich budżetów. W ramach zarządzania portfelem zarządzanie finansami usług dostarcza kluczowych informacji dotyczących struktury kosztów usług IT. Dzięki temu możliwe jest dokonywanie porównań rynkowych i podejmowanie ewentualnych decyzji o zleceniu wybranych usług na zewnątrz (outsourcing), w celu zoptymalizowania sposobu dostawy usług. Kolejnym celem zarządzania finansami usług IT jest zapewnienie większej pewności planowania wydatków na te usługi - zamiast bazować na historycznym wykorzystaniu usług, planowanie popytu na usługi wynika ze strategii przedsiębiorstwa i jej planu wykonawczego. Analiza zwrotu z inwestycji polega na budowaniu uzasadnienia biznesowego dla inwestycji w IT, bazując na specyficznych kosztach IT i oczekiwanych efektach biznesowych. W ramach zapewnienia zgodności z regulacjami zarządzanie finansami usług IT daje możliwość zademonstrowania poprawności stosowanych metod wyceny, amortyzacji, rozpoznawania przychodów, kontroli dostępu i bezpieczeństwa. Pozwala również uzasadnić koszty związane ze stosowaniem standardów, takich jak COBIT czy ISO 20 000.
+
+Strategia sourcingu
+Jak już wspomniano, odpowiednie dopasowanie i koordynacja wyspecjalizowanych zasobów klienta i dostawcy usług to jeden z kluczowych aspektów strategii usług. Zasady i mechanizmy wspierające podejmowanie decyzji o tym, które z zasobów i zdolności powinny być wydzielane do wyspecjalizowanego dostawcy, mają kluczowe znaczenie dla zapewnienia równowagi pomiędzy efektywnością kosztową, jakością dostarczanych usług oraz budowaniem przewagi konkurencyjnej.
+
+Identyfikacja strategicznych zasobów i zdolności w kontekście poszczególnych przestrzeni rynkowych oraz poszczególnych klientów ma tu zasadnicze znaczenie, gdyż w przypadku podjęcia błędnej decyzji może się okazać, iż ze względu na koszty główne aktywa (kreujące wartość dla klientów, stanowiące kluczowe kompetencje IT) zostały przekazane poddostawcom i są przez nich rozwijane, co w niedługim okresie może skutkować utratą udziału w rynku (np. ze względu na zbyt długi czas wprowadzania zmian do systemów informatycznych). Zrozumienie oczekiwań klientów i zarządzanie nimi w kontekście osiąganych przez nich rezultatów biznesowych, powinno pozwolić na skuteczną identyfikację tych zasobów, które są najistotniejsze dla klienta i oddzielenie ich od tych, które (w kontekście rezultatów dla klienta) nie kreują bezpośrednio wartości.
+Projektowanie usług IT
+Celem działań realizowanych w tej fazie jest projektowanie nowych lub zmienionych usług oraz ich wprowadzenie do środowiska produkcyjnego, jak również projektowanie procesów zarządzania usługami w pełnym cyklu ich życia.
+
+Zakres działań w tej fazie nie ogranicza się jedynie do nowych usług. Projektowanie usług obejmuje także zmiany i usprawnienia niezbędne dla zwiększenia lub utrzymania wartości dostarczanej klientom, zapewniające ciągłość i wydajność usług, ich dostępność i bezpieczeństwo oraz zapewniające ich zgodność ze standardami i regulacjami.
+
+Wymagania względem nowych usług są zdefiniowane w portfelu usług, a każde z nich jest analizowane, dokumentowane i uzgodnione. Po zbudowaniu tzw. pakietu projektu usługi (Service Design Package) rozwiązanie jest weryfikowane ze strategią usług, w celu zapewnienia, że jest ono zgodne z korporacyjnymi zasadami oraz politykami.
+
+Pięć aspektów projektowania usług
+Według koncepcji zaproponowanej w ITIL (wersja 3.) istnieje pięć indywidualnych aspektów, które należy uwzględnić na etapie projektowania usług:
+
+projektowanie nowych lub zmienianych usług przy włączeniu wszystkich wymagań funkcjonalnych oraz niezbędnych, uzgodnionych zasobów i zdolności;
+projektowanie systemów i narzędzi do zarządzania usługami (w szczególności do zarządzania portfelem usług), które są niezbędne dla zarządzania i kontroli usług w pełnym cyklu ich życia;
+projektowanie architektury technologii oraz systemów zarządzania, wymaganych dla efektywnej dostawy usług;
+projektowanie procesów wymaganych dla tworzenia, przekazania, eksploatacji oraz doskonalenia usług, architektur oraz samych procesów;
+projektowanie metod i narzędzi do pomiaru oraz miar dla usług, procesów, architektur oraz ich komponentów.
+Podejście zorientowane na rezultaty biznesowe powinno zostać zaadaptowane do każdego z wyżej wymienionych aspektów.
+
+Pakiet projektu usługi
+Jednym z podstawowych rezultatów prac w tej fazie cyklu życia usługi IT jest pakiet projektu usługi, który ma postać dokumentu definiującego wszystkie jej aspekty i wymagania na każdym z etapów cyklu. Tworzy się go dla każdej nowej usługi IT, znaczącej zmiany, czy wycofania usługi IT - jest on podstawą do realizacji prac związanych z budowaniem, testowaniem oraz wprowadzeniem usługi do środowiska produkcyjnego.
+
+Pakiet projektu usługi powinien zawierać między innymi:
+wymagania biznesowe wraz z identyfikacją interesariuszy;
+wymagania funkcjonalne, jakościowe i operacyjne usługi oraz jej topologię;
+ocenę gotowości organizacji do implementacji nowej usługi;
+plan pełnego cyklu życia usługi, określający:
+całościowy program usługi, obejmujący wszystkie etapy jej rozwoju, z podziałem na poszczególne fazy,
+plan budowy i przeniesienia usługi do środowiska produkcyjnego, zawierający polityki i zasady tworzenia poszczególnych jej komponentów, politykę i zasady związane z mechanizmami i metodami testowania,
+politykę i zasady rozmieszczania usług,
+plan oraz kryteria akceptacji usługi.
+Przekazanie usług IT
+Podstawowym celem działań realizowanych w fazie przekazania usług IT jest planowanie i zarządzanie wydajnością i zasobami wymaganymi dla zbudowania, przetestowania i dystrybucji wydań danej usługi oraz uruchamianie usług zgodnie z wymaganiami klientów oraz innych interesariuszy określonych w pakiecie projektu usługi.
+
+Odpowiednia organizacja tych działań kreuje wartość dla biznesu między innymi poprzez poprawę:
+
+zdolności szybkiej adaptacji przedsiębiorstwa do nowych wymagań oraz rozwoju rynku,
+jakości zarządzania transformacją w trakcie połączeń, przejęć oraz transferu usług,
+skuteczności i efektywności wprowadzania zmian i nowych usług z perspektywy klientów,
+zgodności z wymaganiami biznesu, wymaganiami nadzoru, regulacjami i standardami architektonicznymi.
+Organizacja, która odpowiada za zarządzanie usługami, w fazie ich przekazywania powinna dysponować zasobami i zdolnościami zapewniającymi efektywną i skuteczną realizację następujących zadań:
+tworzenia i utrzymywania integralności wszystkich zidentyfikowanych aktywów usługi oraz ich konfiguracji, które ewoluują w fazie przekazania usługi;
+dostarczania odpowiedniej jakości wiedzy i informacji niezbędnych dla podejmowania decyzji w procesach związanych z wprowadzaniem i dystrybucją zmian;
+dostarczania efektywnych i powtarzalnych mechanizmów tworzenia i instalacji, które mogą być wykorzystywane do rozmieszczania wydań usług zarówno w środowisku testowym, jak i w środowisku wykorzystywanym do dostarczania usług IT;
+stosowania mechanizmów zarządzania, eksploatacji i wsparcia usługi, zgodnie z wymaganiami i ograniczeniami zdefiniowanymi w fazie projektowania usługi;
+stosowania spójnej polityki i zasad oceny usługi oraz jej profilu ryzyka zanim nowa lub zmieniana usługa zostanie zbudowana i uruchomiona w środowisku wykorzystywanym do dostarczania usług IT.
+W tej fazie funkcjonują następujące procesy zarządzania usługami:
+planowanie przekazania,
+zarządzanie aktywami usług i konfiguracją,
+zarządzanie wydaniami i rozmieszczaniem,
+zarządzanie zmianą,
+testowanie i ocena.
+Eksploatacja usług IT
+Każdy etap w cyklu życia usługi dostarcza określoną wartość dla biznesu. Dla przykładu: w fazie strategii usług modelowana jest jej wartość, w fazie projektowania budowana jest funkcjonalność i gwarancja usługi, w fazie przekazania usługa jest oceniana i testowana, a w fazie doskonalenia określane są metody i miary niezbędne dla optymalizacji usług.
+Eksploatacja usług jest tą fazą w cyklu życia usługi, w której realizowane są (i mierzone) jej plany, projekty oraz ulepszenia. Zatem dopiero w tej fazie wartość jest faktycznie dostarczana klientowi.
+Celem eksploatacji usług jest koordynacja oraz realizacja zadań i procesów wymaganych dla zarządzania i dostarczania usług użytkownikom biznesowym, zgodnie ze zdefiniowanymi poziomami. Zadania realizowane w tej fazie obejmują także bieżące, rutynowe zarządzanie technologią wykorzystywaną dla dostarczania i wspierania usług IT.
+Procesy realizowane w fazie eksploatacji usług to:
+
+zarządzanie zdarzeniami, gdzie zdarzeniem jest zmiana stanu, która ma znaczenie dla zarządzania komponentem środowiska IT lub usługą IT. Termin "zdarzenie" jest używany również w znaczeniu powiadomienia zainicjowanego przez dowolną usługę IT, dowolny komponent wymagający zarządzania w celu świadczenia usługi IT lub narzędzie monitorujące; zdarzenia zwykle wymagają podjęcia działań przez personel eksploatacji IT, jak również często prowadzą do zarejestrowania incydentu;
+zarządzanie incydentami, gdzie incydentem jest nieplanowane zakłócenie świadczenia usługi IT lub obniżenie jakości tej usługi. Awaria każdego komponentu wymagającego zarządzania w celu świadczenia usługi IT, która nie wpłynęła jeszcze na usługę, jest również incydentem (na przykład awaria jednego dysku z zestawu lustrzanego);
+zarządzanie problemami, gdzie problemem jest przyczyna jednego lub większej liczby incydentów. Przyczyna jest zwykle nieznana w momencie rejestracji problemu, a proces zarządzania problemami odpowiada za dalsze dochodzenie do przyczyn problemu;
+realizacja zapotrzebowań, gdzie zapotrzebowaniem jest prośba użytkownika o udzielenie informacji lub porady, realizację standardowej zmiany lub dostęp do usługi IT;
+zarządzanie uprawnieniami dostępu, czyli proces odpowiadający za przyznawanie użytkownikom możliwości wykorzystywania usług IT, danych lub innych aktywów. Zarządzanie uprawnieniami dostępu pomaga zachować poufność, integralność i dostępność środków poprzez zapewnienie, że tylko uprawnieni użytkownicy mogą mieć dostęp do określonych aktywów i możliwość ich modyfikowania.
+Wymienione procesy obejmują zarówno działania o charakterze reaktywnym, jak i proaktywnym, obsługę codziennych potrzeb użytkowników związanych z realizacją ich zapotrzebowań, jak i realizację rutynowych, niewidocznych dla użytkownika, zadań związanych z monitorowaniem i zarządzaniem środowiskiem IT.
+Ciągłe doskonalenie usług IT
+Ciągłe doskonalenie usług IT to kolejny etap w cyklu życia usługi, w którym realizowane są działania odpowiadające za zarządzanie usprawnieniami usług IT oraz procesami zarządzania tymi usługami.
+Podstawowym celem tych działań jest ciągłe dopasowywanie użyteczności i gwarancji usług IT do zmieniających się potrzeb biznesu poprzez identyfikację oraz implementację usprawnień. W ten sposób efektywność dostawcy usług IT jest mierzona w sposób ciągły i skutkuje udoskonaleniami skuteczności i efektywności procesów we wszystkich fazach cyklu życia usługi oraz coraz większą niezawodnością infrastruktury IT.
+Do organizacji działań w tej fazie zarządzania usługami IT wykorzystany jest czteroetapowy cykl zarządzania procesem, zwany Cyklem Deminga, obejmujący następujące fazy:
+
+zaplanowanie lub zrewidowanie procesów wspierających usługi IT;
+wykonanie i wdrożenie planu oraz zarządzanie procesami;
+sprawdzenie i zmierzenie procesów i usług IT, porównanie z celami i sporządzenie raportów;
+zaplanowanie i wprowadzenie zmian doskonalących procesy.
+Przy formułowaniu oceny poprawy funkcjonowania usług IT przywołuje się zwykle cztery terminy:
+usprawnienia - rezultaty, które (po porównaniu do stanu sprzed wprowadzenia zmiany) określają wzrost wartości pożądanych miar lub zmniejszenie wartości miar niepożądanych;
+korzyści - pozytywne efekty osiągnięte przez realizację usprawnień, zwykle, lecz nie zawsze, mierzone w kategoriach finansowych;
+zwrot inwestycji (ROI - Return on Investment) - miara oczekiwanej korzyści z inwestycji. W najprostszym ujęciu jest to stosunek zysku netto z inwestycji do wartości netto zainwestowanych aktywów;
+dodatkowa wartość z inwestycji (VOI - Value on Investment) - wartość wynikająca ze stworzenia korzyści obejmujących pozafinansowe oraz długoterminowe rezultaty. Przykładem takich rezultatów może być poprawa zdolności do szybkiej odpowiedzi na potrzeby rynku, czy też poprawa relacji z biznesem po implementacji procesu zarządzania zmianą.
+Zadania w fazie ciągłego udoskonalania usług zawsze są realizowane w odniesieniu do wizji, strategii, celów taktycznych i operacyjnych przedsiębiorstwa. Obejmują one siedem głównych kroków:
+zdefiniowanie tego, co powinno być mierzone - w odniesieniu do pytania, gdzie jesteśmy teraz;
+zdefiniowanie tego, co można mierzyć - w odniesieniu do pytania, gdzie chcemy być;
+zgromadzenie danych - w odniesieniu do pytania, czy jesteśmy tam, gdzie założyliśmy;
+przetworzenie danych;
+analizę danych;
+prezentację i wykorzystanie informacji poprzez odpowiednie sformułowanie odpowiedzi na pytanie, czy jesteśmy tam, gdzie założyliśmy;
+implementację działań usprawniających.
+Mechanizmy wykorzystywane do realizacji zadań w fazie ciągłego usprawniania usługi są jednocześnie podstawowymi narzędziami pozwalającymi na realizację zadań w obszarze nadzoru IT (IT Governance).
+Podsumowanie
+W celu uzyskania optymalnej wartości z wykorzystania technologii informacyjnych w przedsiębiorstwie niezbędna jest zmiana paradygmatu zarządzania IT - przejście od dostawy produktów IT do dostarczania wartości biznesowi w formie usług IT. Taka transformacja wiąże się z koniecznością wdrożenia kompleksowych rozwiązań organizacyjnych i zarządczych, zgodnie z opisaną koncepcją zarządzania pełnym cyklem życia usług IT. W efekcie powstaje zupełnie nowa organizacja IT, której zadaniem nie jest dostarczanie technologii, lecz realizacja określonych efektów biznesowych. Przyjęcie powyższej koncepcji pozwala również na właściwe rozłożenie ról i odpowiedzialności biznesu i IT oraz na odpowiednią koordynację tych funkcji w taki sposób, aby każda z nich koncentrowała się na realizacji zadań w ramach swojej specjalizacji. Dzięki temu ograniczane jest ryzyko oraz maksymalizowana jest wartość wynikająca z wykorzystania technologii informacyjnych.

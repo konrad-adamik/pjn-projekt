@@ -1,0 +1,415 @@
+W moim przekonaniu w naukach społecznych poznanie zasadniczo nie polega
+na tym, że pogłębiając wiedzę korygujemy uproszczenia i stopniowo zbliżamy się
+do pojęciowego odzwierciedlenia i opanowania wiedzy o świecie. Polega raczej
+na zaproponowaniu nowego ujęcia, podejścia lepiej wyjaśniającego określone
+regularności świata, który równolegle się zmienia, ewoluuje. Poznanie nie jest
+faktograficznym obrazem świata zewnętrznego ani konstruowaniem jego
+matematycznego wzoru. Poznając świat, posługujemy się symbolami. Co istotne,
+jesteśmy współtwórcami tych symboli, ale nie są one nam po prostu dane czy
+odkryte. Badane przez nas relacje mają obiektywny charakter, ale koncepcje
+teoretyczne, którymi się posługujemy, aby te relacje badać, są subiektywnym
+nadawaniem im określonej formy. Świat społeczny stanowi swoistą jedność, ale
+przez to, że może być i jest różnie interpretowany, stale się zmienia, i to zmienia
+się w sposób, którego nie można z góry przewidzieć ani zaprogramować.
+Tak jak interakcja między funkcjonalnie zróżnicowanymi podsystemami jest
+niezbędna, aby system mógł się adaptować do zmian w swym otoczeniu, a przez
+to rozwijać się i trwać, tak przenikanie się różnych segmentów wiedzy społecznej
+jest niezbędne do jej poszerzania i pogłębiania. To przenikanie się nie musi
+oznaczać przekładalności i ujednolicania perspektyw poznawczych. Nie jest
+procesem prostej kumulacji wiedzy społecznej – jest generowaniem nowej,
+uwspólnionej perspektywy poznawczej, której wytworzenie prowadzi do pojawiania się kolejnych perspektyw, o ile proces interakcji społecznej nie zostanie
+zablokowany.
+Pojęcie obiektywizacji wiedzy można interpretować na dwa sposoby – jako
+procesy: 1) uwspólniania wiedzy społecznej, 2) uprzedmiotowiania wiedzy
+społecznej.
+Ten pierwszy mechanizm polega na tworzeniu wiedzy wspólnej. Dla
+jednych badaczy będzie to wiedza konkretnego podmiotu, który wyłonił się
+jako rezultat uwspólnienia wiedzy, co staje się w następstwie intersubiektywnej
+* Prof. dr hab. Jerzy Hausner – Uniwersytet Ekonomiczny w Krakowie; e-mail: hausnerj@uek.krakow.
+pl 1 Jest to rozszerzona wersja wystąpienia autora z okazji nadania mu tytułu doktora honoris causa
+Szkoły Głównej Handlowej (Hausner 2019b). 
+przekładalności różnych perspektyw poznawczych. Z kolei postmoderniści
+kwestionują taką możliwość. Dla nich obiektywizacja wiedzy społecznej nie
+polega na wyłonieniu się nowego, innego podmiotu, lecz na uzgodnieniu przez
+uczestników dyskursu społecznego wspólnej definicji sytuacji odnoszącej się do
+określonego fragmentu rzeczywistości społecznej. W konsekwencji taka obiektywizacja ma charakter relatywny, fragmentaryczny i temporalny. Nie prowadzi do
+pojawienia się nowego podmiotu, ale do wyłonienia się określonego dyskursywnego pola, które istnieje tak długo, jak długo trwa dyskurs.
+Drugi mechanizm polega na tym, że określony segment wiedzy społecznej
+zostaje utrwalony przez jej praktyczne i celowe zastosowanie w odniesieniu do
+jakiegoś fragmentu rzeczywistości społecznej. Przykładem może być przyjęcie
+programu naprawczego szpitala na podstawie wiedzy zespołu ekspertów. Obiektywizacja wiedzy polega w tym przypadku na tym, że jest ona praktycznie użyta
+w stosunku do określonego przedmiotu, obiektu oddziaływania. Oczywiście, aby
+tak się stało, musi nastąpić uwspólnienie określonego zasobu wiedzy, z tym że to
+uwspólnienie dokonuje się po to, aby można było podjąć z góry założone praktyczne działanie.
+W moim przekonaniu każda z tych możliwości może występować i występuje
+w praktyce. Tym samym nie uważam za przeciwstawne stanowisk, które akcentują znaczenie jednej z nich. Dopuszczam je, ale nie na zasadzie wyłączności.
+Uważam zatem, że wiedza społeczna jest obiektywizowana przez uwspólnianie
+i może to przyjmować różne formy. Mało tego, w istocie uwspólnienie wiedzy
+w jeden z możliwych sposobów może prowadzić w dalszej konsekwencji do jej
+uwspólnienia w inny sposób. To odpowiada mojemu przekonaniu, że wiedza
+społeczna może być wykorzystana na różne sposoby, w zależności od tego, jak
+się rozumie i ujmuje rzeczywistość społeczną, do której wiedza się odnosi.
+Z jednej strony sytuację podmiotu (grupy podmiotów) określają możliwości
+jego działania, a z drugiej strony to, jak podmiot ten (grupa podmiotów) ujmuje
+(postrzega) przedmiot oddziaływania (rzeczywistość społeczną), co kształtuje
+strukturę sytuacji i sposób działania. Określony sposób komunikacji między
+uczestnikami sytuacji (sposób uwspólniania ich wiedzy), jak słusznie twierdzi
+Elinor Ostrom (2012), zmienia kształt sytuacji decyzyjnej. Komunikacja
+społeczna jest nie tylko wymianą informacji, ale też interakcją, z której wynika
+mniej lub bardziej trwała relacja między jej uczestnikami. A to ma wpływ na ich
+tożsamość (podmiotowość). W tym procesie mamy przejście od subiektywności
+do obiektywności i ponownie do (nowej) subiektywności.
+1. Poznanie w ekonomii
+Mark Blyth (2011, s. 84–85) twierdzi, że większość badaczy społecznych, a więc
+także ekonomistów, przyjmuje następujące cztery fundamentalne założenia:
+a) żyjemy w świecie równowagi (statyki), a nie nierównowagi (dynamiki);
+b) przyczynowość w tym świecie jest liniowa; c) zmiana jest przejawem
+168 Jerzy Hausner 
+nieliniowości, co oznacza, że wywołują ją czynniki zewnętrzne; d) a jej rezultatem jest rozkład normalny. Dla tego dominującego w naukach społecznych,
+w tym w ekonomii neoklasycznej, schematu eksplanacyjnego Blyth używa
+akronimu ELEN – equilibrium, linear (causes), exogenous (variables), normally
+(distributed). Przedstawiając ten sposób teoretyzowania, pyta: „a co robić, jeśli
+żyjemy w świecie, który pozostaje w nierównowadze i jest dynamiczny, w którym
+przyczyny są endogeniczne i nieliniowe, a rezultaty nie są zgodne z rozkładem
+normalnym?” (tamże, s. 86).
+Blyth podkreśla, że zwolennicy teorii opartych na założeniach schematu ELEN,
+które sam jednoznacznie kontestuje, dostrzegają zachodzące w świecie głębokie
+zmiany, ale uważają, że są one rzadkie i powodowane zewnętrznymi wydarzeniami.
+Są odchyleniem od stanu normalnego, od średniej, po którym system przyjmuje
+nową równowagę. Dlatego posługują się oni koncepcjami „zależności od ścieżki”
+(path-dependence) oraz „przerywanej równowagi” (punctuated equilibrium). Pierwsza z nich ma wyjaśnić systemową ciągłość, druga – zmianę. Przykładem tego
+sposobu wyjaśniania społecznej zmiany prowadzącej do nowego stanu równowagi
+są konsekwencje II wojny światowej dla globalnego porządku. Blyth uważa, że tego
+rodzaju interpretowanie zmian społecznych przypomina wyjaśnienie zmian
+przyrody spowodowanych wydarzeniem katastrofalnym, jak np. wyginięcie
+dinozaurów spowodowanye uderzeniem meteorytu w Ziemię (2011, s. 85–86).
+Przenosząc to krytykowane przez Blytha podejście na grunt analityki, można
+uznać, że zadaniem ekonomisty jest uchwycenie dla badanych zjawisk stanu
+normalnego, który można analitycznie rozpoznać poprzez ustalenie wielkości
+średnich i odchyleń standardowych. Słabość takiego podejścia podkreśla m.in.
+Frans Willekens (2018, s. 46). Stwierdził on, że wyjaśnianie w ten sposób zjawisk
+demograficznych jest zawodne i dlatego w demografii wskazane jest zastąpienie
+podejścia typologicznego szerszym podejściem, które określił jako population
+thinking, a którego zasadą jest wyjaśnianie zjawisk demograficznych nie przez
+wielkości średnie dla danej populacji, lecz przez uchwycenie różnic między
+jednostkami i rozpoznanie wynikającej z tego ewolucji.
+Blyth uważa, że faktycznie badacz społeczny ma do czynienia z trzema
+różnymi światami (2011, s. 90–91): a) znanym światem obserwowalnych zjawisk
+(generators) i mierzalnego prawdopodobieństwa; b) światem rozkładów gruboogonowych („fat-tailed” distribution), w którym przeważa niepewność, a nie
+ryzyko; c) światem, w którym zakładamy jakąś formę „normalności”, chociaż
+dominuje w nim niepewność.
+Tylko w pierwszym z wyróżnionych przez Blytha światów spełnione są
+założenia modelu ELEN. To świat równowagi, ciągłości i wysokiego prawdopodobieństwa. Świat drugi, w którym zasadniczo żyjemy i badacze społeczni
+mają z nim faktycznie do czynienia, to świat nieergodyczny, z charakteryzującą
+go niestabilną przyczynowością – w wyniku zachodzących w nim zmian
+strukturalnych. W takim świecie dowolna liczba obserwacji nie przybliży nas
+do „prawdziwej” wartości badanej zmiennej (wielkości średniej i oczekiwanego
+odchylenia), ponieważ taka wartość nie istnieje (Taleb i Pilpel 2003, s. 14).
+Ekonomia i społeczne imaginarium 169 
+W tym kontekście Blyth stawia kolejne kluczowe pytanie: w rozumieniu
+którego z tych trzech światów mogą nam pomóc nauki społeczne? W czym mogą
+nam one pomóc, jeśli niepewność, złożoność i nieliniowość uznamy za typowe
+warunki ludzkiego działania? Jego własna odpowiedź na to pytanie jest
+następująca: podstawowe znaczenie mają idee, które powinny być w centrum
+naszego badawczego instrumentarium. I podkreśla, że idee mogą być postrzegane jako uzupełnienie przyjętych ram poznawczych (frameworks). Wypełniają
+one rolę podstawowych mediów, służących aktorom do interpretacji świata
+i formowania jego stabilności (Blyth 2011, s. 94 i 96).
+Dla mnie świat jest jeden, ale możliwe są trzy różne sposoby jego
+pojmowania (obiekt, system, modalność) i związane z nimi rodzaje oddziaływania, co wiąże się także z występowaniem różnego typu ról czy aktorów: obserwatora, uczestnika, obserwatora-uczestnika. W ślad za tym generowane są różne
+rodzaje wiedzy, które są stosowane w odmiennym trybie i przez różnych aktorów
+życia społecznego.
+Zgadzam się z Blythem w tym, że idee pozwalają uspójniać świat społeczny,
+w jakimś stopniu – pomimo kontyngentności – go „unormalniać” i stabilizować
+(utrzymywać w stabilnej nierównowadze), a także umożliwiać zarządzanie jego
+fragmentami. Problem widzę w tym, że Blyth nie określa, jak te idee się wyłaniają i jak oddziałują. Sygnalizuje co prawda, że instytucje są zaludnione
+(populated) przez uczące się podmioty, które wykazują się refleksyjnością i celowo kształtują swoje otoczenie (Blyth 2011, s. 97). Jest to dla mnie jednak dalece
+niewystarczające. Brakującym elementem jest tu międzypodmiotowy dyskurs,
+myślenie modalne i społeczne imaginarium.
+Społeczne imaginarium jest pochodną dyskursu, interpretacji i wyobraźni.
+Jego wykreowanie wymaga wielu różnych aktorów. Ciekawe jest spojrzenie na to
+wybitnego niemieckiego filologa Hansa Gumbrechta (2003, s. 5–6): „praktyka
+filologiczna generuje pragnienie obecności, pragnienie fizycznego i przestrzenTabela 1
+Tworzenie i rodzaje wiedzy społecznej
+Ujęcie
+rzeczywistości
+Rola poznającego
+podmiotu Wiedza Polityka (tryb) Proces zmiany
+społecznej
+Obiekt Obserwator Analityczna Administrowanie Oscylacja
+System Uczestnik Strukturalna Współzarządzanie Strukturalne
+dopasowanie
+Modalność Uczestnik-
+-obserwator Modalna Współrządzenie Ewolucja
+Źródło: opracowanie własne.
+170 Jerzy Hausner 
+nego odniesienia do rzeczy innego świata (włączając w to konkretne teksty),
+i takie pragnienie obecności jest w istocie podstawą, na której filologia może
+wywoływać efekt dotykalności (a czasem nawet wytwarzać ją rzeczywiście)”.
+Szczególnie istotne w podejściu Gumbrechta jest współwystępowanie pragnienia
+uobecnienia obiektu i wyobraźni. To oznacza, że filolog nie może tylko duchowo
+interpretować badanego obiektu, ale powinien go także fizycznie uprzystępnić,
+dając szansę innym na jego poznanie. Bez takiej pracy wykonywanej przez
+filologów mamy do czynienia z „kryzysem reprezentacji” określonego zakresu
+dziedzictwa literackiego w teraźniejszości, a tym samym nieobecnością
+składowej potencjału kulturowego. Gumbrecht (2003, s. 23), przywołuje myśl
+Wolfganga Isera (1991, s. 377–378), który podkreśla, że uruchomienie wyobraźni
+wymaga bodźca, który wynika z intencji danego podmiotu. Jednak jeśli
+wyobraźnia jest zbiorowo pobudzana, żaden podmiot nie może sam w pełni
+wyznaczyć jej kierunku i jej wytworów.
+Dla mnie to znaczy, że przeszłość kształtuje teraźniejszość, przez żywą
+obecność w niej dziedzictwa: obecność fizyczną, ale także wynikającą z jego
+nowej, twórczej interpretacji, łączącej wiedzę i wyobraźnię. Takiej interpretacji,
+która wpływa na społeczne imaginarium, kształtuje je. Wyznacza ono ścieżkę
+przyszłości. Tym szerszą, im więcej aktorów aktywnie uczestniczy w formowaniu
+danego imaginarium. Siła społecznego imaginarium wynika z jego zakorzenienia
+w przeszłości, jej współczesnego uobecnienia w formie dziedzictwa i jego twórczej interpretacji. Tak kształtowane społeczne imaginarium służy podtrzymywaniu porządku społecznego.
+Nicolai Hartmann (1953) krytycznie i celnie skomentował zagrożenia związane z uprawianiem nauki opierającym się na przyjętych a priori założeniach,
+z których następnie dedukcyjnie wyprowadzane są ramy koncepcyjne. Pisze
+o tym tak (s. 8): „Kiedy ludzki umysł czuje się w posiadaniu najwyższych
+uniwersalnych prawd, łatwo dochodzi do wniosku, że może wywieść z tych prawd
+wszystko to, czego nie potrafi wyprowadzić z doświadczenia”. To odzwierciedla
+nasze pragnienie ujęcia świata jako zjednoczonego i jednolitego. Ale świat nie
+chce poddać się temu pragnieniu. Nie jest takim, jakim ludzie chcieliby go
+widzieć. Nasze pragnienie jedności świata okazuje się iluzją. Ale byłoby
+nierozumne arbitralne uznanie, że żaden rodzaj jego jedności nie istnieje. Nie
+jest to jednak jedność, którą umysł chciałby stworzyć. Natura jedności świata nie
+jest jednością pojedynczego obiektu, lecz jednością wielości (tamże, s. 60).
+Określiłbym to jako uspójnioną różnorodność.
+Hartmann (1953, s. 27) proponuje odróżnienie „rzeczywistości możliwej”
+(real possibility, Realmöglichkeit) od „rzeczywistości faktycznej” (actual reality,
+Realwirlichkeit). Ta pierwsza kategoria nie ma esencjonalnego charakteru,
+ale odzwierciedla ogół okoliczności występujących w danym czasie w rzeczywistym kontekście. Ta druga nie jest rozumiana antropomorficznie, czyli jako
+celowy rezultat ludzkiej inteligencji i działania, lecz jako złożone następstwo
+rozległych (far-flung) kontekstowych uwarunkowań. Taka ontologia jest przeciwieństwem analizy bazującej na przyjętych a priori kategoriach, za pomocą
+Ekonomia i społeczne imaginarium 171 
+których chcemy ująć strukturę. Takie podejście on sam nazywa „analizą
+modalną” (modal analysis).
+Podobne stanowisko w kwestii poznania naukowego zajmuje Henri Bergson
+(1988). Jego pogląd dobrze oddaje następujące twierdzenie: „więcej się zawiera
+w ruchu niż w następujących po sobie położeniach przypisywanych poruszającemu
+się przedmiotowi, więcej w stawaniu się niż w formach, przez które kolejno się
+przechodzi, więcej w ewolucji formy aniżeli w formach powstających jedna po
+drugiej. Filozofia mogłaby więc z elementów pierwszego rodzaju wyprowadzić
+elementy drugiego rodzaju, lecz nie odwrotnie: to od pierwszego rodzaju powinno
+wyjść rozważanie. Ale intelekt odwraca porządek obu członów, i w tej kwestii
+filozofia starożytna postępuje podobnie jak intelekt. Umiejscawia się więc w tym,
+co nieruchome, zajmując się tylko Ideami” (tamże, s. 109).
+Bergson domaga się badania rzeczywistości pozostającej w ruchu, a więc
+przede wszystkim tego, co jest zmienne, a nie tego, co wieczne, akcentując
+mocno związek między tym, co możliwe i tym, co realne. Pisze o tym tak: „Jeśli
+pozostawimy na boku systemy zamknięte, podporządkowane prawom czysto
+matematycznym, możliwe do wyizolowania, jako że trwanie nie ma na nie
+wpływu, i jeśli będziemy rozważać całość konkretnej rzeczywistości lub po prostu
+świat ożywiony, a tym bardziej sferę świadomości, stwierdzimy, że w możliwości
+każdego z kolejnych stanów zawiera się więcej, a nie mniej niż w ich realności”
+(tamże, s. 27). I jeśli odrzuci się takie rozumienie świata i wynikającą
+perspektywę poznawczą, zastępując ją apriorycznymi założeniami, to w konsekwencji tak ukonstytuowane pojęcia i intelektualne konstrukcje tracą związek
+z czasem. „Wkraczają one (…) w wieczność; ale to, co w nich wieczne, stanowi
+jedność z tym, co w nich nierealne” (tamże, s. 110).
+Paul Ricoeur (1992, s. 19, 21, 24) uważa, że działalność analityczna jest wycinkiem łuku interpretacyjnego, w którym potrzebne są też różnego rodzaju działania
+poznawcze, które pozwalają połączyć wyjaśnienie ze zrozumieniem. Człowiek –
+według niego – przynależy tak do świata bios, jak i do świata logos, do natury
+i kultury. Ta druga przynależność człowieka powoduje, że pomiędzy motywem
+i działaniem istnieje związek logiczny, ale nie ma tu związku przyczynowego.
+Działanie jest zawsze uwikłane w okoliczności, a jego wynik nie jest przewidywalny.
+Aby uczynić je skutecznym, ludzie dążą do tego, aby warunki swego działania
+zamknąć w określonych ramach, wykreować system zamknięty, w którym relacja
+między stanem początkowym, działaniem i stanem końcowym będzie kontrolowana. Aby wyjaśnić, staramy się ująć rzeczywistość w formę systemu zamkniętego
+(box), w którym ruch przebiega według danych i rozpoznanych reguł.
+Rozumienie jednak temu się wymyka. Ricoeur przekonująco to ukazuje
+poprzez porównanie ludzkiego działania do tekstu. Pisze o tym następująco:
+„z jednej strony pojęcie tekstu jest dobrym paradygmatem dla ludzkiego
+działania, a z drugiej strony działanie jest dobrym odnośnikiem dla dowolnego
+rodzaju tekstów. (…) ludzkie działanie jest pod wieloma względami quasi-
+-tekstem. Rozprzestrzenia się ono w sposób przypominający utrwalanie charakterystyczne dla pisma. Odrywając się od działającego, działanie uzyskuje
+172 Jerzy Hausner 
+autonomię podobną do autonomii semantycznej tekstu. Pozostawia ono ślad,
+znamię. (…) Tak jak tekst, którego znaczenie jest oderwane od początkowych
+warunków jego tworzenia, ludzkie działanie ma wagę, która nie sprowadza się
+do jego doniosłości w początkowej sytuacji jego powstania, ale pozwala na
+ponowne wpisywanie jego sensu w nowe konteksty. Ostatecznie działanie jako
+tekst jest dziełem otwartym, skierowanym do nieograniczonego szeregu możliwych, czytelników” (tamże, s. 26). Działanie nie jest więc tylko wypełnianiem
+określonej roli zgodnej z danym tekstem, ale jednocześnie otwiera przestrzeń,
+w której pojawia się jego nowa interpretacja, a tym samym nowe odczytanie roli.
+Ten pierwszy wymiar podlega wyjaśnianiu, ten drugi wymaga rozumienia.
+Wyjaśnianie wymaga schematu, przyjęcia określonej perspektywy poznawczej,
+z której wynikają określone pytania i narzędzia poznawcze. Jednak działanie
+wybiega poza ten schemat (out of the box), tworzy tym samym nową sytuację,
+nową opowieść. Możemy ją zrozumieć lub nie, ale nie da się jej wyjaśnić (tamże,
+s. 28–29).
+W mojej terminologii społeczna czasoprzestrzeń otwiera się i zmienia.
+Możemy ją próbować opisać, ale nie wyjaśnić. To będzie możliwe dopiero, kiedy
+ona się ustrukturyzuje (zinstytucjonalizuje) i ujawnią się reguły ją organizujące.
+Ricoeur ujmuje ten moment tak, że wyjaśnienie stanie się znów przydatne, gdy
+zrozumienie utknie w martwym punkcie (tamże, s. 30). Wyjaśnianie wymaga
+uprzedmiotowiania poznawanego świata, rozumienie odzwierciedla jego podmiotowość, której całkowicie wyłączyć się nie da. W tym tkwi sens łuku
+interpretacyjnego. Gdyby spojrzeć na ten łuk od strony uczestniczących w nim
+aktorów, to na jego napiętej cięciwie odnajdziemy obserwatorów, uczestników
+i obserwatorów-uczestników.
+Koresponduje z tym argumentacja Ericha Fromma (1994), który także
+podkreśla, że człowiek przynależy nie tylko do świata natury, ale również do
+świata kultury; że należy go pojmować podmiotowo, a nie tylko przedmiotowo;
+że człowiek nie jest nieskończenie plastyczny, nie jest marionetką we władaniu
+instytucji. I konkluduje swój wywód następująco: „Gdybyśmy przyjęli, że nie ma
+ludzkiej natury (poza naturą ujętą w terminach podstawowych potrzeb
+fizjologicznych), jedyną możliwą psychologią byłby radykalny behawioryzm
+zadowalający się opisywaniem nieskończonej liczby wzorców zachowania lub
+psychologia mierząca jedynie ilościowe aspekty ludzkiego zachowania” (Fromm
+1994, s. 26). A to wykluczałoby możliwość poddawania osądowi porządku
+społecznego z punktu widzenia dobra. Aksjonormatywne odniesienie i społeczne
+imaginarium nie miałyby miejsca i sensu.
+2. Badania i ekonomiczne imaginarium
+Luc Boltanski i Ève Chiapello (2005, s. 19) podkreślają, że składnikiem
+dominującego ekonomicznego imaginarium stało się przekonanie, że ekonomia
+stanowi sferę autonomiczną, niezależną od moralności, poddaną prawom
+Ekonomia i społeczne imaginarium 173 
+pozytywnym. I to oddzielenie ekonomii od moralności i za jednym zamachem
+włączenie do niej opartej na rachunku korzyści moralności konsekwencjalistycznej (utylitarnej) dawało sankcję moralną działaniom ekonomicznym na
+mocy samego faktu ich dochodowości.
+Coraz większe grono uznanych i poważanych ekonomistów przeciwstawia się
+temu i stara się to skorygować tak w wymiarze teoretycznym, jak i praktycznym.
+Przejawem tego jest debata i prace nad innymi niż PKB miarami rozwoju
+i dobrobytu. Sens tych wysiłków dobrze oddaje następująca myśl zawarta
+w syntezie głośnego raportu OECD: Poza PKB. Mierzmy to, co ma znaczenie dla
+rozwoju społeczno-gospodarczego (Stiglitz i in. 2019, s. 11): „to, co mierzymy,
+wpływa na to, co robimy. Jeśli mierzymy rzeczy niewłaściwe, to będziemy działać
+źle. A jeśli czegoś nie mierzymy, to nie zwracamy na to uwagi i postępujemy tak,
+jak gdyby dany problem w ogóle nie istniał” .
+Wynikają z tego co najmniej dwa fundamentalne wnioski dla badań
+ekonomicznych:
+1) Mierzenie musi odnosić się do rzeczywistych problemów, ma służyć
+rozpoznaniu rzeczywistego przebiegu zjawisk, a nie potwierdzaniu apriorycznie przyjmowanych kategorii i założeń. A to oznacza, że obowiązkiem
+badacza jest czytelne sprecyzowanie swojej perspektywy poznawczej, w której
+nie może być założeń jawnie niezgodnych z faktami, oraz taki dobór narzędzi
+badawczych, które logicznie wynikają z przyjętej perspektywy, ale też
+pozwalają na rzetelne i wnikliwe wyjaśnienie zjawisk będących przedmiotem
+badania. Badacz musi też uznać, że przyjęta przez niego perspektywa nie jest
+jedyną możliwą: dobrze sprecyzowana ma swoje zalety, ale też ograniczenia.
+Dlatego też jego obowiązkiem jest otwarte konfrontowanie wyników
+własnych badań z wynikami innych badaczy, którzy przyjmują odmienną
+perspektywę badawczą.
+2) Mierząc, nie możemy pominąć tego, co właściwe i co niewłaściwe, co dobre
+i co złe. Powtórzę: „jeśli mierzymy rzeczy niewłaściwe, to będziemy działać
+źle”. Badacz nie powinien abstrahować od aksjonormatywnego ładu – musi
+być świadomy, że on istnieje. A to w praktyce oznacza odniesienie do społecznego imaginarium i przyjęcie, że działalność badawcza w jakimś stopniu
+może wpływać na jego treść.
+Znaczenie tych wniosków chcę zobrazować wynikami dwóch aktualnych analiz2
+.
+Wyniki badań przeprowadzonych w USA wykazują, że w konkretnych
+analizowanych przypadkach wysoki wzrost gospodarczy wiąże się ze wzrostem
+bezdomności, w następstwie podniesienia rynkowych czynszów (fair-market rent
+2 Referat przedstawiony na X Kongresie Ekonomistów Polskich zawierał w tym miejscu dwie ilustracje
+(rysunki), których nie możemy tutaj reprodukować. Pierwsza ilustracja (przytoczona za: Stringfellow i in.
+2018) pokazywała wysoką korelację między wzrostem czynszów w hrabstwie King County (USA)
+i wzrostem liczby osób bezdomnych, a druga (przytoczona za: Bouton i in. 2018) pokazywała zależność
+między wzrostem obrotów e-handlu i zatłoczeniem ulic w USA powodowanym przez samochody dostawcze
+i inne pojazdy (przyp. red.).
+174 Jerzy Hausner 
+– FMR), napędzanego z kolei napływem dużej liczby dobrze wynagradzanych
+pracowników o kompetencjach cyfrowych. To pokazuje fałszywość „teorii
+skapywania” (trickle-down theory) i rozpowszechnianego przez wielu ekonomistów poglądu o tym, że wzrost gospodarczy przysparza korzyści wszystkim, choć
+w nierównym stopniu (trickle-down economics). A w konkretnym przypadku
+przedstawiony wynik analizy powinien skłaniać decydentów do zastanowienia
+się, jak rzeczywiście wygląda ekonomiczna dostępność mieszkań na ich terenie
+i co mogą zrobić w tym zakresie (affordable housing). I jeśli problem w danym
+mieście jest poważny i narasta, to kwestia mieszkaniowa powinna stać się
+fragmentem strategii jego rozwoju i składową miejskiego imaginarium.
+Drugi przykład pokazuje, że sukces ekonomiczny, jakim jest znaczący wzrost
+obrotów e-handlu, prowadzi do zaostrzenia problemu niewydolności komunikacyjnej w miastach, a tym samym do pogorszenia jakości życia mieszkańców.
+I w tym konkretnym przypadku PKB niewątpliwie wzrósł, ale jakość życia się
+obniżyła. Wynika z tego refleksja dotycząca zarówno tego, jak należy badać
+zjawiska związane z gospodarką cyfrową, jak i tego, co powinno być dla badacza
+aksjonormatywnym odniesieniem. Tym bardziej że kwestia przeciążenia komunikacyjnego stała się powszechnie składową miejskiego imaginarium i nie ma
+możliwości dalszego lekceważenia jej przez władze miejskie. Zatem muszą one
+zastanowić się, jak godzić postępującą cyfryzację z warunkami życia mieszkańców.
+Obydwa przykłady wskazują, że podejmując badania społeczne, w tym
+ekonomiczne, należy odpowiedzialnie zastanowić się, co ma być przedmiotem
+badania, jakie pytania stawiamy i jakim językiem się posługujemy, aby uzyskana
+w badaniach wiedza była naukowo rzetelna i społecznie znacząca. Aby przyczyniała się tak do wyjaśnienia, jak i do zrozumienia – posługując się językiem
+Ricoeura. Chodzi o to, aby przyjmować postawę empiryczną i krytyczną, unikać
+uznawania czegokolwiek za oczywiste i bezdyskusyjne, nie ulegać pozorom –
+o czym ciekawie na przykładzie badania polityki publicznej pisze Karolina
+Sztandar-Sztanderska (2018, s. 16–18). I pamiętać, że pozornie techniczny
+i neutralny język ma swoje społeczne konsekwencje.
+Badania społeczne prowadzimy nie tylko po to, aby poznawać i wyjaśniać
+zjawiska oraz opisywać zmieniający się świat, ale także aby wnosić analityczny
+wkład do szerszego dyskursu. Idąc tropem myśli L. Boltanskiego i È. Chiapello
+oraz posługując się ich argumentacją (2005, s. 104), uważam, że jeśli nie ma
+takiego dyskursu, jeśli nie rozwijamy myślenia modalnego, to tkwimy w zakodowanym „systemie”, który „jest już tylko gigantycznym symulakrem”, który nie
+może już zostać wymieniony na to, co rzeczywiste, lecz wymienia się sam na
+siebie w nieprzerwanym obiegu pozbawionym referencji i granic. Celnie wypowiada się na ten temat Elżbieta Mączyńska (2018), podkreślając, że bez aksjonormatywnego dyskursu dochodzi do kulturowego regresu, zamknięcia
+w dotychczasowych ramach systemowych (lock-in effect), co blokuje rozwój
+(por. Hryniewicz 2012).
+Do wiązania badań społecznych z aksjonormatywnym dyskursem i formowaniem społecznego imaginarium przekonuje Paul H. Dembiński (2019). Jego
+Ekonomia i społeczne imaginarium 175 
+studia o negatywnych konsekwencjach finansjalizacji współczesnej gospodarki są
+szeroko komentowane i cenione. Opowiada się on za postrzeganiem rzeczywistości gospodarczej i finansowej „nie jako samoistniejącej i wyalienowanej, ale
+jako sfery powiązanej zarówno z uniwersum społecznym, jak i z klimatem
+intelektualnym, światem pojęciowym i światem wartości, jaki funkcjonuje
+w danym społeczeństwie” (2019, s. 103).
+Podsumowanie
+Hegemonia starego imaginarium oznacza, że makroekonomiczne ramy rozmywają się, przestają „działać”, przestają wypełniać swoje funkcje. A tym samym
+coraz więcej nam wolno i coraz mniej możemy. W rezultacie dominujące siły
+rynkowe nie napotykają wystarczającej przeciwwagi. Napędzają stany niestabilnej nierównowagi, którym coraz trudniej zapobiec i zaradzić. Jednym
+z przejawów tego zjawiska jest wyłanianie się organizacji gospodarczych, które
+kapitałowo są potężniejsze niż państwa. Stają się przez to za duże, by upaść, ale
+także za duże, by je kontrolować, oraz za duże, by nimi zarządzać. To one
+narzucają reguły gry i przebieg dyskursu ekonomicznego. Gdy dominują, gospodarka i obroty mogą nadal rosnąć, ale społeczny efekt gospodarowania już nie,
+co znajduje odzwierciedlenie w haśle „high growth, low impact” (wysoki wzrost,
+niskie społeczne korzyści), które dobrze oddaje zasadniczy problem nowoczesnej gospodarki.
+Stare teorie i idee gospodarcze nie pasują do nowej rzeczywistości. Przy ich
+użyciu nie można kształtować odpowiednich ram makroekonomicznych. Potrzebujemy nowego ekonomicznego imaginarium, żeby poprzez politykę publiczną
+oddziaływać na gospodarowanie – po to, aby zapobiegać występowaniu stanów
+niestabilnej nierównowagi.
+Takie imaginarium może się wyłonić tylko jako efekt dyskursu toczonego
+w określonej społecznej czasoprzestrzeni, którego zadaniem (celem) ma być
+jej formowanie w taki sposób, aby różni aktorzy społeczni mogli i byli w stanie
+się upodmiotowić. Obecnie istniejące, dominujące (hegemoniczne) imaginarium ekonomiczne niszczy taką czasoprzestrzeń; jest ona rozrywana. Dyskurs,
+który pozwoli ją kreować, musi dotyczyć reinterpretacji podstawowych kategorii
+nauk ekonomicznych oraz pokrewnych nauk społecznych, w tym takich jak
+wartość, pieniądz, własność, produktywność, efektywność czy rozwój. I nie
+chodzi o nowe definicje, ale o nowe ujęcia treści tych pojęć. Tylko w ten sposób
+można będzie stopniowo wygenerować nowe reguły, czyli makroekonomiczne
+ramy gospodarowania.
+Na potrzebę ewolucyjnego podejścia do interpretacji znaczenia podstawowych pojęć ekonomicznych zwraca uwagę m.in. Frank Moulaert i pozostali
+autorzy ważnego raportu na temat społecznych innowacji (Moulaert i in., red.
+2017, s. 14). Ich zdaniem, znaczenie różnych kategorii ekonomicznych ulega
+historycznym przemianom i jest instytucjonalnie warunkowane. Zrozumienie
+176 Jerzy Hausner 
+przeszłych znaczeń i ich wpływu na znaczenia współczesne oraz wynikające
+z nich idee i praktyki wymaga rozpoznania ich w kontekście filozofii i ruchów
+społecznych danej epoki.
+Dyskurs, który ma się przyczynić do modyfikacji makrospołecznych ram
+gospodarowania, musi być otwarty. To nie znaczy, że każdy aktor ma brać w nim
+udział, ale nikt nie powinien być z urzędu z niego wykluczony. Jak sądzę, da się
+wyróżnić kilka zasadniczych faz takiego aksjonormatywnego dyskursu: 1) rozpoznanie sprzeczności systemu gospodarczego, 2) sformułowanie dylematów,
+3) kreowanie nowych perspektyw poznawczych, 4) otwarta debata nad ich
+adekwatnością, 5) proponowanie nowych makrospołecznych ram gospodarowania, 6) uzgadnianie niezbędnych działań.
+Wskazane fazy dyskursu nie są w żadnej mierze krokami uprzednio obranej
+procedury. To intuicyjnie (nie analitycznie) przyjęte etapy złożonego i słabo
+ustrukturyzowanego procesu społecznego. Procesu, który niekoniecznie musi się
+rozwinąć, który może zostać zatrzymany. Tu nie ma determinizmu, dominuje
+kontyngencja. Tak może być, ale nie musi.
+Co ważne, ten dyskursywny proces nie odnosi się tylko do poziomu gospodarki w skali makro. Obejmuje również jej poszczególne segmenty i wymiary,
+dotyczy także przedsiębiorstwa i natury przedsiębiorczości. Bez zmian na tym
+poziomie gospodarowania żadna zmiana systemu gospodarczego nie może się
+dokonać. W historii bywało i tak, że to od zmian mikro rozpoczynał się
+proces całościowej przemiany, czego przykładem może być wprowadzenie
+produkcji taśmowej.
+W systemach społecznych, w tym gospodarczych, zmiany odcinkowe
+sprzęgają się i przenikają, meandrycznie wiodąc do zmiany ogólnej. Przenikają
+się także, a może nawet głównie, zmiany mentalne (kulturowe) i materialne
+(cywilizacyjne). Trafnie komentuje to Frederic Laloux (2015, s. 22), podkreślając, że typy organizacji wynalezione na przestrzeni wieków wiązały się zawsze
+z dominującym w danym okresie światopoglądem i stanem świadomości.
+Współcześnie zawodzi model gospodarowania, w którym efektywność tak
+góruje nad produktywnością, że ją osłabia i ruguje, zatem pożądane zmiany nie
+dokonają się bez innego spojrzenia na przedsiębiorstwo i przedsiębiorczość. To
+intelektualny grunt, na którym osadzona jest koncepcja „Firmy-Idei” (Hausner
+i Zmyślony 2015). Jeśli tak na to spojrzeć, to – nawiązując do przywołanej tezy
+Laloux – sposób ekonomizowania staje się zarazem sposobem życia, niezależnie
+od tego, czy uświadamiamy to sobie, czy nie.
+Trzeba w ekonomii odbudować i ożywić tradycję jej zakorzenienia w filozofii
+moralnej. Ekonomia nie może analizować tylko efektywności i wzrostu, musi
+rozpatrywać przede wszystkim jakość życia i rozwój. Przyjęte w niej perspektywy
+poznawcze i związane z nimi pojęcia powinny sprzyjać upodmiotowieniu jednostek i wspólnot, podczas gdy dzisiaj wspierają ich uprzedmiotowienie. Ekonomia ma być przede wszystkim „ekonomią wartości” (Hausner 2019a). Wtedy
+będzie służyć generowaniu wartości ekonomicznej i podtrzymywalności działalności gospodarczej człowieka.

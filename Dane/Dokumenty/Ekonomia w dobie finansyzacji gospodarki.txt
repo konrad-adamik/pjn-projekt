@@ -1,0 +1,287 @@
+I. Uwagi wstępne
+Pod koniec pierwszej dekady XXI w. wraz z początkiem tego, co określane
+jest niekiedy mianem największego kryzysu od czasu Wielkiego Kryzysu, uległa znacznemu ożywieniu dyskusja na temat kondycji nauk ekonomicznych,
+a zwłaszcza ekonomii w rozumieniu nauki odkrywającej i tworzącej teoretyczne podstawy polityki makroekonomicznej. Spektrum poglądów i stanowisk
+prezentowanych w ramach tej dyskusji ograniczone jest dwoma ekstremami.
+Jedno tworzą opinie, które ocierają się, czy wręcz mogą być potraktowane
+jako wyraz współczesnego antyekonomizmu1
+. Ta, tak stara jak sama ekonomia, idea sprowadza się do negacji użyteczności i naukowości ekonomii, a nawet oskarżania jej (a w zasadzie nie tyle samej ekonomii, ile ekonomistów)
+o przyczynianie się, przez lansowanie niesłusznych koncepcji, do powstawania
+czy narastania różnych negatywnych zjawisk społecznych. Współczesny antyekonomizm rzadko przyjmuje postać skrajną – prowadzącą do negowania
+naukowego statusu ekonomii. Współczesny antyekonomizm raczej wyraża się
+w kwestionowaniu pewnego sposobu postrzegania i analizowania zjawisk gospodarczych, typowego zwłaszcza dla ekonomii głównego nurtu. Reprezentowany jest nie tylko przez osoby spoza środowiska ekonomicznego, lecz także
+przez niektórych ekonomistów, a zwłaszcza tych związanych z najbardziej radykalnymi ogniwami ekonomii alternatywnej.
+Drugie ekstremum w dyskusjach o kondycji ekonomii wiąże się z poglądami, które nie tylko świadczą o ekonomicznym imperializmie kojarzonym z rozszerzaniem analizy ekonomicznej na inne obszary życia społecznego niż te,
+które mieszczą się w sferze gospodarczej, oraz z włączaniem narzędzi analizy
+ekonomicznej do arsenału badawczego innych nauk społecznych, ale mogą być
+uznane za wyraz triumfalizmu. Ekonomiczny triumfalizm to, w interpretacji autora, postrzeganie ekonomii jako nauki bezdyskusyjnej w swych ustaleniach, a zarazem przypisywanie jej wyższości w stosunku do innych nauk
+społecznych3
+. Ekonomiczny triumfalizm to także wiara w koniec historii na
+niwie ekonomicznej, związany z upadkiem systemu gospodarek centralnie
+zarządzanych i powszechnością rozwiązań rynkowych, czego wyrazem jest
+m.in. idea określana w skrócie jako TINA (There is no alternative).
+Prezentowane opracowanie stanowi swoiste résumé poglądów i zainteresowań autora zarówno pewnymi aspektami kryzysu i przeobrażeń współczesnej
+gospodarki rynkowej, które znajdują wyraz w idei finansyzacji gospodarki, jak
+i rozwojem ekonomii jako nauki. 
+Słowo finansyzacja jest odpowiednikiem angielskiego financialisation. Definicje finansyzacji akcentują na ogół szczególną i rosnącą rolę sfery finansowej oraz kryteriów finansowych w funkcjonowaniu życia ekonomicznego
+i społecznego. W wąskim znaczeniu finansyzacja kojarzona jest przede wszystkim z rosnącym znaczeniem działalności finansowej w aktywności podmiotów
+ekonomicznych o charakterze niefinansowym. Konsekwencją tego jest zmiana
+strumieni dochodów, w których coraz większy udział mają dochody czerpane
+właśnie z działalności finansowej, a nie z tradycyjnie rozumianej działalności
+operacyjnej i inwestycyjnej.
+W szerokim znaczeniu finansyzacja to proces autonomizacji sfery finansowej w relacji do sfery realnej, a nawet uzyskiwania nadrzędności tej pierwszej
+w stosunku do drugiej. W ramach finansyzacji rynki finansowe oraz elity finansowe uzyskują coraz większy wpływ na politykę ekonomiczną oraz na efekty
+gospodarowania6
+. Dla części badaczy finansyzacja jest świadectwem nowego
+stadium kapitalizmu określanego mianem kapitalizmu finansowego, kapitalizmu rentierskiego, bankokracji czy też kapitalizmu „odcinania kuponów”7
+.
+W nawiązaniu do tradycji Keynesowskiej niekiedy pisze się też o kapitalizmie
+kasynowym. Wreszcie autorzy najbardziej radykalnych koncepcji uważają, że
+finansyzacja jest wręcz zwiastunem „jesieni” kapitalizmu (co nie znaczy, że gospodarki rynkowej) oraz kształtowania się kompleksu finansowo-politycznego,
+który swoimi wpływami i znaczeniem przekracza rolę dawnego kompleksu
+militarno-przemysłowego8
+. Ekonomiści nawiązujący do tradycji marksowskiej
+skłonni są z kolei pisać o monopolistyczno-finansowym stadium gospodarki
+kapitalistycznej9
+. Finansyzacja ma być także jednym z przejawów przechodzenia od demokracji do plutokracji, czyli rządów pieniądza i jego dysponentów.
+Finansyzacja prowadzi do zasadniczych zmian w sferze zarządzania
+i własności, zwłaszcza dużych przedsiębiorstw. W obszarze własności wiąże
+się to z coraz większą rolą właścicieli instytucjonalnych ze sfery finansowej,
+którzy kojarzeni są z tak zwanym kapitałem niecierpliwym, szukającym możliwości uzyskania nadzwyczajnych zysków w krótkim okresie10. Zdaniem krytyków zmian, które pod wpływem narastającej finansyzacji dokonują się na
+poziomie przedsiębiorstw – szczególnie wiele złego dokonało upowszechnienie
+się idei wartości dla akcjonariuszy (shareholder value) związane z przesuwaniem akcentów w dyskusji o zarządzaniu z perspektywy interesariuszy (stakeholder perspective) na perspektywe udziałowców, akcjonariuszy (shareholder
+perspective)
+11. W połączeniu z narastającą tendencją do skracania horyzontu
+czasowego podejmowanych decyzji inwestycyjnych doprowadziło to do nadmiernego wyeksponowania w analizie ekonomiczno-finansowej całej grupy
+wskaźników uwzględniających przede wszystkim krótkookresową zyskowność, a nie długookresową stabilność rozwoju danego przedsięwzięcia12.
+Krytycy idei finansyzacji, a zwłaszcza traktowania będących jej wyrazem
+zjawisk jako świadectwa jakiejś istotnej, fundamentalnej zmiany współczesnej gospodarki rynkowej, traktują to wszystko, co składa się na finansyzację, jako przejawy pewnych naturalnych przeobrażeń niedających podstaw do
+istotnej rewizji paradygmatów oraz konstrukcji teoretycznych i modelowych.
+Ponieważ w modelu neoklasycznym i jego pochodnych zakłócenia w działaniu
+rynku mogą mieć w zasadzie tylko charakter egzogeniczny, nie dziwi więc, że
+wspomniana grupa ekonomistów szuka przyczyn ostatniego kryzysu przede
+wszystkim w psujących rynek działaniach państwa.
+W przekonaniu autora opracowania finansyzacja nie jest zapowiedzią
+upadku kapitalizmu, ale też trudno ją traktować jako zjawisko marginalne
+czy przejściowe. Finansyzacja jest wyrazem pewnych procesów historycznych
+o charakterze obiektywnym, a jej nasilanie się od zarania dziejów jest niejako
+wpisane w historię ludzkości związaną z niezwykłą innowacją ekonomiczną
+i społeczną, jaką jest pieniądz. Nieprzypadkowo już Arystoteles rozróżniał
+ekonomię i chrematystykę, tę pierwszą utożsamiając z powiększaniem bogactwa drogą działań społecznie użytecznych i związanych głównie z funkcjonowaniem sfery realnej, a tę drugą – z traktowaniem bogactwa jako celu samego
+w sobie i jego pomnażaniem drogą spekulacji finansowych. Kolejne innowacje
+w sferze finansów i pieniądza niewątpliwie przyczyniały się i przyczyniają do
+rozwoju gospodarki i społeczeństwa, ale zarazem kreują różnego rodzaju zagrożenia związane z autonomizacją pieniądza w stosunku do zjawisk ze sfery
+realnej. Gospodarka towarowo-pieniężna, w której pieniądz jest traktowany
+jako przede wszystkim pośrednik w wymianie jednych dóbr na inne, w praktyce staje się często pieniężno-towarową, w której towar jest tylko pośrednim
+ogniwem przejścia od mniejszych do większych zasobów pieniądza, a nawet
+pieniężno-pieniężną, w której pieniądz w całkowitym oderwaniu od sfery realnej kreuje kolejne strumienie pieniężne.
+Niewątpliwie finansyzacja stanowi istotny impuls do dyskusji o ewentualnych zmianach w ekonomii jako nauce.
+Nasilona wraz z ostatnim kryzysem dyskusja na temat kondycji współczesnej ekonomii, zwłaszcza w swym wymiarze publicystycznym, charakteryzuje się, jak już wspominano, znaczną polaryzacją stanowisk, a zarazem
+niekiedy dość emocjonalnym tonem. Odrzucając zarówno antyekonomizm, jak
+i ekonomiczny triumfalizm, warto jednak zastanowić się nad tym, czy i jakie zmiany powinny nastąpić w ekonomii w celu poprawy jej zdolności zarówno eksplanacyjnych, jak i predykcyjnych. Przy tym w przekonaniu autora
+współczesna ekonomia ani nie jest tak zła, jak twierdzą ci, którzy podnoszą
+chociażby kwestię nieprzewidzenia przez większość ekonomistów ostatniego
+kryzysu, ani tak znakomita, jak uważają ci, którzy nie widzą potrzeby istotnych zmian w tym obszarze nauki i co najwyżej skłonni są dyskutować o zróżnicowanych kompetencjach samych ekonomistów14. Rzeczywistość ekonomii
+jako nauki jest odzwierciedleniem wszystkich problemów, które są typowe dla
+nauk społecznych. Tyle tylko, że część ekonomistów, zwłaszcza związanych
+ze współczesną ekonomią głównego nurtu, prezentowała i prezentuje dokonania ekonomii w taki sposób, jakby była ona częścią nauk ścisłych, od których
+oczekuje się znacznie większej precyzji i zdolności predykcyjnych, niż to ma
+miejsce w wypadku nauk społecznych. Można to ująć inaczej, że ekonomia
+i ekonomiści padają raz po raz ofiarą przypisywania sobie swoistego szlachectwa w ramach nauk społecznych, a jak wiadomo noblesse oblige (szlachectwo
+zobowiązuje). Skoro stopień formalizacji niektórych tekstów ekonomicznych
+jest porównywalny z opracowaniami z nauk ścisłych, a nawet nauk formalnych, takich jak matematyka, to trzeba być przygotowanym na to, że zwiększa to oczekiwania dotyczące precyzji i konkretności odpowiedzi na pytania
+dotyczące istoty otaczającej nas rzeczywistości gospodarczej, a także – a nawet
+przede wszystkim – związane z predykcją.
+Na pytanie, czy ekonomia jako nauka znajduje się w kryzysie, zdaniem autora możliwa jest dwojaka odpowiedź. Ekonomia nie jest w kryzysie w takim
+rozumieniu, jakie charakterystyczne jest zwłaszcza dla ocen dorobku ekonomii głównego nurtu dokonywanych przez radykalnych przedstawicieli współczesnego antyekonomizmu. Nie jest uzasadnione twierdzenie, że ekonomia
+nie ma trwałych i praktycznie użytecznych osiągnięć i że zarówno w sferze
+mikroekonomicznej, jak i szczególnie nas interesującej w prezentowanym
+opracowaniu – sferze makroekonomicznej pozostaje wyłącznie zdać się albo
+na doświadczenie i umiejętności uczestników życia gospodarczego, albo na
+swoisty szczęśliwy (lub nie) zbieg okoliczności. Wystarczy porównać, oczywiście zachowując świadomość wszystkich różnic historycznych, Wielki Kryzys
+przełomu lat dwudziestych i trzydziestych XX w. i towarzyszące mu reakcje
+i działania poszczególnych państw z obecnym kryzysem, aby dostrzec istotne
+i to pozytywne różnice, które zwłaszcza w sferze zastosowanych instrumentów
+polityki makroekonomicznej w znacznej mierze są pochodną rozwoju ekonomii
+jako nauki.
+Całkowicie bezzasadne jest także twierdzenie, że ekonomia nie jest nauką.
+Oczywiście ekonomia nie jest i nigdy nie będzie nauką ścisłą, choć oczywiście
+w pewnych swych obszarach może odwoływać się do standardów charakterystycznych dla nauk ścisłych czy nauk formalnych. Ekonomia matematyczna,
+ekonometria, statystyka, czyli najbardziej zmatematyzowane obszary ekonomii, pozwalają na znacznie większy stopień formalizacji i ścisłości niż te
+wszystkie składniki ekonomii, które bliższe są analizie zjawisk gospodarczych
+w ich w pełni społeczno-jakościowym wymiarze.
+Nie uzasadniają także twierdzenia o kryzysie w ekonomii ograniczone
+możliwości predykcji. Choć oczywiście ideałem, acz nie osiągalnym, byłaby
+daleko idąca czy wręcz pełna zdolność przewidywania przebiegu zjawisk gospodarczych, to musimy zaakceptować, że co prawda, doskonaląc narzędzia
+badawcze, możemy nasze możliwości predykcyjne zwiększać, ale naturalna
+zmienność zjawisk gospodarczych i ich ścisłe związki z innymi obszarami życia społecznego powodować będą, że nasze coraz lepsze narzędzia poznania
+i zrozumienia rzeczywistości ekonomicznej będą mieć i tak ograniczoną zdolność eksplanacyjną i prognostyczną. Musimy się więc liczyć z tym, że teorie
+czy koncepcje ekonomiczne i budowane na ich podstawie narzędzia analizy
+i prognozowania rzeczywistości gospodarczej nie mają bezwzględnego, w wymiarze czasowo-przestrzennym, waloru uniwersalizmu. Musimy się także
+liczyć z tym, że zjawiska występujące w rzeczywistości gospodarczej będą tłumaczone i opisywane za pomocą różnych koncepcji i narzędzi, a wyciągane na
+tej podstawie wnioski, także te o charakterze predykcyjnym, będą niekiedy
+mocno zróżnicowane.
+Do tej pory zaprezentowano elementy odpowiedzi przeczącej na pytania
+o kryzys w ekonomii. Ale, jak już sygnalizowano, na to pytanie możliwa jest
+także odpowiedź twierdząca. Taka odpowiedź jest możliwa, jeśli odwołamy
+się do teorii rewolucji naukowych. Zgodnie z tą koncepcją w rozwoju nauki
+można wydzielić okresy normalnego rozwoju, kiedy to badania prowadzone są
+zgodnie z obowiązującym, czy też dominującym, paradygmatem, oraz okresy
+rewolucyjnych zmian, kiedy to sytuacje kryzysowe związane z narastaniem
+wątpliwości co do dominującego paradygmatu prowadzą do nasilania się prób
+jego podważenia i odrzucenia. Nie ma przy tym gwarancji, że nowy czy też
+alternatywny paradygmat musi być bezwzględnie lepszy od poprzedniego. Ponieważ o zmianach paradygmatu decyduje wola większości badaczy, może się
+okazać, że kształtujący się konsens teoretyczno-metodologiczny będzie oznaczał przyjęcie koncepcji niestanowiących rzeczywistego postępu w stosunku
+do koncepcji odrzuconych czy spychanych z piedestału idei dominujących.
+Paul Krugman uważa, że jednym z istotnych problemów współczesnej ekonomii był właśnie, określany przez niego mianem fałszywego, konsens w makroekonomii towarzyszący temu, co popularnie określane jest mianem rewolucji,
+czy kontrrewolucji neoliberalnej15.
+Obserwując, co dzieje się aktualnie w ekonomii, można niewątpliwie dostrzec oznaki kryzysu w rozumieniu teorii rewolucji naukowych. Wyraźne jest
+zwątpienie w przydatność części koncepcji i narzędzi rozwiniętych zwłaszcza
+w ramach ekonomii głównego nurtu w jej obszarze kojarzonym z tradycją
+neoklasyczną. Na nowo popularne stało się odwoływanie do tradycji keynesowskiej i znacznie bardziej aktywni stali się przedstawiciele różnych mniej
+lub bardziej radykalnych odłamów poza-keynesowskiej myśli heterodoksyjnej.
+Zwłaszcza przedstawiciele różnych składowych ekonomii instytucjonalnej czy
+ewolucyjnej poddają niekiedy radykalnej krytyce ekonomię głównego nurtu.
+Tyle tylko, że o ile właśnie w sferze krytyki ekonomii głównego nurtu, zwłaszcza w jej zasadniczej części nawiązującej do tradycji neoklasycznej, przedstawiciele radykalnej myśli heterodoksyjnej są nierzadko przekonujący, o tyle
+znacznie trudniej przychodzi im zaproponowanie programu badawczego, który byłby na tyle spójny i możliwy do wykorzystania, aby mógł pretendować do
+miana realnego rywala ekonomicznej ortodoksji.
+Odrzucenie twierdzenia o kryzysie ekonomii w rozumieniu takiego nagromadzenia przykładów jej rozmijania się z realiami życia gospodarczego, że
+uzasadniałoby to zakwestionowanie prawie całego jej dotychczasowego, dorobku, nie jest tożsame z uznaniem, że nie są potrzebne, i to niekiedy istotne, zmiany. Po pierwsze: podkreślić należy konieczność akceptacji zmienności świata ekonomicznego i ewolucyjnego charakteru zjawisk gospodarczych.
+Przy tym w odniesieniu do ewolucyjności należy zwrócić uwagę, że nie chodzi
+o ewolucyjność w rozumieniu naturalistycznym, typowym dla świata przyrody
+i którą dostrzegał i rozumiał już Adam Smith, ale o ewolucyjność o charakterze
+kulturowym. Oczywiście w punkcie wyjścia analiz ekonomicznych i będących
+na bardzo wysokim poziomie abstrakcji modelach można od idei ewolucyjności
+odstępować, ale powinno to być traktowane jako swoiste założenie idealizujące, a nie fundament analizy ekonomicznej.
+Po drugie: idea ewolucji musi się wiązać z szerszym uwzględnieniem historycznego wymiaru zjawisk ekonomicznych i samej ekonomii. W tym kontekście należy zauważyć tendencję, widoczną chociażby na poziomie większości programów nauczania ekonomii, do ograniczania czy wręcz eliminowania
+takich przedmiotów, jak historia gospodarcza czy historia myśli ekonomicznej. Już na tym etapie kształtowania zarówno przyszłych praktyków, jak i badaczy gospodarki ginie czy też ulega poważnemu ograniczeniu świadomość
+zjawisk gospodarczych jako zjawisk historycznych, nierzadko kumulacyjnych
+i ewolucyjnych, czy powtarzających się, acz w zmienionych warunkach. Brak
+świadomości historycznej zjawisk gospodarczych, tudzież ich związków z innymi zjawiskami społecznymi, powoduje, że skraca się perspektywa myślenia
+o ekonomii do tu i teraz. Brak świadomości historycznego, a zarazem głównie
+ewolucyjnego, a nie rewolucyjnego rozwoju ekonomii utrudnia właściwą ocenę
+tego, gdzie są istotne luki w gmachu wiedzy ekonomicznej wymagające wypełnienia, a gdzie – w zasadzie poza ćwiczeniem intelektu – niewiele jesteśmy
+w stanie osiągnąć.
+Po trzecie: uznaniu ewolucyjnego charakteru zjawisk ekonomicznych w ich
+wymiarze kulturowym powinno towarzyszyć bardziej niż do tej pory rzeczywiste, a nie deklaratywne uznanie, że „instytucje mają znaczenie”. Oczywiście
+przesadą byłoby twierdzenie, że ekonomia instytucjonalna miałaby stać się
+swoistą nową ortodoksją. Chodzi jednak o uznanie, że instytucje są ważne nie
+tylko jako istotny element analizy zjawisk ekonomicznych na poziomie badań
+empirycznych i faktografii, lecz także muszą być uwzględniane jako integralny element fundamentów metodologicznych badań ekonomicznych także w ich
+wymiarze teoretycznym.
+Po czwarte: ekonomia powinna przejść od imperializmu do idei kooperacji
+i wzajemnego wzbogacania się z innymi naukami społecznymi. Tak jak elementy analizy ekonomicznej trafiły do np. socjologii, tak również ekonomia
+musi być otwarta na czerpanie z dorobku innych nauk społecznych. Nieprzypadkowo w zasadzie od nowożytnych początków ekonomii jako nauki do
+czasów opublikowania przez Alfreda Marshalla Zasad ekonomiki większość fundamentalnych prac miała w tytule określenie ekonomia polityczna, czyli
+właśnie ekonomia społeczna. Dla Smitha tak samo ważny był mechanizm, który zaprezentował w Badaniach nad naturą i przyczynami bogactwa narodów,
+zgodnie z którym szczególną rolę w naszym zachowaniu w sferze ekonomicznej odgrywa żądza zysku, jak i obraz człowieka z wcześniejszej Teorii uczuć
+moralnych. W pewnym uproszczeniu ideę Smitha wynikającą z porównania
+obu dzieł można sprowadzić do przekonania, że choć w sferze zachowań ekonomicznych szczególnie istotny jest motyw zysku, to nie oznacza to, że w tym
+obszarze aktywności ludzie nie powinni kierować się zasadami etyki i moralności oraz tym, co Smith określał mianem sympatii, a co dziś raczej kojarzy
+się z ideą empatii. Oczywiście niebezpieczeństwem, które wiąże się z szerokim
+odwoływaniem się w ekonomii do innych nauk społecznych, jest ryzyko zacierania się granicy między rygoryzmem badań naukowych a uprawianiem
+swoistej publicystyki ekonomicznej pod szyldem socjoekonomii, politoekonomii czy psychoekonomii. W kontekście dyskusji o związkach ekonomii z innymi naukami społecznymi warto zauważyć, że zdaniem Davida Colandera
+w przyszłości podziały między ekonomią a innymi naukami społecznymi będą
+znacznie mniej ostre i że na miejsce dzisiejszych ekonomistów, socjologów pojawią się po prostu specjaliści od nauk społecznych mający kompetencje z tych
+dziś odmiennych dyscyplin nauki16.
+Po piąte: wszystkie wymienione do tej pory oczekiwane czy postulowane
+zmiany w ekonomii musiałyby się także wiązać z odejściem od tradycyjnie
+rozumianej idei homo oeconomicus. Ani ewolucyjne spojrzenie na życie ekonomiczne, ani szersze odwołanie się do idei instytucji zarówno w kategoriach
+ich wpływu na zachowanie ludzi (to eksponuje tradycyjny instytucjonalizm),
+jak i w rozumieniu kształtowania się instytucji pod wpływem czy jako efektu
+zachowań ludzi (to istotny element założeń nowej ekonomii instytucjonalnej),
+ani uwzględnianie w analizie ekonomicznej pozaekonomicznych motywów zachowań ludzi nie są możliwe na gruncie ortodoksyjne wizji człowieka, który
+w sferze ekonomicznej rozumuje wyłącznie w kategoriach stosukowo prostego
+wymiaru kosztów i korzyści, a na dodatek zachowuje się w pełni racjonalnie
+i działa niezależnie od innych ludzi. Oczywiście nie wydaje się zasadne sprowdzanie analizowanej zmiany do prostego zastąpienia homo oeconomicus przez
+homo sociologicus. Raczej chodzi o uwzględnienie, że homo sapiens jest – także
+w sferze ekonomicznej – homo compositus, acz w znaczeniu „złożony”, „skomplikowany”, a nie – także możliwym do przetłumaczenia – „wymyślony”.
+Po szóste: pożądane jest pewne przewartościowanie poglądów na rolę matematyki w ekonomii. W zasadzie od końca XIX w. istotna część ekonomistów
+podejmowała i podejmuje próby uczynienia z ekonomii najbardziej ścisłej spośród nauk nieścisłych (inexact science w ujęciu Johna Stuarta Milla). Wiąże
+się to w znacznej mierze z szerokim zastosowaniem matematyki. Doceniając
+będące tego rezultatem osiągnięcia naukowe, należy jednak zauważyć, że
+problemów ekonomicznych nie da się sprowadzić ani do zbioru aksjomatów,
+ani zagadek matematycznych. Nadmierne eksponowanie techniczno-matematycznego wymiaru ekonomii i zarządzania powoduje, że także w praktyce, chociażby w sektorze finansowym, rodzi się czy – jak pokazują ostatnie wydarzenia – wręcz narodziła się swoista pokusa postrzegania rozwiązań formalnych
+(nowe, złożone od strony techniczno-matematycznej produkty) jako swoistego
+panaceum na tradycyjne problemy, a zwłaszcza te związane z pojęciem ryzyka
+podejmowanych decyzji. Przewartościowania poglądów na rolę matematyki
+w ekonomii nie należy jednak utożsamiać z ideą ograniczania zastosowania
+matematyki, ale wręcz z wzrostem jej wykorzystania. Matematyka na usługach ekonomii powinna być wykorzystywana do coraz szerszego testowania
+koncepcji teoretycznych17. Natomiast zmniejszeniu powinny ulec oczekiwania
+co do roli matematyki jako swoistego kamienia filozoficznego pozwalającego
+na uczynienie z ekonomii nauki zbliżonej do nauk ścisłych. Przy okazji warto
+zauważyć, że większość z dzieł stanowiących kamienie milowe w rozwoju ekonomii to prace charakteryzujące się stosunkowo ograniczonym wykorzystaniem matematyki i aparatu matematycznego18.
+Po siódme: niezbędne wydaje się także nowe spojrzenie na rolę państwa
+w gospodarce i odejście od dychotomii: albo traktowania państwa jako prawie
+że zła koniecznego, którego obecność w gospodarce można uzasadnić w zasadzie tylko zawodnością rynku, a w tym sferą dóbr publicznych, albo prezentowania państwa jako substytutu rynku i instytucji omnipotentnej. W obecnych
+realiach ekonomicznych nie wydaje się zasadne analizowanie rynku i państwa
+w kategoriach alternatywy. W gospodarce, która stanowi jeden z podsystemów
+całego życia społecznego, potrzebny jest rynek jako mechanizm podstawowy
+z punktu widzenia zapewnienia mikroekonomicznej efektywności. Potrzebne
+jest jednak także państwo jako instytucja regulująca oraz chroniąca przed
+nadużywaniem władzy ekonomicznej do realizacji partykularnych interesów.
+Rynek wolny to nie to samo co rynek nieregulowany19.
+Po ósme: ekonomia powinna stać się bardziej pluralistyczna w rozumieniu
+akceptacji różnych teorii i koncepcji nawiązujących do niekiedy odmiennych
+paradygmatów. Zresztą coraz częściej, pomijając najbardziej zagorzałych zwolenników czystości podejścia w kategoriach konkretnej szkoły czy teorii, ekonomiści uprawiają ekonomię eklektyczną czy też tzw. ekonomię złożoności20.
+Oczywiście, podobnie jak w wypadku dyskutowanego wcześniej łączenia ekonomii z innymi naukami, eklektyzm czy złożoność nie mogą być synonimem
+swoistego miszmaszu ekonomicznego.
+Po dziewiąte: ekonomiści, mając słuszne powody do satysfakcji z rozwoju
+swojej nauki na przestrzeni ostatnich ponad dwustu lat, czyli od momentu
+opublikowania Badań nad naturą i przyczynami bogactwa narodów przez
+Smitha, powinni jednak zarazem zaakceptować, że ekonomia, będąc nauką
+społeczną, nigdy nie będzie mogła aspirować do bycia nauką quasi-ścisłą. Bez
+względu na wyrafinowanie i techniczną złożoność narzędzi analizy zawsze
+będziemy mieć problem z predykcją i zawsze będziemy narażeni na zarzuty,
+że czegoś nie przewidzieliśmy bądź źle przewidzieliśmy. Pewna doza pokory
+wobec złożoności świata, który staramy się poznać i zrozumieć, jest czymś absolutnie niezbędnym.
+ieniu teorii rewolucji naukowych nie muszą oznaczać przyjmowania koncepcji bezwzględnie lepszych od wcześniej dominujących. Choć autorzy prac
+naukowych z ekonomii dość często odwołują się do falsyfikacjonizmu, którego
+zastosowanie miałoby pozwolić na zakwestionowanie jakiegoś ze składników
+teorii lub utrwalić przekonanie o jego słuszności, to w rzeczywistości znacznie
+częściej realizują konfirmacjonizm mniej lub bardziej skażony zasadą pars pro
+toto.
+Koncepcja finansyzacji, właśnie w celu uniknięcia zarzutu, że przez dobór
+faktów wygodnych z punktu widzenia jej zwolenników nadaje się jej wymiar
+zjawiska o fundamentalnym znaczeniu, wymaga dalszych studiów i badań
+prowadzących do prób konstrukcji bardziej niż do tej pory dojrzałych modeli
+czy teorii, a następnie ich testowania. Jak na razie takich prób jest stosunkowo mało21. Nawet jednak już na obecnym etapie analiz zasadne wydaje się
+uznanie, że finansyzacja i jej konsekwencje powinny być uwzględniane w badaniach naukowych jako jeden z elementów szerszych zmian we współczesnej
+ekonomii.
+Nie ulega wątpliwości, że ekonomia musi się zmieniać wraz ze zmianami
+będącego przedmiotem jej zainteresowań świata, i to nie tylko w jego gospodarczym wymiarze. Jednakże w dyskusjach na temat teraźniejszości i przyszłości ekonomii należy unikać stanowisk skrajnych. Nie akceptując antyekonomizmu, nie powinnyśmy także ulegać ekonomicznemu triumfalizmowi
+i związanemu z tym prezentowaniu poszczególnych teorii, czy koncepcji w kategoriach ostatecznego wyjaśnienia mechanizmów rządzących rozwojem świata w sferze gospodarczej. Musimy zaakceptować, na co już zwracano uwagę,
+ewolucyjność życia ekonomicznego nie w rozumieniu zmian determinowanychprawami natury funkcjonującymi niezależnie od ludzi, a w rozumieniu przeobrażeń dokonujących się w rzeczywistości społecznej, także w obszarze kulturowym. Tak rozumiany ewolucjonizm nie pozwala na postrzeganie zmian
+w świecie ekonomicznym jako opartych na ideach uniformizmu, liniowości czy
+progresywizmu, a tym bardziej finalizmu. Nie ma i nie będzie końca historii
+także w sferze zjawisk ekonomicznych, a co za tym idzie – nie ma i nie będzie
+końca przeobrażeń ekonomii jako nauki. Nawet najbardziej zaawansowane
+w kategoriach formalnych narzędzia poznania świata realnego nie są w stanie
+uchronić nas przed występowaniem zjawisk i zdarzeń, które tylko w ograniczonym stopniu jesteśmy w stanie przewidzieć. Milton Friedman powiedział,
+że „to co sprawia, że jest ona [ekonomia – M. R.] najbardziej fascynującą, jest
+to, że jej fundamentalne zasady są tak proste, że każdy jest w stanie je zrozumieć, jednak niewielu je rozumie”22. Być może sprawa jest jeszcze bardziej
+złożona i musimy pogodzić się z tym, że do końca nie zrozumiemy tych zasad
+nigdy, co nie znaczy, że nie możemy, doskonaląc ekonomię, zwiększać, i to
+istotnie, nasze zdolności eksplanacyjne i predykcyjne.
+Na zakończenie wróćmy do pytania o to, czy i w jakim stopniu to ekonomiści i uprawiana przez nich nauka mogą być postrzegani jako odpowiedzialni
+za ostatni kryzys. Niewątpliwie, o czym już pisano, część ekonomistów uległa (m.in. pod wpływem upadku systemu gospodarki centralnie zarządzanej,
+a zarazem relatywnie długiego okresu dobrej koniunktury w wielu gospodarkach rynkowych) złudzeniu, że nastąpił swoisty koniec historii i że udało
+się w sposób wyczerpujący i ostateczny wytłumaczyć mechanizmy rządzące
+współczesną rzeczywistością gospodarczą. Na przełomie XX i XXI w. byli ekonomiści, którzy m.in. zastanawiali się, czy warto nadal dyskutować o zjawisku
+cykliczności w funkcjonowaniu gospodarki rynkowej i możliwości wystąpienia
+kryzysu. Tak zwana nowa ekonomia, w sferze realnej kojarzona z rozwojem
+szeroko rozumianej elektronizacji i informatyzacji, miała wiązać się z radykalnym przeobrażeniem tradycyjnych mechanizmów funkcjonowania gospodarki
+rynkowej. Efektywne rynki i racjonalne oczekiwania podmiotów gospodarczych miały z jednej strony wykluczać potrzebę i sens interwencji państwa,
+a z drugiej – chronić przed pojawianiem się turbulencji ekonomicznych innych
+niż przejściowe i raczej marginalne zakłócenia we wzroście i rozwoju. Dziś
+z perspektywy ostatnich lat i wspominanego na początku opracowania ostatniego kryzysu wiemy, że świat realny okazał się – jak zwykle zresztą – bardzo
+nieidealny i że nowa ekonomia to bardziej kwestia zmiany form niż treści zjawisk gospodarczych.
+Uznanie, że ekonomiści powinni zastanowić się nad przyszłością swojej
+nauki i niezbędnymi zmianami, nie jest tożsame z akceptacją tezy, że to ekonomiści i ich nauka są głównymi odpowiedzialnymi za ostatni kryzys. Ekonomia jako nauka i jej ustalenia są bowiem przede wszystkim narzędziami,
+które mogą być lepiej lub gorzej wykorzystywane przez tych wszystkich, którzy
+zarówno w skali mikroekonomicznej, jak i w skali makroekonomicznej podejmują decyzje gospodarcze. Jak zauważył już w XIX w. Nassau Wiliam Senior, między ekonomią jako nauką a stosowaniem ustaleń ekonomii w praktyce
+gospodarczej jest podobna różnica jak między nawigacją, wykorzystującą wiedzę m.in. astronomiczną, jako nauką o regułach żeglowania a umiejętnością
+zastosowania tych reguł przez konkretnych żeglarzy w celu szczęśliwego doprowadzenia okrętu do portu docelowego. Oczywiście nie zwalnia to badaczy
+studiujących reguły nawigacji z konieczności stałego pogłębiania swojej wiedzy i doskonalenia swojej nauki. Ekonomia, jako nauka dostarczająca wiedzy
+o tym, jak żeglować po morzach i oceanach współczesnej gospodarki, także
+musi być stale rozwijana i doskonalona. 
