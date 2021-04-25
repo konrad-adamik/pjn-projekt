@@ -118,111 +118,138 @@ writeCorpus(corpusPP, path = preprocessedDir)
 
 # Macierze częstości (podpunkt C) ------------------------------------------------------
 
+# Funkcje pomocnicze do tworzenia macierzy częstości o określonych parametrach
 
-# Utworzenie korpusu dokumentów
-corpusMatrixDir <- paste(
-    outputDir,
-    "Dokumenty_Przetworzone",
-    sep = "\\"
-)
-
-corpusMatrix <- VCorpus(
-    DirSource(
-        corpusMatrixDir,
-        "CP1250",
-        "*.txt"
-    ),
-    readerControl = list(
-        language = "pl_PL"
+createTDM <- function(weightingMode, lowerBound, upperBound){
+  TDM <- TermDocumentMatrix(
+    corpusPP,
+    control = list(
+      weighting = weightingMode,
+      bounds = list(
+        global = c(lowerBound, upperBound)
+      )
     )
-)
-
-# Usunięcie rozszerzeń z nazw dokumentów w korpusie
-cutExtensionsMatrix <- function(document){
-    meta(document,"id") <- gsub(
-        pattern = "\\.txt$",
-        replacement = "",
-        meta(document,"id")
-    )
-    return(document)
+  )
+  return(TDM)
 }
-corpusMatrix <- tm_map(corpusMatrix, cutExtensionsMatrix)
+
+createDTM <- function(weightingMode, lowerBound, upperBound){
+  DTM <- DocumentTermMatrix(
+    corpusPP,
+    control = list(
+      weighting = weightingMode,
+      bounds = list(
+        global = c(lowerBound, upperBound)
+      )
+    )
+  )
+  return(DTM)
+}
+
+# Funkcja pomocnicza do eksportu macierzy do pliku
+
+exportMatrix <- function(matrix, fileName) {
+  matrixFile <- paste(
+    outputDir,
+    fileName,
+    sep = "\\"
+  )
+  write.table(
+    matrix, 
+    file = matrixFile, 
+    sep = ";", 
+    dec = ",", 
+    col.names = NA
+  )
+}
 
 # Tworzenie macierzy częstości
-tdmTfAll <- TermDocumentMatrix(corpusMatrix)
-tdmTfIdfAll <- TermDocumentMatrix(
-    corpusMatrix,
-    control = list(
-        weighting = weightTfIdf
-    )
-)
-tdmTfBounds <- TermDocumentMatrix(
-    corpusMatrix,
-    control = list(
-        bounds = list(
-            global = c(2,16)
-        )
-    )
-)
-tdmTfIdfBounds <- TermDocumentMatrix(
-    corpusMatrix,
-    control = list(
-        weighting = weightTfIdf,
-        bounds = list(
-            global = c(2,16)
-        )
-    )
-)
 
-dtmTfAll <- DocumentTermMatrix(corpusMatrix)
-dtmTfIdfAll <- DocumentTermMatrix(
-    corpusMatrix,
-    control = list(
-        weighting = weightTfIdf
-    )
+##-- TDM --##
+
+TDM_Tf_NoBounds <- TermDocumentMatrix(corpusPP)
+TDM_Tf_Bounds_3_14 <- createTDM(weightTf, 3, 14)
+TDM_Tf_Bounds_4_20 <- createTDM(weightTf, 4, 20)
+TDM_Tf_Bounds_2_18 <- createTDM(weightTf, 2, 18)
+
+TDM_TfIdf_NoBounds <- TermDocumentMatrix(
+  corpusPP,
+  control = list(
+    weighting = weightTfIdf
+  )
 )
-dtmTfBounds <- DocumentTermMatrix(
-    corpusMatrix,
-    control = list(
-        bounds = list(
-            global = c(2,16)
-        )
-    )
+TDM_TfIdf_Bounds_3_14 <- createTDM(weightTfIdf, 3, 14)
+TDM_TfIdf_Bounds_4_20 <- createTDM(weightTfIdf, 4, 20)
+TDM_TfIdf_Bounds_2_18 <- createTDM(weightTfIdf, 2, 18)
+
+##-- DTM --##
+
+DTM_Tf_NoBounds <- DocumentTermMatrix(corpusPP)
+DTM_Tf_Bounds_3_14 <- createDTM(weightTf, 3, 14)
+DTM_Tf_Bounds_4_20 <- createDTM(weightTf, 4, 20)
+DTM_Tf_Bounds_2_18 <- createDTM(weightTf, 2, 18)
+
+DTM_TfIdf_NoBounds <- DocumentTermMatrix(
+  corpusPP,
+  control = list(
+    weighting = weightTfIdf
+  )
 )
-dtmTfIdfBounds <- DocumentTermMatrix(
-    corpusMatrix,
-    control = list(
-        weighting = weightTfIdf,
-        bounds = list(
-            global = c(2,16)
-        )
-    )
-)
+DTM_TfIdf_Bounds_3_14 <- createDTM(weightTfIdf, 3, 14)
+DTM_TfIdf_Bounds_4_20 <- createDTM(weightTfIdf, 4, 20)
+DTM_TfIdf_Bounds_2_18 <- createDTM(weightTfIdf, 2, 18)
+
 
 # Konwersje macierzy rzadkich do macierzy klasycznych
-tdmTfAllMatrix <- as.matrix(tdmTfAll)
-tdmTfIdfAllMatrix <- as.matrix(tdmTfIdfAll)
-tdmTfBoundsMatrix <- as.matrix(tdmTfBounds)
-tdmTfIdfBoundsMatrix <- as.matrix(tdmTfIdfBounds)
-dtmTfAllMatrix <- as.matrix(dtmTfAll)
-dtmTfIdfAllMatrix <- as.matrix(dtmTfIdfAll)
-dtmTfBoundsMatrix <- as.matrix(dtmTfBounds)
-dtmTfIdfBoundsMatrix <- as.matrix(dtmTfIdfBounds)
+
+##-- TDM --##
+
+TDM_Tf_NoBounds_Matrix <- as.matrix(TDM_Tf_NoBounds)
+TDM_Tf_Bounds_3_14_Matrix <- as.matrix(TDM_Tf_Bounds_3_14)
+TDM_Tf_Bounds_4_20_Matrix <- as.matrix(TDM_Tf_Bounds_4_20)
+TDM_Tf_Bounds_2_18_Matrix <- as.matrix(TDM_Tf_Bounds_2_18)
+
+TDM_TfIdf_NoBounds_Matrix <- as.matrix(TDM_TfIdf_NoBounds)
+TDM_TfIdf_Bounds_3_14_Matrix <- as.matrix(TDM_TfIdf_Bounds_3_14)
+TDM_TfIdf_Bounds_4_20_Matrix <- as.matrix(TDM_TfIdf_Bounds_4_20)
+TDM_TfIdf_Bounds_2_18_Matrix <- as.matrix(TDM_TfIdf_Bounds_2_18)
+
+##-- DTM --##
+
+DTM_Tf_NoBounds_Matrix <- as.matrix(DTM_Tf_NoBounds)
+DTM_Tf_Bounds_3_14_Matrix <- as.matrix(DTM_Tf_Bounds_3_14)
+DTM_Tf_Bounds_4_20_Matrix <- as.matrix(DTM_Tf_Bounds_4_20)
+DTM_Tf_Bounds_2_18_Matrix <- as.matrix(DTM_Tf_Bounds_2_18)
+
+DTM_TfIdf_NoBounds_Matrix <- as.matrix(DTM_TfIdf_NoBounds)
+DTM_TfIdf_Bounds_3_14_Matrix <- as.matrix(DTM_TfIdf_Bounds_3_14)
+DTM_TfIdf_Bounds_4_20_Matrix <- as.matrix(DTM_TfIdf_Bounds_4_20)
+DTM_TfIdf_Bounds_2_18_Matrix <- as.matrix(DTM_TfIdf_Bounds_2_18)
+
 
 # Eksport macierzy częstości do pliku
-matrixFile <- paste(
-  outputDir,
-  "tdmTfAllMatrix.csv",
-  sep = "\\"
-)
-write.table(
-  tdmTfAllMatrix, 
-  file = matrixFile, 
-  sep = ";", 
-  dec = ",", 
-  col.names = NA
-)
 
+##-- TDM --##
+
+exportMatrix(TDM_Tf_NoBounds_Matrix, "TDM_Tf_NoBounds_Matrix.csv")
+exportMatrix(TDM_Tf_Bounds_3_14_Matrix, "TDM_Tf_Bounds_3_14_Matrix.csv")
+exportMatrix(TDM_Tf_Bounds_4_20_Matrix, "TDM_Tf_Bounds_4_20_Matrix.csv")
+exportMatrix(TDM_Tf_Bounds_2_18_Matrix, "TDM_Tf_Bounds_2_18_Matrix.csv")
+exportMatrix(TDM_TfIdf_NoBounds_Matrix, "TDM_TfIdf_NoBounds_Matrix.csv")
+exportMatrix(TDM_TfIdf_Bounds_3_14_Matrix, "TDM_TfIdf_Bounds_3_14_Matrix.csv")
+exportMatrix(TDM_TfIdf_Bounds_4_20_Matrix, "TDM_TfIdf_Bounds_4_20_Matrix.csv")
+exportMatrix(TDM_TfIdf_Bounds_2_18_Matrix, "TDM_TfIdf_Bounds_2_18_Matrix.csv")
+
+##-- DTM --##
+
+exportMatrix(DTM_Tf_NoBounds_Matrix, "DTM_Tf_NoBounds_Matrix.csv")
+exportMatrix(DTM_Tf_Bounds_3_14_Matrix, "DTM_Tf_Bounds_3_14_Matrix.csv")
+exportMatrix(DTM_Tf_Bounds_4_20_Matrix, "DTM_Tf_Bounds_4_20_Matrix.csv")
+exportMatrix(DTM_Tf_Bounds_2_18_Matrix, "DTM_Tf_Bounds_2_18_Matrix.csv")
+exportMatrix(DTM_TfIdf_NoBounds_Matrix, "DTM_TfIdf_NoBounds_Matrix.csv")
+exportMatrix(DTM_TfIdf_Bounds_3_14_Matrix, "DTM_TfIdf_Bounds_3_14_Matrix.csv")
+exportMatrix(DTM_TfIdf_Bounds_4_20_Matrix, "DTM_TfIdf_Bounds_4_20_Matrix.csv")
+exportMatrix(DTM_TfIdf_Bounds_2_18_Matrix, "DTM_TfIdf_Bounds_2_18_Matrix.csv")
 
 # Redukcje wymiarów (podpunkt D) -------------------------------------------------------
 
@@ -574,7 +601,7 @@ words3 <- c("zdrowie")
 round(resultsLDA$terms[,words3],4)
 
 
-# Analiza s??w kluczowych (podpunkt G) ----------------------------------------------------------
+# Analiza słów kluczowych (podpunkt G) ----------------------------------------------------------
 
 #-- Dla pierwszego dokumentu --#
 #-- Waga tf jako miara ważności słów --#
