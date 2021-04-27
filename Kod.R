@@ -22,7 +22,7 @@ library(topicmodels)
 library(wordcloud)
 
 # Zmiana katalogu roboczego
-workDir <- "D:\\Software\\UEK\\PJN_Projekt"
+workDir <- "D:\\Software\\UEK\\PJN_Projekt" 
 setwd(workDir)
 
 # Definicja ścieżek dostępu do katalogów funkcjonalnych
@@ -493,101 +493,73 @@ randEx4Pattern <- comPart(clusters4, patternClust)
 # Analiza tematyk (podpunkt F) ---------------------------------------------------------
 
 # Analiza ukrytej alokacji Dirichlet'a
-nTermsLDA <- ncol(dtmTfAll)
-nTopicsLDA <- 4
-lda <- LDA(
-    dtmTfAll,
-    k = nTopicsLDA,
-    method = "Gibbs",
-    control = list(
-        burnin = 2000,
-        thin = 100,
-        iter = 3000
+coloursLDA <- c("violet", "orange", "turquoise", "darkseagreen","blue", "red", "magenta", "yellow", "brown", "cyan")
+
+#Prezentacja tematów
+presentTopics <- function(numberOfTopics){
+  for(i in 1:numberOfTopics){
+    plotFileLDA <- paste(
+      outputDir,
+      paste(paste("Temat", i, sep=" "),".png", sep=""),
+      sep = "\\"
     )
-)
-resultsLDA <- posterior(lda)
+    png(filename = plotFileLDA, width = 2000, height = 700)
+    topic <- head(sort(resultsLDA$terms[i,],decreasing = TRUE),20)
+    par(mar = c(3,10,3,1))
+    barplot(
+      rev(topic),
+      horiz = TRUE,
+      las = 1,
+      main = paste("Temat", i, sep=" "),
+      xlab = "Prawdopodobieństwo",
+      col = coloursLDA[i]
+    )
+    dev.off()
+  }
+}
 
-# Prezentacja tematów
-par(mai = c(1,2,1,1))
-coloursLDA <- c("violet","orange","turquoise","darkseagreen")
-topic1 <- head(sort(resultsLDA$terms[1,],decreasing = TRUE),20)
-barplot(
-    rev(topic1),
-    horiz = TRUE,
-    las = 1, 
-    main = "Temat 1",
-    xlab = "Prawdopodobieństwo",
-    col = coloursLDA[1]
-)
-topic2 <- head(sort(resultsLDA$terms[2,],decreasing = TRUE),20)
-barplot(
-    rev(topic2),
-    horiz = TRUE,
-    las = 1, 
-    main = "Temat 2",
-    xlab = "Prawdopodobieństwo",
-    col = coloursLDA[2]
-)
-topic3 <- head(sort(resultsLDA$terms[3,],decreasing = TRUE),20)
-barplot(
-    rev(topic3),
-    horiz = TRUE,
-    las = 1, 
-    main = "Temat 3",
-    xlab = "Prawdopodobieństwo",
-    col = coloursLDA[3]
-)
-topic4 <- head(sort(resultsLDA$terms[4,],decreasing = TRUE),20)
-barplot(
-    rev(topic4),
-    horiz = TRUE,
-    las = 1, 
-    main = "Temat 4",
-    xlab = "Prawdopodobieństwo",
-    col = coloursLDA[4]
-)
+#Prezentacja dokumentów
+presentDocuments <- function(){
+  for(i in 1:20){
+    plotFileLDA <- paste(
+      outputDir,
+      paste(paste("Dokument", i, sep=" "),".png", sep=""),
+      sep = "\\"
+    )
+    png(filename = plotFileLDA, width = 2000, height = 700)
+    document <- resultsLDA$topics[i,]
+    barplot(
+      document,
+      horiz = TRUE,
+      las = 1,
+      main = rownames(resultsLDA$topics)[i],
+      xlab = "Prawdopodobieństwo",
+      col = coloursLDA
+    )
+    dev.off()
+  }
+}
 
-# Prezentacja dokumentów
-document1 <- resultsLDA$topics[1,]
-barplot(
-    document1,
-    horiz = TRUE,
-    las = 1, 
-    main = rownames(resultsLDA$topics)[1],
-    xlab = "Prawdopodobieństwo",
-    col = coloursLDA
-    #col = coloursLDA[which.max(resultsLDA$topics[1,])]
-)
-document4 <- resultsLDA$topics[4,]
-barplot(
-    document4,
-    horiz = TRUE,
-    las = 1, 
-    main = rownames(resultsLDA$topics)[4],
-    xlab = "Prawdopodobieństwo",
-    col = coloursLDA
-    #col = coloursLDA[which.max(resultsLDA$topics[4,])]
-)
-document11 <- resultsLDA$topics[11,]
-barplot(
-    document11,
-    horiz = TRUE,
-    las = 1, 
-    main = rownames(resultsLDA$topics)[11],
-    xlab = "Prawdopodobieństwo",
-    col = coloursLDA
-    #col = coloursLDA[which.max(resultsLDA$topics[11,])]
-)
-document17 <- resultsLDA$topics[17,]
-barplot(
-    document17,
-    horiz = TRUE,
-    las = 1, 
-    main = rownames(resultsLDA$topics)[17],
-    xlab = "Prawdopodobieństwo",
-    col = coloursLDA
-    #col = coloursLDA[which.max(resultsLDA$topics[17,])]
-)
+#Eksperymenetowanie z LDA
+LDAExperiment <- function(DTM_Tf, numberOfTopics, methodName, burninValue, thinValue, iterValue){
+  nTermsLDA <- ncol(DTM_Tf)
+  nTopicsLDA <- numberOfTopics
+  lda <- LDA(
+    DTM_Tf,
+    k = numberOfTopics,
+    method = methodName,
+    control = list(
+      burnin = burninValue,
+      thin = thinValue,
+      iter = iterValue
+    )
+  )
+  presentTopics(numberOfTopics)
+  presentDocuments()
+  return(posterior(lda))
+}
+
+resultsLDA <- LDAExperiment(DTM_Tf_NoBounds, 4, "Gibbs", 2000, 100, 3000)
 
 # Udział tematów w słowach
 options(scipen = 5)
