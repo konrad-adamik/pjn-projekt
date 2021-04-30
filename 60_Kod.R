@@ -35,7 +35,7 @@ outputDir <- ".\\Wyniki"
 # Utworzenie korpusu dokumentów dla przetwarzania wstępnego
 corpusPPDir <- paste(
     inputDir,
-    "Dokumenty",
+    "60_Dokumenty",
     sep = "\\"
 )
 
@@ -121,46 +121,46 @@ writeCorpus(corpusPP, path = preprocessedDir)
 # Funkcje pomocnicze do tworzenia macierzy częstości o określonych parametrach
 
 createTDM <- function(weightingMode, lowerBound, upperBound){
-  TDM <- TermDocumentMatrix(
-    corpusPP,
-    control = list(
-      weighting = weightingMode,
-      bounds = list(
-        global = c(lowerBound, upperBound)
-      )
+    TDM <- TermDocumentMatrix(
+        corpusPP,
+        control = list(
+            weighting = weightingMode,
+            bounds = list(
+                global = c(lowerBound, upperBound)
+            )
+        )
     )
-  )
-  return(TDM)
+    return(TDM)
 }
 
 createDTM <- function(weightingMode, lowerBound, upperBound){
-  DTM <- DocumentTermMatrix(
-    corpusPP,
-    control = list(
-      weighting = weightingMode,
-      bounds = list(
-        global = c(lowerBound, upperBound)
-      )
+    DTM <- DocumentTermMatrix(
+        corpusPP,
+        control = list(
+            weighting = weightingMode,
+            bounds = list(
+                global = c(lowerBound, upperBound)
+            )
+        )
     )
-  )
-  return(DTM)
+    return(DTM)
 }
 
 # Funkcja pomocnicza do eksportu macierzy do pliku
 
 exportMatrix <- function(matrix, fileName) {
-  matrixFile <- paste(
-    outputDir,
-    fileName,
-    sep = "\\"
-  )
-  write.table(
-    matrix, 
-    file = matrixFile, 
-    sep = ";", 
-    dec = ",", 
-    col.names = NA
-  )
+    matrixFile <- paste(
+        outputDir,
+        fileName,
+        sep = "\\"
+    )
+    write.table(
+        matrix, 
+        file = matrixFile, 
+        sep = ";", 
+        dec = ",", 
+        col.names = NA
+    )
 }
 
 # Tworzenie macierzy częstości
@@ -173,10 +173,10 @@ TDM_Tf_Bounds_4_20 <- createTDM(weightTf, 4, 20)
 TDM_Tf_Bounds_2_18 <- createTDM(weightTf, 2, 18)
 
 TDM_TfIdf_NoBounds <- TermDocumentMatrix(
-  corpusPP,
-  control = list(
-    weighting = weightTfIdf
-  )
+    corpusPP,
+    control = list(
+        weighting = weightTfIdf
+    )
 )
 TDM_TfIdf_Bounds_3_14 <- createTDM(weightTfIdf, 3, 14)
 TDM_TfIdf_Bounds_4_20 <- createTDM(weightTfIdf, 4, 20)
@@ -190,10 +190,10 @@ DTM_Tf_Bounds_4_20 <- createDTM(weightTf, 4, 20)
 DTM_Tf_Bounds_2_18 <- createDTM(weightTf, 2, 18)
 
 DTM_TfIdf_NoBounds <- DocumentTermMatrix(
-  corpusPP,
-  control = list(
-    weighting = weightTfIdf
-  )
+    corpusPP,
+    control = list(
+        weighting = weightTfIdf
+    )
 )
 DTM_TfIdf_Bounds_3_14 <- createDTM(weightTfIdf, 3, 14)
 DTM_TfIdf_Bounds_4_20 <- createDTM(weightTfIdf, 4, 20)
@@ -257,44 +257,44 @@ exportMatrix(DTM_TfIdf_Bounds_2_18_Matrix, "DTM_TfIdf_Bounds_2_18_Matrix.csv")
 ##-- Redukcja przy użyciu analizy głównych składowych --##
 
 presentPca <- function(DTM, fileName){
-  pca <- prcomp(DTM)
-  
-  legendPCA <- paste(paste("d",1:20,sep = ""), rownames(DTM), sep = " => ")
-  xPCA <- pca$x[,1]
-  yPCA <- pca$x[,2]
-  
-  plotFilePCA <- paste(
-    outputDir,
-    fileName,
-    sep = "\\"
-  )
-  png(filename = plotFilePCA, width = 1000, height = 1300)
-  
-  plot(
-    xPCA,
-    yPCA, 
-    main = "Analiza głównych składowych",
-    xlab = "PC1",
-    ylab = "PC2",
-    col = "darkorchid4",
-    pch = 16,
-  )
-  text(
-    xPCA,
-    yPCA,
-    paste("d",1:20,sep = ""),
-    col = "darkorchid4",
-    pos = 2,
-    cex = 0.75
-  )
-  legend(
-    "top",
-    legendPCA,
-    cex = 0.9,
-    text.col = "darkorchid4"
-  )
-  
-  dev.off()
+    pca <- prcomp(DTM)
+    
+    legendPCA <- paste(paste("d",1:20,sep = ""), rownames(DTM), sep = " => ")
+    xPCA <- pca$x[,1]
+    yPCA <- pca$x[,2]
+    
+    plotFilePCA <- paste(
+        outputDir,
+        fileName,
+        sep = "\\"
+    )
+    png(filename = plotFilePCA, width = 1000, height = 1300)
+    
+    plot(
+        xPCA,
+        yPCA, 
+        main = "Analiza głównych składowych",
+        xlab = "PC1",
+        ylab = "PC2",
+        col = "darkorchid4",
+        pch = 16,
+    )
+    text(
+        xPCA,
+        yPCA,
+        paste("d",1:20,sep = ""),
+        col = "darkorchid4",
+        pos = 2,
+        cex = 0.75
+    )
+    legend(
+        "top",
+        legendPCA,
+        cex = 0.9,
+        text.col = "darkorchid4"
+    )
+    
+    dev.off()
 }
 
 presentPca(DTM = DTM_Tf_NoBounds, fileName = "PCA_DTM_Tf_NoBounds.png")
@@ -313,74 +313,74 @@ presentPca(DTM = DTM_TfIdf_Bounds_4_20, fileName = "PCA_DTM_TfIdf_Bounds_4_20.pn
 # (dekompozycja wg wartości osobliwych)
 
 presentLsa <- function(TDM, fileName, ownTerms) {
-
-  lsa <- lsa(TDM)
-  
-  coordDocsLSA <- lsa$dk%*%diag(lsa$sk)
-  coordTermsLSA <- lsa$tk%*%diag(lsa$sk)
-  termsImportanceLSA <- diag(lsa$tk%*%diag(lsa$sk)%*%t(diag(lsa$sk))%*%t(lsa$tk))
-  importantTerms <- names(tail(sort(termsImportanceLSA),30))
-  coordImportantTermsLSA <- coordTermsLSA[importantTerms,]
-  ownTermsLSA <- ownTerms
-  coordOwnTermsLSA <- coordTermsLSA[ownTermsLSA,]
-  
-  legendLSA <- paste(
-    paste("d",1:20,sep = ""), 
-    rownames(coordDocsLSA), 
-    sep = " => "
-  )
-  x1LSA <- coordDocsLSA[,1]
-  y1LSA <- coordDocsLSA[,2]
-  x2LSA <- coordImportantTermsLSA[,1]
-  y2LSA <- coordImportantTermsLSA[,2]
-  
-  # Eksport wykresu do pliku
-  plotFileLSA <- paste(
-    outputDir,
-    fileName,
-    sep = "\\"
-  )
-  png(filename = plotFileLSA, height = 1400, width = 1800)
-  
-  # Wykres w przestrzeni dwuwymiarowej
-  plot(
-    x1LSA,
-    y1LSA, 
-    main = "Analiza ukrytych wymiarów semantycznych",
-    xlab = "SD1",
-    ylab = "SD2",
-    col = "darkorchid4",
-    pch = 16
-  )
-  text(
-    x1LSA,
-    y1LSA,
-    paste("d",1:20,sep = ""),
-    col = "darkorchid4",
-    pos = 4,
-    cex = 0.8
-  )
-  points(
-    x2LSA,
-    y2LSA,
-    col = "magenta",
-    pch = 17
-  )
-  text(
-    x2LSA,
-    y2LSA,
-    col = "magenta",
-    labels = rownames(coordImportantTermsLSA),
-    pos = 3,
-    cex = 0.8
-  )
-  legend(
-    "left",
-    legendLSA,
-    cex = 1.0,
-    text.col = "darkorchid4"
-  )
-  dev.off()
+    
+    lsa <- lsa(TDM)
+    
+    coordDocsLSA <- lsa$dk%*%diag(lsa$sk)
+    coordTermsLSA <- lsa$tk%*%diag(lsa$sk)
+    termsImportanceLSA <- diag(lsa$tk%*%diag(lsa$sk)%*%t(diag(lsa$sk))%*%t(lsa$tk))
+    importantTerms <- names(tail(sort(termsImportanceLSA),30))
+    coordImportantTermsLSA <- coordTermsLSA[importantTerms,]
+    ownTermsLSA <- ownTerms
+    coordOwnTermsLSA <- coordTermsLSA[ownTermsLSA,]
+    
+    legendLSA <- paste(
+        paste("d",1:20,sep = ""), 
+        rownames(coordDocsLSA), 
+        sep = " => "
+    )
+    x1LSA <- coordDocsLSA[,1]
+    y1LSA <- coordDocsLSA[,2]
+    x2LSA <- coordImportantTermsLSA[,1]
+    y2LSA <- coordImportantTermsLSA[,2]
+    
+    # Eksport wykresu do pliku
+    plotFileLSA <- paste(
+        outputDir,
+        fileName,
+        sep = "\\"
+    )
+    png(filename = plotFileLSA, height = 1400, width = 1800)
+    
+    # Wykres w przestrzeni dwuwymiarowej
+    plot(
+        x1LSA,
+        y1LSA, 
+        main = "Analiza ukrytych wymiarów semantycznych",
+        xlab = "SD1",
+        ylab = "SD2",
+        col = "darkorchid4",
+        pch = 16
+    )
+    text(
+        x1LSA,
+        y1LSA,
+        paste("d",1:20,sep = ""),
+        col = "darkorchid4",
+        pos = 4,
+        cex = 0.8
+    )
+    points(
+        x2LSA,
+        y2LSA,
+        col = "magenta",
+        pch = 17
+    )
+    text(
+        x2LSA,
+        y2LSA,
+        col = "magenta",
+        labels = rownames(coordImportantTermsLSA),
+        pos = 3,
+        cex = 0.8
+    )
+    legend(
+        "left",
+        legendLSA,
+        cex = 1.0,
+        text.col = "darkorchid4"
+    )
+    dev.off()
 }
 
 ownTerms <- c("zdrowie", "covid", "przedsiębiorstwo", "oprogramowanie", "zakażenie", "pacjent", "ekonomia", "literatura", "biznes", "zarządzać")
@@ -502,67 +502,67 @@ coloursLDA <- c("violet", "orange", "turquoise", "darkseagreen","blue", "red", "
 
 #Prezentacja tematów
 presentTopics <- function(numberOfTopics, resultsLDA){
-  for(i in 1:numberOfTopics){
-    plotFileLDA <- paste(
-      outputDir,
-      paste(paste("Temat", i, sep=" "),".png", sep=""),
-      sep = "\\"
-    )
-    png(filename = plotFileLDA, width = 1000, height = 500)
-    topic <- head(sort(resultsLDA$terms[i,],decreasing = TRUE), 10)
-    par(mar = c(3,10,3,1))
-    barplot(
-      rev(topic),
-      horiz = TRUE,
-      las = 1,
-      main = paste("Temat", i, sep=" "),
-      xlab = "Prawdopodobieństwo",
-      col = coloursLDA[i]
-    )
-    dev.off()
-  }
+    for(i in 1:numberOfTopics){
+        plotFileLDA <- paste(
+            outputDir,
+            paste(paste("Temat", i, sep=" "),".png", sep=""),
+            sep = "\\"
+        )
+        png(filename = plotFileLDA, width = 1000, height = 500)
+        topic <- head(sort(resultsLDA$terms[i,],decreasing = TRUE), 10)
+        par(mar = c(3,10,3,1))
+        barplot(
+            rev(topic),
+            horiz = TRUE,
+            las = 1,
+            main = paste("Temat", i, sep=" "),
+            xlab = "Prawdopodobieństwo",
+            col = coloursLDA[i]
+        )
+        dev.off()
+    }
 }
 
 #Prezentacja dokumentów
 presentDocuments <- function(resultsLDA){
-  for(i in 1:20){
-    plotFileLDA <- paste(
-      outputDir,
-      paste(paste("Dokument", i, sep=" "),".png", sep=""),
-      sep = "\\"
-    )
-    png(filename = plotFileLDA, width = 1000, height = 500)
-    document <- resultsLDA$topics[i,]
-    barplot(
-      document,
-      horiz = TRUE,
-      las = 1,
-      main = rownames(resultsLDA$topics)[i],
-      xlab = "Prawdopodobieństwo",
-      col = coloursLDA
-    )
-    dev.off()
-  }
+    for(i in 1:20){
+        plotFileLDA <- paste(
+            outputDir,
+            paste(paste("Dokument", i, sep=" "),".png", sep=""),
+            sep = "\\"
+        )
+        png(filename = plotFileLDA, width = 1000, height = 500)
+        document <- resultsLDA$topics[i,]
+        barplot(
+            document,
+            horiz = TRUE,
+            las = 1,
+            main = rownames(resultsLDA$topics)[i],
+            xlab = "Prawdopodobieństwo",
+            col = coloursLDA
+        )
+        dev.off()
+    }
 }
 
 #Eksperymenetowanie z LDA
 LDAExperiment <- function(DTM_Tf, numberOfTopics){
-  nTermsLDA <- ncol(DTM_Tf)
-  nTopicsLDA <- numberOfTopics
-  lda <- LDA(
-    DTM_Tf,
-    k = numberOfTopics,
-    method = "Gibbs",
-    control = list(
-      burnin = 2000,
-      thin = 100,
-      iter = 3000
+    nTermsLDA <- ncol(DTM_Tf)
+    nTopicsLDA <- numberOfTopics
+    lda <- LDA(
+        DTM_Tf,
+        k = numberOfTopics,
+        method = "Gibbs",
+        control = list(
+            burnin = 2000,
+            thin = 100,
+            iter = 3000
+        )
     )
-  )
-  resultsLDA <- posterior(lda)
-  presentTopics(numberOfTopics, resultsLDA)
-  presentDocuments(resultsLDA)
-  return(resultsLDA)
+    resultsLDA <- posterior(lda)
+    presentTopics(numberOfTopics, resultsLDA)
+    presentDocuments(resultsLDA)
+    return(resultsLDA)
 }
 
 #Eksperyment 1, DTM bez granic, 4 tematy
@@ -635,10 +635,10 @@ round(experiment3$terms[,words1],2)
 
 #funkcja pomocnicza do eksperymentów na macierzach DTM z wagami Tf i TfIdf
 weightExperiment <- function(DTM_Matrix){
-  for(i in 1:20){
-    print(paste("Dokument",i,sep=" "))
-    print(head(sort(DTM_Matrix[i,],decreasing = TRUE)))
-  }
+    for(i in 1:20){
+        print(paste("Dokument",i,sep=" "))
+        print(head(sort(DTM_Matrix[i,],decreasing = TRUE)))
+    }
 }
 
 
@@ -679,10 +679,10 @@ weightExperiment(DTM_TfIdf_Bounds_4_20_Matrix)
 
 #eksperyment 9
 for(i in 1:20){
-  termsImportance1 <- c(experiment1$topics[i,]%*%experiment1$terms)
-  names(termsImportance1) <- colnames(experiment1$terms)
-  print(paste("Dokument",i,sep=" "))
-  print(head(sort(termsImportance1,decreasing = TRUE)))
+    termsImportance1 <- c(experiment1$topics[i,]%*%experiment1$terms)
+    names(termsImportance1) <- colnames(experiment1$terms)
+    print(paste("Dokument",i,sep=" "))
+    print(head(sort(termsImportance1,decreasing = TRUE)))
 }
 
 #-- Chmura tagów --##
