@@ -22,7 +22,7 @@ library(topicmodels)
 library(wordcloud)
 
 # Zmiana katalogu roboczego
-workDir <- "D:\\Software\\UEK\\PJN_Projekt" 
+workDir <- "D:\\Software\\UEK\\PJN_Projekt"  
 setwd(workDir)
 
 # Definicja ścieżek dostępu do katalogów funkcjonalnych
@@ -493,18 +493,19 @@ randEx4Pattern <- comPart(clusters4, patternClust)
 # Analiza tematyk (podpunkt F) ---------------------------------------------------------
 
 # Analiza ukrytej alokacji Dirichlet'a
-coloursLDA <- c("violet", "orange", "turquoise", "darkseagreen","blue", "red", "magenta", "yellow", "brown", "cyan")
+
+coloursLDA <- c("violet", "orange", "turquoise", "darkseagreen","blue", "red", "magenta", "yellow", "brown", "cyan", "grey","chocolate","beige","chartreuse","coral","aquamarine","purple","salmon","sienna","tomato")
 
 #Prezentacja tematów
-presentTopics <- function(numberOfTopics){
+presentTopics <- function(numberOfTopics, resultsLDA){
   for(i in 1:numberOfTopics){
     plotFileLDA <- paste(
       outputDir,
       paste(paste("Temat", i, sep=" "),".png", sep=""),
       sep = "\\"
     )
-    png(filename = plotFileLDA, width = 2000, height = 700)
-    topic <- head(sort(resultsLDA$terms[i,],decreasing = TRUE),20)
+    png(filename = plotFileLDA, width = 1000, height = 500)
+    topic <- head(sort(resultsLDA$terms[i,],decreasing = TRUE), 10)
     par(mar = c(3,10,3,1))
     barplot(
       rev(topic),
@@ -519,14 +520,14 @@ presentTopics <- function(numberOfTopics){
 }
 
 #Prezentacja dokumentów
-presentDocuments <- function(){
+presentDocuments <- function(resultsLDA){
   for(i in 1:20){
     plotFileLDA <- paste(
       outputDir,
       paste(paste("Dokument", i, sep=" "),".png", sep=""),
       sep = "\\"
     )
-    png(filename = plotFileLDA, width = 2000, height = 700)
+    png(filename = plotFileLDA, width = 1000, height = 500)
     document <- resultsLDA$topics[i,]
     barplot(
       document,
@@ -541,43 +542,96 @@ presentDocuments <- function(){
 }
 
 #Eksperymenetowanie z LDA
-LDAExperiment <- function(DTM_Tf, numberOfTopics, methodName, burninValue, thinValue, iterValue){
+LDAExperiment <- function(DTM_Tf, numberOfTopics){
   nTermsLDA <- ncol(DTM_Tf)
   nTopicsLDA <- numberOfTopics
   lda <- LDA(
     DTM_Tf,
     k = numberOfTopics,
-    method = methodName,
+    method = "Gibbs",
     control = list(
-      burnin = burninValue,
-      thin = thinValue,
-      iter = iterValue
+      burnin = 2000,
+      thin = 100,
+      iter = 3000
     )
   )
-  presentTopics(numberOfTopics)
-  presentDocuments()
-  return(posterior(lda))
+  resultsLDA <- posterior(lda)
+  presentTopics(numberOfTopics, resultsLDA)
+  presentDocuments(resultsLDA)
+  return(resultsLDA)
 }
 
-resultsLDA <- LDAExperiment(DTM_Tf_NoBounds, 4, "Gibbs", 2000, 100, 3000)
-
-# Udział tematów w słowach
+#Eksperyment 1, DTM bez granic, 4 tematy
+experiment1 <- LDAExperiment(DTM_Tf_NoBounds, 4)
+# Udział słów w tematach
 options(scipen = 5)
-words1 <- c("pandemia")
-round(resultsLDA$terms[,words1],4)
+words1 <- c("społeczny")
+round(experiment1$terms[,words1],4)
 
-words2 <- c("ekonomia")
-round(resultsLDA$terms[,words2],4)
+words2 <- c("zdrowie")
+round(experiment1$terms[,words2],4)
 
-words3 <- c("zdrowie")
-round(resultsLDA$terms[,words3],4)
+words3 <- c("proces")
+round(experiment1$terms[,words3],4)
+
+words4 <- c("życie")
+round(experiment1$terms[,words4],4)
+
+words5 <- c("praca")
+round(experiment1$terms[,words5],4)
+
+words6 <- c("osoba")
+round(experiment1$terms[,words6],4)
+
+#Eksperyment 2, DTM z granicami 2-18, 20 tematów
+experiment2 <- LDAExperiment(DTM_Tf_Bounds_2_18, 20)
+# Udział słów w tematach
+options(scipen = 5)
+words1 <- c("przedsiębiorstwo")
+round(experiment2$terms[,words1],20)
+
+words2 <- c("behawioralny")
+round(experiment2$terms[,words2],20)
+
+words3 <- c("społeczny")
+round(experiment2$terms[,words3],20)
+
+words4 <- c("praca")
+round(experiment2$terms[,words4],20)
+
+words5 <- c("folklor")
+round(experiment2$terms[,words5],20)
+
+words6 <- c("wirus","sarscov","epidemia")
+round(experiment2$terms[,words6],20)
+
+words9 <- c("życie")
+round(experiment2$terms[,words9],20)
+
+words10 <- c("literatura")
+round(experiment2$terms[,words10],20)
+
+words11 <- c("covid")
+round(experiment2$terms[,words11],20)
+
+words12 <- c("dorastać")
+round(experiment2$terms[,words12],20)
+
+words13 <- c("projekt", "zarządzać")
+round(experiment2$terms[,words13],20)
+
+#Eksperyment 3, DTM z granicami 3-14, 2 tematy
+experiment3 <- LDAExperiment(DTM_Tf_Bounds_3_14, 2)
+
+words1 <- c("rynek")
+round(experiment3$terms[,words1],2)
 
 
 # Analiza słów kluczowych (podpunkt G) ----------------------------------------------------------
 
 #-- Dla pierwszego dokumentu --#
 #-- Waga tf jako miara ważności słów --#
-keywordsTf1 <- head(sort(dtmTfBoundsMatrix[1,],decreasing = TRUE))
+keywordsTf1 <- head(sort(DTM_Tf_NoBounds_Matrix[1,],decreasing = TRUE))
 keywordsTf1
 
 # -- Waga tfidf jako miara ważności słów --#
@@ -585,8 +639,8 @@ keywordsTfIdf1 <- head(sort(dtmTfIdfBoundsMatrix[1,],decreasing = TRUE))
 keywordsTfIdf1
 
 #-- Prawdopodobieństwo w modelu LDA jako miara ważności słów --##
-termsImportance1 <- c(resultsLDA$topics[1,]%*%resultsLDA$terms)
-names(termsImportance1) <- colnames(resultsLDA$terms)
+termsImportance1 <- c(experiment1$topics[1,]%*%experiment1$terms)
+names(termsImportance1) <- colnames(experiment1$terms)
 keywordsLda1 <- head(sort(termsImportance1,decreasing = TRUE))
 keywordsLda1
 
