@@ -256,125 +256,146 @@ exportMatrix(DTM_TfIdf_Bounds_2_18_Matrix, "DTM_TfIdf_Bounds_2_18_Matrix.csv")
 
 ##-- Redukcja przy użyciu analizy głównych składowych --##
 
-# Analiza głównych składowych dla wcześniej utworzonej macierzy częstości
-pca <- prcomp(dtmTfIdfBounds)
-
-# Przygotowanie danych do wykresu
-legendPCA <- paste(paste("d",1:20,sep = ""), rownames(dtmTfIdfBounds), sep = " => ")
-xPCA <- pca$x[,1]
-yPCA <- pca$x[,2]
-
-# Eksport wykresu do pliku
-plotFilePCA <- paste(
+presentPca <- function(DTM, fileName){
+  pca <- prcomp(DTM)
+  
+  legendPCA <- paste(paste("d",1:20,sep = ""), rownames(DTM), sep = " => ")
+  xPCA <- pca$x[,1]
+  yPCA <- pca$x[,2]
+  
+  plotFilePCA <- paste(
     outputDir,
-    "pca.png",
+    fileName,
     sep = "\\"
-)
-png(filename = plotFilePCA, width = 1920, height = 1080)
-
-# Wykres w przestrzeni dwuwymiarowej
-plot(
+  )
+  png(filename = plotFilePCA, width = 1000, height = 1300)
+  
+  plot(
     xPCA,
     yPCA, 
-    main = "Analiza g??wnych sk?adowych",
+    main = "Analiza głównych składowych",
     xlab = "PC1",
     ylab = "PC2",
     col = "darkorchid4",
-    #xlim = c(-0.06,0.06),
-    #ylim = c(0,0.06),
-    pch = 16
-)
-text(
+    pch = 16,
+  )
+  text(
     xPCA,
     yPCA,
     paste("d",1:20,sep = ""),
     col = "darkorchid4",
     pos = 2,
-    cex = 0.8
-)
-legend(
-    "bottom",
+    cex = 0.75
+  )
+  legend(
+    "top",
     legendPCA,
-    cex = 1.2,
+    cex = 0.9,
     text.col = "darkorchid4"
-)
+  )
+  
+  dev.off()
+}
+
+presentPca(DTM = DTM_Tf_NoBounds, fileName = "PCA_DTM_Tf_NoBounds.png")
+presentPca(DTM = DTM_Tf_Bounds_2_18, fileName = "PCA_DTM_Tf_Bounds_2_18.png")
+presentPca(DTM = DTM_Tf_Bounds_3_14, fileName = "PCA_DTM_Tf_Bounds_3_14.png")
+presentPca(DTM = DTM_Tf_Bounds_4_20, fileName = "PCA_DTM_Tf_Bounds_4_20.png")
+
+presentPca(DTM = DTM_TfIdf_NoBounds, fileName = "PCA_DTM_TfIdf_NoBounds.png")
+presentPca(DTM = DTM_TfIdf_Bounds_2_18, fileName = "PCA_DTM_TfIdf_Bounds_2_18.png")
+presentPca(DTM = DTM_TfIdf_Bounds_3_14, fileName = "PCA_DTM_TfIdf_Bounds_3_14.png")
+presentPca(DTM = DTM_TfIdf_Bounds_4_20, fileName = "PCA_DTM_TfIdf_Bounds_4_20.png")
 
 ##-- Redukcja przy użyciu dekompozycji według wartości osobliwych --##
 
 # Analiza ukrytych wymiarów semantycznych 
 # (dekompozycja wg wartości osobliwych)
 
-lsa <- lsa(tdmTfAllMatrix)
+presentLsa <- function(TDM, fileName, ownTerms) {
 
-# Przygotowanie danych do wykresu
-coordDocsLSA <- lsa$dk%*%diag(lsa$sk)
-coordTermsLSA <- lsa$tk%*%diag(lsa$sk)
-termsImportanceLSA <- diag(lsa$tk%*%diag(lsa$sk)%*%t(diag(lsa$sk))%*%t(lsa$tk))
-importantTerms <- names(tail(sort(termsImportanceLSA),30))
-coordImportantTermsLSA <- coordTermsLSA[importantTerms,]
-ownTermsLSA <- c("pandemia")
-coordOwnTermsLSA <- coordTermsLSA[ownTermsLSA,]
-
-legendLSA <- paste(
+  lsa <- lsa(TDM)
+  
+  coordDocsLSA <- lsa$dk%*%diag(lsa$sk)
+  coordTermsLSA <- lsa$tk%*%diag(lsa$sk)
+  termsImportanceLSA <- diag(lsa$tk%*%diag(lsa$sk)%*%t(diag(lsa$sk))%*%t(lsa$tk))
+  importantTerms <- names(tail(sort(termsImportanceLSA),30))
+  coordImportantTermsLSA <- coordTermsLSA[importantTerms,]
+  ownTermsLSA <- ownTerms
+  coordOwnTermsLSA <- coordTermsLSA[ownTermsLSA,]
+  
+  legendLSA <- paste(
     paste("d",1:20,sep = ""), 
     rownames(coordDocsLSA), 
     sep = " => "
-)
-x1LSA <- coordDocsLSA[,1]
-y1LSA <- coordDocsLSA[,2]
-x2LSA <- coordImportantTermsLSA[,1]
-y2LSA <- coordImportantTermsLSA[,2]
-#x2LSA <- coordOwnTermsLSA[,1]
-#y2LSA <- coordOwnTermsLSA[,2]
-
-# Eksport wykresu do pliku
-plotFileLSA <- paste(
+  )
+  x1LSA <- coordDocsLSA[,1]
+  y1LSA <- coordDocsLSA[,2]
+  x2LSA <- coordImportantTermsLSA[,1]
+  y2LSA <- coordImportantTermsLSA[,2]
+  
+  # Eksport wykresu do pliku
+  plotFileLSA <- paste(
     outputDir,
-    "lsa.png",
+    fileName,
     sep = "\\"
-)
-png(filename = plotFileLSA, height = 1920, width = 1080)
-
-# Wykres w przestrzeni dwuwymiarowej
-plot(
+  )
+  png(filename = plotFileLSA, height = 1400, width = 1800)
+  
+  # Wykres w przestrzeni dwuwymiarowej
+  plot(
     x1LSA,
     y1LSA, 
-    main = "Analiza ukrytych wymiar?w semantycznych",
+    main = "Analiza ukrytych wymiarów semantycznych",
     xlab = "SD1",
     ylab = "SD2",
     col = "darkorchid4",
-    #xlim = c(-25,5),
-    #ylim = c(0,0.06),
     pch = 16
-)
-text(
+  )
+  text(
     x1LSA,
     y1LSA,
     paste("d",1:20,sep = ""),
     col = "darkorchid4",
     pos = 4,
     cex = 0.8
-)
-points(
+  )
+  points(
     x2LSA,
     y2LSA,
     col = "magenta",
     pch = 17
-)
-text(
+  )
+  text(
     x2LSA,
     y2LSA,
     col = "magenta",
     labels = rownames(coordImportantTermsLSA),
     pos = 3,
     cex = 0.8
-)
-legend(
-    "topleft",
+  )
+  legend(
+    "left",
     legendLSA,
-    cex = 1.2,
+    cex = 1.0,
     text.col = "darkorchid4"
-)
+  )
+  dev.off()
+}
+
+ownTerms <- c("zdrowie", "covid", "przedsiębiorstwo", "oprogramowanie", "zakażenie", "pacjent", "ekonomia", "literatura", "biznes", "zarządzać")
+
+presentLsa(TDM = TDM_Tf_NoBounds, fileName = "LSA_TDM_Tf_NoBounds.png", ownTerms)
+presentLsa(TDM = TDM_Tf_Bounds_2_18, fileName = "LSA_TDM_Tf_Bounds_2_18.png", ownTerms)
+presentLsa(TDM = TDM_Tf_Bounds_3_14, fileName = "LSA_TDM_Tf_Bounds_3_14.png", ownTerms)
+# Przy użyciu tej macierzy nie działało przekazanie ownTerms, niestety nie wiem dlaczego
+presentLsa(TDM = TDM_Tf_Bounds_4_20, fileName = "LSA_TDM_Tf_Bounds_4_20.png", c())
+
+presentLsa(TDM = TDM_TfIdf_NoBounds, fileName = "LSA_TDM_TfIdf_NoBounds.png", ownTerms)
+presentLsa(TDM = TDM_TfIdf_Bounds_2_18, fileName = "LSA_TDM_TfIdf_Bounds_2_18.png", ownTerms)
+presentLsa(TDM = TDM_TfIdf_Bounds_3_14, fileName = "LSA_TDM_TfIdf_Bounds_3_14.png", ownTerms)
+# Przy użyciu tej macierzy nie działało przekazanie ownTerms, niestety nie wiem dlaczego
+presentLsa(TDM = TDM_TfIdf_Bounds_4_20, fileName = "LSA_TDM_TfIdf_Bounds_4_20.png", c())
 
 
 # Analiza skupień dokumentów (podpunkt E) ----------------------------------------------
