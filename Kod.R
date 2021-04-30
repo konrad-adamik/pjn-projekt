@@ -409,16 +409,33 @@ presentLsa(TDM = TDM_TfIdf_Bounds_4_20, fileName = "LSA_TDM_TfIdf_Bounds_4_20.pn
 # 3. Sposób wyznaczania odległości pomiędzy skupieniami 
 #    (single, complete, ward.D2)
 
+##-- Przygotwanie --##
+
+## Tu wpisać porównywane macierze do przygotowania oraz indeksu FM
+
+clustMatrix1 <- DTM_Tf_NoBounds_Matrix
+clustMatrix2 <- DTM_TfIdf_Bounds_4_20_Matrix
+
+## metody dla matrix i hclust, do eksperymentów używamy tych samych dla obu macierzy
+matrixMethod = "cosine"
+hclustMethod = "complete"
+
+## liczba skupień
+
+nClusters <- 12
+
+
 par(mai = c(1,2,1,1))
 nDocumentsClust <- 20
 legendClust <- paste(
     paste("d",1:20,sep = ""), 
-    rownames(dtmTfAllMatrix), 
+    rownames(clustMatrix1), 
     sep = " => "
 )
-docNamesClust <- rownames(dtmTfAllMatrix)
-rownames(dtmTfAllMatrix) <- paste("d",1:20,sep = "")
-rownames(dtmTfBoundsMatrix) <- paste("d",1:20,sep = "")
+##-- nazwy zawsze takie same
+docNamesClust <- rownames(DTM_Tf_NoBounds_Matrix)
+rownames(clustMatrix1) <- paste("d",1:20,sep = "")
+rownames(clustMatrix2) <- paste("d",1:20,sep = "")
 patternClust <- c(3,3,3,3,3,3,3,3,1,1,1,1,1,1,1,2,2,2,2,2)
 coloursClust <- c("violet","orange","turquoise")
 colorsHistClust <- c()
@@ -427,30 +444,37 @@ for (i in 1:nDocumentsClust){
 }
 names(colorsHistClust) <- paste("d",1:20, sep = "")
 
-# Eksperyment 1
-expDistMatrix1 <- dist(dtmTfAllMatrix, method = "euclidean")
-hclust1 <- hclust(expDistMatrix1, method = "single")
+# Dendogram dla clustMatrix1
+expClustMatrix1 <- dist(clustMatrix1, method = matrixMethod)
+hclust1 <- hclust(expClustMatrix1, method = hclustMethod)
+
 plot(hclust1)
 barplot(hclust1$height, names.arg = 19:1)
 
-# Eksperyment 2
-expDistMatrix2 <- dist(dtmTfAllMatrix, method = "cosine")
-hclust2 <- hclust(expDistMatrix2, method = "ward.D2")
+expClustDendrogram1 <- as.dendrogram(hclust1)
+
+clusters1 <-cutree(hclust1, k = nClusters)
+names(clusters1) <- docNamesClust
+
+clustersMatrix1 <- matrix(0, nDocumentsClust, nClusters)
+rownames(clustersMatrix1) <- docNamesClust
+for (i in 1:nDocumentsClust) {
+    clustersMatrix1[i,clusters1[i]] <- 1
+}
+corrplot(clustersMatrix1)
+
+# Dendogram dla clustMatrix2
+expClustMatrix2 <- dist(clustMatrix2, method = matrixMethod)
+hclust2 <- hclust(expClustMatrix2, method = hclustMethod)
+
 plot(hclust2)
 barplot(hclust2$height, names.arg = 19:1)
-expDendrogram2 <- as.dendrogram(hclust2)
-coloredExpDendrogram2 <- color_branches(expDendrogram2, h = 1.2)
-plot(coloredExpDendrogram2)
-legend(
-    "topright",
-    legendClust,
-    cex = 0.3,
-)
-coloredExpDendrogram2 <- color_branches(expDendrogram2, col = colorsHistClust[expDendrogram2 %>% labels])
-plot(coloredExpDendrogram2)
-nClusters <- 3
+
+expClustDendrogram2 <- as.dendrogram(hclust2)
+
 clusters2 <-cutree(hclust2, k = nClusters)
 names(clusters2) <- docNamesClust
+
 clustersMatrix2 <- matrix(0, nDocumentsClust, nClusters)
 rownames(clustersMatrix2) <- docNamesClust
 for (i in 1:nDocumentsClust) {
@@ -458,57 +482,16 @@ for (i in 1:nDocumentsClust) {
 }
 corrplot(clustersMatrix2)
 
-# Eksperyment 3
-expDistMatrix3 <- dist(dtmTfBoundsMatrix, method = "jaccard")
-hclust3 <- hclust(expDistMatrix3, method = "ward.D2")
-plot(hclust3)
-barplot(hclust3$height, names.arg = 19:1)
-expDendrogram3 <- as.dendrogram(hclust3)
-coloredExpDendrogram3 <- color_branches(expDendrogram3, h = 1.3)
-plot(coloredExpDendrogram3)
-legend(
-    "topright",
-    legendClust,
-    cex = 0.3,
-)
-nClusters <- 3
-clusters3 <-cutree(hclust3, k = nClusters)
-names(clusters3) <- docNamesClust
-clustersMatrix3 <- matrix(0, nDocumentsClust, nClusters)
-rownames(clustersMatrix3) <- docNamesClust
-for (i in 1:nDocumentsClust) {
-    clustersMatrix3[i,clusters3[i]] <- 1
-}
-corrplot(clustersMatrix3)
-
-# Porównanie wyników eksperymentów
+# Porównanie wyników dla clustMatrix1 oraz clustMatrix2
 Bk_plot(
-    expDendrogram2,
-    expDendrogram3,
+    expClustDendrogram1,
+    expClustDendrogram2,
     add_E = F,
     rejection_line_asymptotic = F,
     main = "Indeks Fawlkes'a Mallows'a",
     ylab = "Indeks Fawlkes'a Mallows'a"
 )
 
-randEx2Ex3 <- comPart(clusters2, clusters3)
-randEx2Pattern <- comPart(clusters2, patternClust)
-randEx3Pattern <- comPart(clusters3, patternClust)
-
-# Eksperyment 4
-nClusters4 <- 4
-kmeans4 <- kmeans(dtmTfIdfBounds, centers = nClusters4)
-clusters4 <- kmeans4$cluster
-clustersMatrix4 <- matrix(0, nDocumentsClust, nClusters4)
-rownames(clustersMatrix4) <- docNamesClust
-for (i in 1:nDocumentsClust) {
-    clustersMatrix4[i,clusters4[i]] <- 1
-}
-corrplot(clustersMatrix4)
-
-randEx2Ex4 <- comPart(clusters2, clusters4)
-randEx3Ex4 <- comPart(clusters3, clusters4)
-randEx4Pattern <- comPart(clusters4, patternClust)
 
 
 # Analiza tematyk (podpunkt F) ---------------------------------------------------------
