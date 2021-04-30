@@ -629,20 +629,57 @@ round(experiment3$terms[,words1],2)
 
 # Analiza słów kluczowych (podpunkt G) ----------------------------------------------------------
 
-#-- Dla pierwszego dokumentu --#
+#funkcja pomocnicza do eksperymentów na macierzach DTM z wagami Tf i TfIdf
+weightExperiment <- function(DTM_Matrix){
+  for(i in 1:20){
+    print(paste("Dokument",i,sep=" "))
+    print(head(sort(DTM_Matrix[i,],decreasing = TRUE)))
+  }
+}
+
+
+
 #-- Waga tf jako miara ważności słów --#
-keywordsTf1 <- head(sort(DTM_Tf_NoBounds_Matrix[1,],decreasing = TRUE))
-keywordsTf1
+
+#eksperyment 1, macierz Tf bez granic
+weightExperiment(DTM_Tf_NoBounds_Matrix)
+
+#eksperyment 2, macierz Tf z granicami 2-18
+weightExperiment(DTM_Tf_Bounds_2_18_Matrix)
+
+#eksperyment 3, macierz Tf z granicami 3-14
+weightExperiment(DTM_Tf_Bounds_3_14_Matrix)
+
+#eksperyment 4, macierz Tf z granicami 4-20
+weightExperiment(DTM_Tf_Bounds_4_20_Matrix)
+
+
 
 # -- Waga tfidf jako miara ważności słów --#
-keywordsTfIdf1 <- head(sort(dtmTfIdfBoundsMatrix[1,],decreasing = TRUE))
-keywordsTfIdf1
+
+#eksperyment 5, macierz TfIdf bez granic
+weightExperiment(DTM_TfIdf_NoBounds_Matrix)
+
+#eksperyment 6, macierz TfIdf z granicami 2-18
+weightExperiment(DTM_TfIdf_Bounds_2_18_Matrix)
+
+#eksperyment 7, macierz TfIdf z granicami 3-14
+weightExperiment(DTM_TfIdf_Bounds_3_14_Matrix)
+
+#eksperyment 8, macierz TfIdf z granicami 4-20
+weightExperiment(DTM_TfIdf_Bounds_4_20_Matrix)
+
+
 
 #-- Prawdopodobieństwo w modelu LDA jako miara ważności słów --##
-termsImportance1 <- c(experiment1$topics[1,]%*%experiment1$terms)
-names(termsImportance1) <- colnames(experiment1$terms)
-keywordsLda1 <- head(sort(termsImportance1,decreasing = TRUE))
-keywordsLda1
+
+#eksperyment 9
+for(i in 1:20){
+  termsImportance1 <- c(experiment1$topics[i,]%*%experiment1$terms)
+  names(termsImportance1) <- colnames(experiment1$terms)
+  print(paste("Dokument",i,sep=" "))
+  print(head(sort(termsImportance1,decreasing = TRUE)))
+}
 
 #-- Chmura tagów --##
 par(mai = c(0,0,0,0))
