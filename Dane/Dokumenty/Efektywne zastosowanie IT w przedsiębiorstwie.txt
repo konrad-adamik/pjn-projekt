@@ -1,0 +1,482 @@
+Technologie informacyjne (IT) odgrywają we współczesnych przedsiębiorstwach bardzo istotną rolę, przenikając
+już prawie każdy aspekt ich działalności. Świadczy o tym
+m.in. wysokość wydatków na inwestycje w IT, które
+pochłaniają często ponad połowę wszystkich wydatków
+inwestycyjnych przedsiębiorstw. Jednocześnie najczęściej
+nie przynoszą zakładanych efektów. Pojawia się zatem
+potrzeba usystematyzowanego podejścia do efektywnego
+zastosowania technologii informacyjnych w przedsiębiorstwie, którego celem będzie maksymalizowanie wartości
+przedsiębiorstwa. Odpowiedzią na tę potrzebę jest koncepcja nadzoru IT (IT Governance), obejmująca następujące obszary: dopasowanie strategiczne IT, dostarczanie
+wartości przez IT, efektywne wykorzystanie zasobów IT,
+zarządzanie ryzykiem IT oraz pomiar wydajności IT.
+Dzięki zastosowaniu mechanizmów nadzoru IT przedsiębiorstwo jest w stanie wykorzystać w największym stopniu
+posiadane informacje i maksymalizować wynikające
+z nich korzyści biznesowe.
+Obszar technologii informacyjnych w przedsiębiorstwie często jest niezrozumiały dla zarządzających,
+czasami jest niedoceniany, a jeszcze innym razem
+przeceniany. Bardzo często jest jednak źle zarządzany. W efekcie większość inwestycji w IT nie przynosi
+zakładanych efektów, a samo utrzymanie IT kosztuje
+zbyt wiele. Współczesne przedsiębiorstwo nie może
+sobie jednak pozwolić na złe zarządzanie tak ważnym
+obszarem, który pochłania średnio ponad połowę
+wszystkich środków przeznaczanych na inwestycje
+i często przesądza o tym, czy przedsiębiorstwo będzie
+się mogło dalej rozwijać.
+Rola IT we współczesnym
+przedsiębiorstwie
+Technologie informacyjne pełnią dwie główne
+funkcje: usługową i innowacyjną. Funkcja usługowa pozwala przedsiębiorstwu bardziej efektywnie
+realizować strategię, np. poprzez automatyzację,
+przyspieszenie przebiegu procesów, redukcję kosztów. Funkcja innowacyjna stwarza przedsiębiorstwu
+nowe możliwości rozwoju, które bez zastosowania IT
+nie byłyby możliwe. Jest to przykładowo dotarcie do
+nowych segmentów klientów, wprowadzenie na rynek
+innowacyjnego produktu czy też stworzenie nowego
+modelu konkurowania. Obie te funkcje w zasadniczy
+sposób wpływają na poziom stopy zwrotu z kapitału
+zainwestowanego w przedsiębiorstwo oraz na możliwości wzrostu przedsiębiorstwa. To z kolei przekłada
+się na przyszłe przepływy pieniężne, które stanowią
+o wartości przedsiębiorstwa.
+Jednocześnie od pewnego czasu często słyszy się
+opinie, że IT przestało mieć strategiczne znaczenie. Stało się tak tanim i powszechnie dostępnym
+zasobem, że każdy może je mieć. W związku z tym
+nie może już zapewnić przewagi konkurencyjnej.
+Wzorowe procesy biznesowe i najlepsze praktyki
+są wbudowane w standardowe oprogramowanie.
+Mogą być powielane i są dostępne dla wszystkich
+przedsiębiorstw. Ze względu na łatwe kopiowanie
+i powszechną standaryzację również możliwości
+innowacji z wykorzystaniem IT maleją. W związku
+z tym Carr, autor głośnego artykułu IT doesn’t matter
+postuluje, aby zmniejszać wydatki na IT i trzymać się
+za plecami innych, czyli inwestować tylko w sprawdzone technologie oraz poświęcać uwagę przede
+wszystkim słabościom, a nie szansom (ponieważ IT
+nie może już zapewnić przewagi konkurencyjnej).
+Dzięki temu przedsiębiorstwa będą w stanie uzyskać
+większy zwrot z inwestycji w IT.
+Wydaje się jednak, że teza o braku możliwości
+uzyskania przewagi konkurencyjnej dzięki IT jest
+przesadzona. IT się liczy, ale inaczej niż kiedyś. Tylko
+niektóre kategorie IT są powszechnie dostępne, czyli
+uległy utowarowieniu. Te usługi (produkty) należy
+kupować jak najtaniej, najlepiej gotowe, lub zlecać na
+zewnątrz (outsourcing IT). Fakt posiadania tych samych
+narzędzi nie oznacza jednak, że korzyści z ich wykorzystywania będą takie same w każdym przedsiębiorstwie.
+Korzyści dla przedsiębiorstwa nie płyną głównie ze
+standardowych, wbudowanych w oprogramowanie
+najlepszych praktyk, lecz z umiejętnego wykorzystania
+oprogramowania do wspierania kluczowych procesów
+biznesowych w przedsiębiorstwie. W wyniku standaryzacji i upowszechniania się technologii informacyjnych
+możliwości innowacji nie maleją, a rosną. Oczywistym
+przykładem jest tutaj internet. Dzięki powszechnej
+dostępności sieci powstały zupełnie nowe modele
+biznesowe, np. eBay, Dell, Google.
+Efektywne zastosowanie IT
+w przedsiębiorstwie
+Remigiusz Orzechowski
+czerwiec 2007 67
+Stan zarządzania IT w przedsiębiorstwach
+Wydatki przedsiębiorstw na technologie informacyjne są wysokie. Wynoszą od 2 do 15% przychodów
+oraz do 50% wszystkich wydatków inwestycyjnych.
+Jednak nie przynoszą oczekiwanych efektów. Wiele
+badań potwierdza, że większość projektów IT jest
+nieudanych1
+.
+Przyczyną takiego stanu rzeczy jest niezadowalający poziom zarządzania IT w przedsiębiorstwach.
+Charakteryzuje się on tym, że:
+brak jest wspólnego języka między menedżerami
+biznesowymi i IT;
+planowanie biznesowe i IT są od siebie oderwane;
+planowanie IT często skupia się na technologii,
+zamiast na bezpośrednim wspieraniu realizacji
+celów strategicznych przedsiębiorstwa;
+dział IT nie jest zarządzany w taki sposób, by
+realizować wymagania biznesu;
+koszty IT są często bez należytej kontroli i są zbyt
+wysokie, co owocuje niskim zwrotem z inwestycji
+w IT.
+Scenariusze efektywnego zastosowania IT
+Efektywne zastosowanie technologii informacyjnych
+w przedsiębiorstwie polega na inwestowaniu w takie
+obszary (projekty) IT, które wspierają realizację strategii
+i wynikającą ze strategii działalność operacyjną przedsiębiorstwa oraz ograniczaniu zasobów kierowanych na
+inne inicjatywy i działania IT. Celem, który chcemy osiągnąć jest większy wpływ technologii informacyjnych na
+poprawę wyników osiąganych przez przedsiębiorstwo
+przy jednoczesnej minimalizacji kosztów związanych
+z wykorzystywaniem IT. Cel ten można określić jako
+„obszar poprawy IT” (rysunek 1).
+Rysunek 1. Obszar poprawy IT
+Wyższe
+koszty
+Dzisiejsze koszty
+i wpływ
+Wzrost wpływu wynikający
+z nowych projektów
+Mniejszy
+wpływ
+Większy
+wpływ
+Obszar poprawy
+IT
+Koszty i wpływ
+możliwy do osiągnięcia
+Wpływ na poprawę wyników
+przedsiębiorstw
+Niższe
+koszty
+Koszty
+Źródło: R. Benson, T. Bugnitz, W. Walton, From Business
+Strategy to IT Action. Right Decisions for a Better Bottom
+Line. John Wiley & Sons, New Jersey 2004
+Większy wpływ zastosowania IT na poprawę wyników przedsiębiorstwa uzyskuje się dzięki nowym in1
+ Na przykład badania Standish Group The Chaos Report.
+westycjom, które wspierają realizację obecnej strategii
+przedsiębiorstwa bądź stwarzają nowe możliwości dla
+rozwoju wpływając na zmianę strategii. Niższe koszty
+funkcjonowania IT są pochodną redukcji kosztów
+operacyjnej działalności IT. Oszczędności uzyskuje się
+dzięki zaprzestaniu utrzymywania infrastruktury i aplikacji, które nie przekładają się na realizację strategii
+przedsiębiorstwa, bądź też zaprzestanie finansowania
+toczących się projektów, które również nie są zbieżne
+z obecnymi celami biznesowymi przedsiębiorstwa.
+Obecnie w wielu przedsiębiorstwach obserwowane
+są jednak mniej optymalne scenariusze zarządzania
+IT (rysunek 2).
+Rysunek 2. Obecne scenariusze zastosowania IT w wielu
+przedsiębiorstwach
+Wyższe
+koszty
+Dzisiejsze koszty
+i wpływ
+Wyższe koszty
+Ten sam wpływ
+Wyższe koszty
+Wyższy wpływ
+Niższe koszty
+Niższy wpływ
+Mniejszy
+wpływ
+Większy
+wpływ
+Obszar poprawy
+IT
+Wpływ na poprawę wyników
+przedsiębiorstwa
+Niższe
+koszty
+Koszty
+Źródło: R. Benson, T. Bugnitz, W. Walton, From Business
+Strategy to IT Action…, dz. cyt.
+Najczęściej przedsiębiorstwa wydają na IT coraz
+więcej pieniędzy, ale w zamian nie uzyskują większego
+wsparcia dla realizacji strategii. Dział IT argumentuje,
+że w związku z rozwojem przedsiębiorstwa potrzebuje
+coraz więcej środków na utrzymanie obecnej infrastruktury i aplikacji IT. Rzadko kiedy jednak przeprowadza
+się analizę, czy na pewno wszystkie wydatki są uzasadnione, a przecież przedsiębiorstwo się zmienia i wraz
+z nim zmieniać się powinno również portfolio IT.
+Kiedy wydatki na IT są już zbyt duże, a uzyskiwane
+efekty zbyt małe, przedsiębiorstwa przeprowadzają
+drastycznie cięcia. Dochodzą wówczas do wniosku, że
+IT nie może im dostarczyć przewagi konkurencyjnej
+i jest jedynie kosztem działalności operacyjnej. Takie
+postępowanie często jednak prowadzi do zmniejszenia wpływu IT na poprawę wyników przedsiębiorstwa.
+Wówczas przedsiębiorstwa tracą szansę wyprzedzenia
+swoich konkurentów i są skazane na imitację.
+Trzeci scenariusz obserwuje się w przedsiębiorstwach, które wierzą, że IT jest w stanie zapewnić
+im przewagę konkurencyjną i inwestują w ten obszar
+coraz większe środki. Zazwyczaj przekłada się to na
+lepszą realizację strategii, ale często koszty takiego
+podejścia mogą być zbyt duże i w efekcie mogą
+skonsumować część pozytywnych efektów. Przedsiębiorstwa te zakładają często, że koszty związane
+Efektywne zastosowanie IT w przedsiębiorstwie
+68 e-mentor nr 3 (20)
+e-biznes
+z funkcjonowaniem IT mogą tylko rosnąć. Tak jak
+w pierwszym przypadku nie analizuje się zasadności
+wszystkich wydatków na IT, skupiając się jedynie na
+badaniu efektywności nowych inwestycji.
+Możliwe są jednak inne podejścia do zastosowania
+technologii informacyjnych, które będą dużo bardziej
+efektywne (rysunek 3).
+Rysunek 3. Scenariusze zastosowania IT możliwe do
+osiągnięcia
+Wyższe
+koszty
+Dzisiejsze koszty
+i wpływ Te same koszty
+Większy wpływ
+Wyższe koszty
+Wyższy wpływ
+Niższe koszty
+Niższy wpływ
+Niższe koszty
+Większy wpływ
+Mniejszy
+wpływ
+Większy
+wpływ
+Obszar poprawy
+IT
+Wpływ na poprawę wyników
+przedsiębiorstwa
+Niższe
+koszty
+Koszty
+Źródło: R. Benson, T. Bugnitz, W. Walton, From Business
+Strategy to IT Action…, dz. cyt.
+Najprostszym rozwiązaniem jest obniżka obecnych
+kosztów IT, przy zachowaniu obecnego wsparcia dla
+realizacji strategii. Odbywa się to dzięki eliminacji
+działań IT, które nie przekładają się na poprawę wyników przedsiębiorstwa. Takie podejście polecane jest
+tym przedsiębiorstwom, w których IT pełni głównie
+funkcję usługową i w niewielkim stopniu może przyczynić się do uzyskania przewagi konkurencyjnej.
+Przedsiębiorstwa mogą również utrzymać obecny
+poziom wydatków na IT, zyskując jednak większe
+przełożenie na realizację strategii. Taki efekt można
+uzyskać zarówno poprzez eliminowanie niepotrzebnych wydatków na IT, jak i realizowanie nowych
+inwestycji, w większym stopniu wspierających realizację strategii przedsiębiorstwa. Czasami udaje się
+przedsiębiorstwom zarówno zmniejszyć koszty IT, jak
+i zwiększyć przełożenie technologii informacyjnych
+na poprawę wyników przedsiębiorstwa.
+W niektórych przypadkach przedsiębiorstwo może
+się zdecydować na większe wydatki na IT, uzyskując
+jednak więcej niż proporcjonalny wpływ na poprawę
+wyników przedsiębiorstwa. Strategia ta jest polecana
+tym przedsiębiorstwom, dla których technologie informacyjne mają strategiczne znaczenie i pozwalają
+osiągnąć długotrwałą przewagę konkurencyjną.
+W związku z tym pojawia się potrzeba usystematyzowanego podejścia do efektywnego zastosowania
+technologii informacyjnych w przedsiębiorstwie,
+którego celem będzie maksymalizowanie wartości
+przedsiębiorstwa. Odpowiedzią na tę potrzebę jest
+promowana ostatnio coraz intensywniej koncepcja
+nadzoru IT (IT Governance).
+2 Board Briefing on IT Governance, 2nd Edition, IT Governance Institute, 2003. 3
+ P. Weil, J. Ross, IT Governance. How Top Performers Manage IT Decision Rights for Superior Results, Harvard Business
+School Press, Boston 2004.
+Nadzór IT
+Nadzór IT (IT Governance) jest elementem nadzoru
+korporacyjnego, analogicznie do nadzoru nad zasobami ludzkimi, finansowymi czy fizycznymi. Według
+definicji IT Governance Institute nadzór IT należy do
+odpowiedzialności zarządu i obejmuje przywództwo,
+struktury organizacyjne oraz procesy niezbędne do
+tego, aby IT mogło wspomagać realizację obecnych
+strategii i celów przedsiębiorstwa, a także kreować
+nowe2
+. Rolą nadzoru IT jest integracja i instytucjonalizacja dobrych praktyk zapewniających wsparcie
+przez IT realizacji celów przedsiębiorstwa. Dzięki
+temu przedsiębiorstwo jest w stanie wykorzystać
+w największym stopniu posiadane informacje i maksymalizować wynikające z nich korzyści biznesowe.
+Badania wskazują, że przedsiębiorstwa posiadające
+najbardziej zaawansowane rozwiązania w zakresie
+nadzoru IT mają o ponad 20% większą rentowność
+w porównaniu z firmami z tego samego sektora
+i o podobnych strategiach, które jednak mają słabo
+rozwinięty tego typu nadzór3
+.
+Nadzór IT koncentruje się na dwóch głównych obszarach: dostarczaniu wartości przez IT dla biznesu
+oraz ograniczaniu związanego z nim ryzyka. Wartość
+dostarczana przez IT wynika ze stopnia dopasowania
+IT do strategii przedsiębiorstwa, natomiast ograniczanie ryzyka opiera się na mechanizmach ustalania
+odpowiedzialności za podejmowane decyzje. Oba te
+obszary wymagają wsparcia ze strony odpowiednich
+zasobów IT, takich jak kadra, pieniądze, informacje,
+aplikacje czy infrastruktura. Powinny być również
+systematycznie mierzone, żeby zapewnić osiąganie założonych celów. Ostatecznie otrzymujemy
+pięć obszarów nadzoru IT, do zarządzania którymi
+punktem wyjścia są wartości i cele interesariuszy
+(rysunek 4).
+Rysunek 4. Obszary nadzoru IT
+Dostarczanie
+wartości
+przez IT
+Zarządzanie
+zasobami IT
+Wartości i cele
+interesariuszy
+Pomiar
+wydajności
+IT
+Dopasowanie
+strategiczne
+IT
+Zarządzanie
+ryzykiem
+IT
+Źródło: Board Briefing on IT Governance, 2nd Edition…, dz.
+cyt., s. 20
+czerwiec 2007 69
+Dopasowanie strategiczne IT
+Najważniejszym z obszarów, pierwotnym w stosunku do pozostałych i jednocześnie przenikającym
+je wszystkie, jest dopasowanie strategiczne IT. Skupia
+się ono na integracji celów strategicznych biznesu
+i IT poprzez definiowanie, utrzymywanie i kontrolę
+propozycji wartości, jaką IT dostarcza biznesowi,
+a także na dopasowywaniu operacji IT do operacji
+całego przedsiębiorstwa.
+Obecnie w wielu przedsiębiorstwach planowanie
+IT nie jest powiązane z wymaganiami wynikającymi
+ze strategii całego przedsiębiorstwa, lecz jest podporządkowane taktycznym potrzebom poszczególnych
+jednostek biznesowych. Finansowanie swoich projektów IT uzyskuje ta jednostka, która ma większą
+siłę „polityczną”. W efekcie naczelne kierownictwo
+nie widzi powiązania wydatków na technologię informacyjną z realizacją celów strategicznych całego
+przedsiębiorstwa. Również zwrot z inwestycji w IT
+jest niezadowalający. Aby to zmienić, menedżerowie
+przedsiębiorstwa powinni strategicznie planować
+popyt i podaż usług IT. Konieczne jest przetłumaczenie strategii przedsiębiorstwa na stwierdzenia, które
+IT zrozumie. Pozwoli to – z jednej strony – opisać
+zapotrzebowanie na usługi IT, generowane przez cele
+strategiczne przedsiębiorstwa, a z drugiej – opisać
+przyszłą podaż usług IT. W efekcie menedżerowie biznesowi i IT będą mogli osiągnąć konsensus w kwestii
+kierunku rozwoju przedsiębiorstwa oraz tego, jak IT
+może ten rozwój wspomagać. Wzrośnie również efektywność inwestycji w tym zakresie, będąca pochodną
+Korporacyjna infrastrukturaIT
+Jednostka biznesowa:
+Aplikacje IT
+Jednostka biznesowa:
+Operacje
+Jednostka biznesowa:
+Finanse
+Przykładowe miary
+Wzorst przychodów
+Zwrot na aktywach
+Przychody na pracownika
+Czas wprowadzenia nowego produktu
+na rynek
+Wartość sprzedaży nowego produktu
+Jakość produktu/usługi
+Czas implementacji nowej aplikacji
+Koszt implementacji nowej aplikacji
+Dostępność infrastruktury
+Koszt na transakcje
+Koszt na stanowisko robocze
+Jednostka biznesowa:
+Finanse
+Jednostka biznesowa:
+Operacje
+Jednostka biznesowa:
+Aplikacje IT
+Korporacyjna infrastruktura
+IT
+Czas potrzebny do wpłynięcia na biznes
+Dostarczanie wartości biznesowej
+Stopień wpływu
+Zarządzanie IT
+Zarządzanie
+biznesem
+Rysunek 5. Pomiar wartości inwestycji IT na różnych poziomach zarządzania
+Źródło: IT Governance Institute
+4 W artykule pt. Dopasowanie IT-biznes („Kwartalnika Nauk o Przedsiębiorstwie” 2007, nr 2 (3)) autor zaprezentował
+wyniki badań stopnia dopasowania IT i biznesu w przedsiębiorstwach notowanych na Warszawskiej Giełdzie Papierów Wartościowych.
+większego przełożenia wydatków na IT na realizację
+strategii przedsiębiorstwa.
+Należy zauważyć, że dopasowanie strategiczne
+IT jest procesem ciągłym, który za sprawą zmian
+w przedsiębiorstwie, jego otoczeniu i w obszarze
+technologii, nigdy się nie skończy. Celem przedsiębiorstwa powinno być zatem dążenie do bycia lepiej
+dopasowanym niż konkurenci. Dopasowanie strategiczne IT oznacza zarówno dopasowanie strategii, jak
+i operacji IT do strategii przedsiębiorstwa4
+.
+Dostarczanie wartości przez IT
+Główną miarą wartości IT są dostawy produktów
+lub świadczenie usług na czas, w założonym budżecie, w odpowiedniej jakości oraz z osiągnięciem
+zakładanych korzyści, tj. przewagi konkurencyjnej,
+satysfakcji klientów, przyspieszenia wejścia na rynek,
+skróconego czasu realizacji zamówień, zwiększonej
+produktywności pracowników, większej zyskowności.
+Wartość, którą IT dodaje do biznesu, jest uzależniona
+od stopnia, w jakim IT jest dopasowane do strategii
+przedsiębiorstwa. W celu efektywnego zastosowania
+IT konieczne jest zarządzanie zarówno kosztami, jak
+i zwrotami z inwestycji.
+Na różnych poziomach zarządzania różnie jest
+postrzegana wartość IT i w inny sposób się ją mierzy
+(rysunek 5).
+W miarę poruszania się w górę w hierarchii poziomów zarządzania w przedsiębiorstwie, zmieniają
+się miary, jakimi mierzy się efekty danej inwestycji
+IT: następuje przejście od miar technicznych do
+Efektywne zastosowanie IT w przedsiębiorstwie
+70 e-mentor nr 3 (20)
+e-biznes
+biznesowych. Pomiar efektów biznesowych jest
+jednak najczęściej dużo trudniejszy niż pomiar efektywności technicznej. Jednocześnie wydłuża się czas
+niezbędny do zaobserwowania korzyści płynących
+z nowej inwestycji. Najszybciej (niemal natychmiast)
+pojawiają się efekty związane z techniczną dostępnością i niektórymi kosztami funkcjonowania infrastruktury, jednak przełożenie na znaczącą poprawę
+wyników przedsiębiorstwa może zabrać miesiące lub
+nawet lata. Zmienia się również wpływ inwestycji na
+zarządzanie: akcent przenoszony jest z zarządzania
+technologią na zarządzanie biznesem. Dlatego ważne
+jest skupianie się nie tylko na miarach finansowych,
+lecz branie pod uwagę wpływu IT na efektywność całego przedsiębiorstwa w tworzeniu wartości, zarówno
+w krótkim, jak i w długim okresie.
+Optymalne wykorzystywanie zasobów IT
+Kluczem do wysokiej efektywności IT są optymalne
+inwestycje oraz optymalne wykorzystanie posiadanych zasobów IT w procesie świadczenia usług dla
+biznesu. Zarówno nowe inwestycje, jak i wydatki na
+bieżącą działalność IT muszą być dopasowane do
+potrzeb wynikających ze strategii przedsiębiorstwa.
+Wyższy priorytet (i większe zasoby) powinny uzyskiwać inicjatywy o większej wartości dla biznesu.
+O ile w praktyce przedsiębiorstwa badają jeszcze
+efektywność nowych inwestycji w IT, to już bardzo
+rzadko podejmują wysiłki związane z optymalizacją
+wydatków przeznaczanych na bieżącą działalność IT.
+Jest to kolosalny błąd, bo jak wskazują badania Gartnera, wydatki na utrzymanie i rozwój obecnych zasobów
+IT pochłaniają aż 85% środków przeznaczanych na IT5
+.
+Przyczyną takiego stanu rzeczy jest jeszcze mniejsze
+zrozumienie przez zarządzających operacyjnej działalności działu IT i w związku z tym niemożność odpowiedniego zarządzania tym obszarem. Rozwiązanie
+tego problemu może stanowić stosowanie w przedsiębiorstwie ITIL’a6
+ – zestawu powiązanych ze sobą
+najlepszych praktyk, których celem jest obniżenie
+kosztów IT, przy jednoczesnym podnoszeniu jakości
+usług IT świadczonych biznesowi.
+Zarządzanie ryzykiem IT
+Zarządzanie ryzykiem IT obejmuje ryzyka związane z zastosowaniem technologii informacyjnych
+w przedsiębiorstwie, m.in. zabezpieczenie zasobów
+IT, odzyskiwanie danych po awarii czy też zapewnienie ciągłości działania. Do skutecznego zarządzania
+ryzykiem IT zarządzający przedsiębiorstwem muszą
+rozumieć, jakie jest nastawienia przedsiębiorstwa do
+ryzyka, znać wymagania regulacyjne, być świadomym
+głównych ryzyk oraz swojej odpowiedzialności za
+ryzyko.
+5
+ R. Kaplan, D. Norton, Strategy Maps. Converting intangible assets into tangible outcomes, Harvard Business School
+Press, Boston 2004.
+6
+ Information Technology Infrastructure Library.
+Pomiar efektywności IT
+Pomiar efektywności IT polega na śledzeniu realizacji projektów oraz monitorowaniu procesu świadczenia
+usług IT. Dzięki takiemu pomiarowi przedsiębiorstwo
+zyskuje szereg korzyści, do których należą m.in.: lepsze
+usługi, bardziej efektywna alokacja zasobów, polepszona wydajność systemów, większa produktywność
+pracowników, a także promowanie kultury organizacji
+nastawionej na osiąganie lepszych rezultatów.
+Miary efektywności IT można podzielić na dwie
+grupy: obiektywne i subiektywne. Obiektywne miary
+efektywności są łatwe do zmierzenia. Można ich używać do porównań między przedsiębiorstwami. Należą
+do nich przykładowo: udział wydatków na IT w przychodach, udział wydatków na działalność operacyjną
+IT w całości wydatków na IT, wysokość wydatków na
+IT w przeliczeniu na pracownika, liczba komputerów
+przypadająca na pracownika, średni czas oczekiwania na połączenie z Help Deskiem, liczba aplikacji
+starszych niż trzyletnie, udział kosztów utrzymania
+oprogramowania w całości wydatków na IT.
+Dużo istotniejsze są jednak miary subiektywne.
+Odzwierciedlają one oczekiwania wszystkich interesariuszy. Są trudne do pomiaru i nie nadają się do
+porównań między przedsiębiorstwami. Umożliwiają
+pomiar potrzeb biznesowych, tj. funkcjonalność, jakość, efektywność kosztowa. Przykładami takich miar
+są m.in.: odpowiedniość, dostępność, niezawodność,
+bezpieczeństwo, funkcjonalność, poziom jakości,
+dopasowanie do potrzeb biznesowych.
+Podsumowanie
+Skończył się czas uzyskiwania „łatwej” przewagi
+konkurencyjnej w oparciu o IT. Efektywne zastosowanie
+technologii informacyjnych polega na inwestowaniu
+w takie obszary (projekty) IT, które wspierają realizację
+strategii i wynikającą z niej działalność operacyjną
+przedsiębiorstwa, oraz ograniczaniu zasobów kierowanych na inne inicjatywy i działania IT. Celem, który
+chcemy osiągnąć jest większy wpływ technologii informacyjnych na poprawę wyników osiąganych przez
+przedsiębiorstwo przy jednoczesnej minimalizacji
+kosztów związanych z funkcjonowaniem IT. Pomocna
+jest w tym zakresie koncepcja nadzoru IT (IT Governance),
+oferująca usystematyzowane i kompleksowe podejście
+do efektywnego zastosowania IT w przedsiębiorstwie.

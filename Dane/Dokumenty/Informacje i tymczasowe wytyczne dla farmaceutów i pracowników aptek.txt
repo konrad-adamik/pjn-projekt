@@ -1,0 +1,155 @@
+Cel tego dokumentu Dostarczenie adekwatnych informacji i wytycznych dotyczących epidemii koronawirusa - w
+szczególności nowego koronawirusa SARS-CoV-2 - dla farmaceutów i pracowników aptek,
+zarówno w kontekście podstawowej opieki zdrowotnej (tj. w aptekach ogólnodostępnych i
+podstawowych placówkach opieki zdrowotnej), jak i w szpitalach, a także dla farmaceutów
+pracujących w innych miejscach. Dokument oferuje zbiór odniesień, z którymi można się
+zapoznać w celu uzyskania dodatkowych informacji.
+Zakażeniom koronawirusem można zapobiegać, a epidemię można zatrzymać poprzez aktywne zaangażowanie decydentów, pracowników ochrony zdrowia, mediów i społeczeństwa, jak wykazano w poprzednich epidemiach koronawirusa, takich jak w 2003 r. SARS-CoV
+(koronawirus zespołu ostrej niewydolności oddechowej) lub w 2012 r. MERS-CoV (koronawirus zespołu oddechowego na Bliskim Wschodzie). Niniejszy dokument ma na celu pomóc
+farmaceutom i pracownikom farmacji w zapobieganiu rozprzestrzeniania się choroby, przyczyniając się do jej skutecznego opanowania.
+Obowiązki i rola apteki
+ogólnodostępnej
+Apteki ogólnodostępne w krajach dotkniętych epidemią i krajach wolnych od wirusa są
+często pierwszym punktem kontaktu z systemem opieki zdrowotnej dla osób z problemami zdrowotnymi lub po prostu potrzebujących informacji i wiarygodnych porad.
+Farmaceuci w aptekach ogólnodostępnych są odpowiedzialni za:
+• Przechowywanie odpowiednich zapasów produktów farmaceutycznych (leków,
+masek itp.) w celu zaspokojenia popytu
+• Informowanie i edukowanie społeczeństwa
+• Poradnictwo
+• Rekomendacje
+• Promowanie zapobiegania chorobom
+• Promowanie kontroli infekcji
+Epidemia koronawirusa
+Czym jest koronawirus? Koronawirusy (CoV) to duża rodzina wirusów, które powodują choroby, od zwykłego
+przeziębienia do poważniejszych chorób, takich jak Bliskowschodni zespół oddechowy
+(MERS-CoV) i zespół ciężkiej ostrej niewydolności oddechowej (SARS-CoV). Nowy koronawirus (nCoV) to nowy szczep, który nie został wcześniej zidentyfikowany u ludzi.
+Koronawirusy są odzwierzęce, co oznacza, że są przenoszone między zwierzętami i
+ludźmi. Szczegółowe badania wykazały, że SARS-CoV został przeniesiony z kotów cywetowych na ludzi, a MERS-CoV z wielbłądów na ludzi. Kilka znanych koronawirusów, które
+nie zainfekowały jeszcze ludzi krąży wśród zwierząt.
+Obowiązki i rola apteki
+szpitalnej
+Apteki szpitalne w krajach dotkniętych epidemią i krajach wolnych od wirusa odgrywają
+ważną rolę w:
+• Przechowywaniu odpowiednich zapasów właściwych leków oraz innych produktów i urządzeń medycznych w celu zaspokojenia potrzeb
+• Współpracy z innymi pracownikami ochrony zdrowia w zapewnianiu opieki i
+wsparcia dla pacjentów
+• Zapobieganiu i kontroli zakażeń w szpitalu
+• Informowaniu i doradztwie
+• Zapewnieniu odpowiedzialnego stosowania dostarczanych produktów farmaceutycznych. Na przykład, upewnienie się, że pracownicy ochrony zdrowia konsekwentnie noszą maski.
+10
+Epidemia koronawirusa SARS-CoV-2: Informacje i tymczasowe wytyczne dla farmaceutów i pracowników farmacji | Strona 4 z 29
+Koronawirusy to duże wirusy z otoczką i dodatnią nicią RNA. Mają największy genom
+spośród wszystkich wirusów RNA. Genom jest upakowany w helikalnym kapsydzie utworzonym z białka nukleokapsydu i dodatkowo otoczony otoczką. Z otoczką wirusową związane są co najmniej trzy białka strukturalne: białko błonowe i białko otoczki uczestniczą
+w tworzeniu wirusa, natomiast białko kolczaste pośredniczy w wejściu wirusa do komórek gospodarza. Spośród białek strukturalnych, białko kolczaste tworzy duże wypukłości
+na powierzchni wirusa, nadając koronawirusom wrażenie posiadania koron (stąd ich nazwa, corona po łacinie oznacza koronę). Oprócz pośredniczenia we wnikaniu wirusa,
+białko kolczaste jest krytycznym wyznacznikiem zasięgu wirusowego gospodarza i tropizmu tkankowego oraz głównym czynnikiem indukującym odpowiedzi immunologiczne
+gospodarza. (Li, 2016)
+Koronawirusy zwykle atakują ssaki i ptaki, powodując różnorodne śmiertelne choroby.
+Zasadniczo koronawirusy powodują rozległe choroby układu oddechowego, żołądkowojelitowego i ośrodkowego układu nerwowego u ludzi i innych zwierząt, zagrażając zdrowiu ludzi od łagodnych infekcji górnych i dolnych dróg oddechowych oraz powodując
+straty ekonomiczne. (Li, 2016) Koronawirusy są w stanie dostosować się do nowych środowisk ze względną łatwością poprzez mutację i rekombinację. (Li, 2016) Tym samym
+mogą infekować nowych gospodarzy i tkanki.
+Z tego powodu, choć rzadko, niektóre koronawirusy, które zwykle atakują tylko niektóre
+gatunki zwierząt, mogą generować nowe szczepy, które mogą przenikać do ludzkich gospodarzy, a następnie być przenoszone między ludźmi. Ponieważ ludzie nie byli wcześniej
+narażeni na takie wirusy i nie mogą być chronieni istniejącymi szczepionkami ani naturalną odpornością, mutacje te mogą szybko prowadzić do epidemii chorób i ewentualnych pandemii. Tak było w przypadku poprzednich epidemii SARS i MERS.
+Czym jest epidemia
+koronawirusa
+SARS-CoV-2?
+SARS-CoV-2 to nowy szczep koronawirusa, który został po raz pierwszy wykryty w mieście Wuhan, w prowincji Hubei, w Chińskiej Republice Ludowej - mieście o 11 milionowej populacji. Epidemia zaczęła się jako zapalenie płuc o nieznanej etiologii pod koniec
+grudnia 2019 r.
+30 stycznia 2020 r. Światowa Organizacja Zdrowia (WHO) wybuch epidemii ogłosiła nagłym wypadkiem zdrowia publicznego o zasięgu międzynarodowym (Public Health
+Emergency of International Concern). WHO zaleciła, aby tymczasową nazwą choroby
+wywołującej obecną epidemię była ostra choroba układu oddechowego 2019-nCoV. W
+akronimie 2019-nCoV „2019” jest rokiem pierwszego wykrycia wirusa, „n” oznacza
+„nowy”, a „CoV” odpowiada rodzinie koronawirusów.
+11 lutego 2020 r. Międzynarodowy Komitet Taksonomii Wirusów (ICTV) zdecydował nazwać wirusa koronawirusem 2 zespołu ciężkiej ostrej niewydolności oddechowej
+(SARS-CoV-2), a WHO ostatecznie zadecydowało nazwać chorobę wywoływaną przez
+tego wirusa jako COVID-19 (choroba koronawirusowa zidentyfikowana w 2019 r.).
+W jaki sposób przenoszony jest koronawirus SARS-CoV-2?
+Przenoszenie SARS-CoV-2 odbywa się za pomocą następujących mechanizmów:
+a. Najczęściej rozprzestrzenia się między osobami w bliskiej odległości (około 6 stóp
+/ 1,8 metra)
+b. Przenoszenie z osoby na osobę zachodzi drogą kropelkową, gdy zarażona osoba
+kaszle lub kicha, podobnie jak przy rozprzestrzenianiu się grypy i innych patogenów
+oddechowych
+c. Kropelki te mogą trafić do ust, nosa lub oczu osób znajdujących się w pobliżu lub
+mogą być wdychane.
+d. Obecnie nie jest jasne czy można zarazić się SARS-CoV-2 dotykając powierzchni lub przedmiotów, na których jest wirus, a następnie dotykając ust,
+nosa lub oczu.
+10
+Epidemia koronawirusa SARS-CoV-2: Informacje i tymczasowe wytyczne dla farmaceutów i pracowników farmacji | Strona 5 z 29
+W jaki sposób koronawirus SARS-CoV-2
+NIE jest przenoszony?
+Chociaż wiedza na temat nowego koronawirusa jest nadal ograniczona, bardzo mało prawdopodobne jest aby przenoszenie mogło nastąpić przez:
+a. Przedmioty lub powierzchnie po krótkim czasie od skażenia wirusem lub narażone na
+niego. Obawy dotyczące paczek wysyłanych z obszarów dotkniętych chorobą są wysoce nieuzasadnione, biorąc pod uwagę czas jaki jest potrzebny na dotarcie paczki do
+celu. Nie ma jeszcze dowodów, że wirus może przetrwać na powierzchniach i przedmiotach.
+b. Dokładnie ugotowane i odpowiednio obrabiane produkty spożywcze.
+Ostra choroba układu oddechowego SARS-CoV-2 – informacje kliniczne
+Początek Okres inkubacji SARS-CoV-2 wynosi od 2 do 14 dni przed wystąpieniem objawów.
+Uwaga: Jeżeli osoba została narażona na wirusa, a w ciągu 14 dni nie wystąpiły objawy, można
+uznać ją za niezarażoną.
+Objawy W przypadku potwierdzonych zakażeń SARS-CoV-2 zgłaszane choroby obejmowały osoby o
+niewielkich lub bez objawów, po osoby poważnie chore i umierające. Objawy mogą obejmować (przy przyjęciu do szpitala) (Nanshan Chen, 2020):
+• Gorączkę (>80% pacjentów)
+• Kaszel (>80%)
+• Duszności (31%)
+• Ból mięśni (11%)
+Choroba może również wystąpić tylko z łagodnymi objawami, w tym gorączką o niskim stopniu nasilenia, kaszlem, złym samopoczuciem, nieżytem nosa, bólem gardła bez żadnych oznak
+niepokojących takich jak duszności lub trudności w oddychaniu, zwiększonym wydzielaniem
+z dróg oddechowych (tj. plwocina lub krwioplucie), objawami żołądkowo-jelitowymi takimi
+jak nudności, wymioty i/lub biegunka, bez zmian stanu psychicznego (tj. splątanie, letarg).
+(Światowa Organizacja Zdrowia, 2020).
+Wstępne dane wskazują na 11% śmiertelność wśród hospitalizowanych pacjentów. Powikłania wystąpiły u 33% pacjentów i obejmowały zespół ostrej niewydolności oddechowej (ARDS)
+(17%), ostre uszkodzenie nerek, ostre uszkodzenie dróg oddechowych, wstrząs septyczny i
+zapalenie płuc wywołane respiratorem. (Nanshan Chen, 2020).
+Czynniki ryzyka choroby nie są jeszcze jasne, chociaż starsi pacjenci lub pacjenci ze współistniejącymi chorobami towarzyszącymi (cukrzyca, nadciśnienie, choroby sercowo-naczyniowe,
+nowotwory) mogą być bardziej narażeni. W najcięższych przypadkach infekcja może powodować zapalenie płuc, ciężki ostry zespół oddechowy, niewydolność nerek, a nawet śmierć.
+(Światowa Organizacja Zdrowia, 2020).
+Leczenie Obecnie nie ma konkretnego leku ani szczepionki przeciwko koronawirusowi SARS-CoV2 i żadne leki ani szczepionki nie zostały w pełni przetestowane pod kątem bezpieczeństwa i skuteczności. Odkąd 10 stycznia 2020 r. Chińskie władze ds. Zdrowia udostępniły
+pełny genom nowego wirusa społeczności międzynarodowej, kilka zespołów badawczych dąży do opracowania szczepionek i terapii. Jednak minie trochę czasu zanim takie
+e. W przypadku większości wirusów układu oddechowego, uważa się, że ludzie
+zarażają najbardziej kiedy wykazują najwięcej symptomów (są najbardziej
+chorzy). Jednak w przypadku SARS-CoV-2 zgłaszano przypadki rozprzestrzeniania się przez zakażonych pacjentów bez objawów przez bliski kontakt.
+(Centra kontroli i zapobiegania chorobom, 2020) (Rothe, 2020)
+10
+Epidemia koronawirusa SARS-CoV-2: Informacje i tymczasowe wytyczne dla farmaceutów i pracowników farmacji | Strona 6 z 29
+leczenie lub szczepionki będą dostępne.
+Obecnie leczenie jest objawowe, oparte na ocenie stanu klinicznego pacjenta i opiece
+podtrzymującej. Leczenie wspomagające obejmuje tlenoterapię, nawodnienie i leczenie
+gorączki/bólu oraz podaniu antybiotyków, jeśli występuje współzakażenie bakteryjne.
+Specyficzne leczenie może obejmować dożylne podanie remdesiwiru (nowy analog proleku nukleotydowego będący w fazie rozwoju), który został przetestowany u pierwszych
+pacjentów hospitalizowanych w USA (Michelle L. Holshue, 2020) i we Francji (dane niepublikowane).
+Uzasadnienie różnych opcji leczenia, a także wytyczne dotyczące leczenia populacji specjalnych (pacjentek w ciąży, noworodków, dzieci i młodzieży) oraz wsparcia żywieniowego, znajdują się w wytycznych (w języku angielskim lub chińskim) przygotowanych
+przez Chińskie Stowarzyszenie Farmaceutyczne, dostępnych również na dedykowanej
+stronie FIP. (Chińskie Stowarzyszenie Farmaceutyczne, 2020 (12 lutego)).
+Zapewnienie zapasów kluczowych leków, sprzętu i urządzeń
+Dążąc do zapobiegania zakażeniom SARS-CoV-2 i ich kontroli, apteki powinny gwarantować dostawę leków, w tym leków stosowanych w zapobieganiu chorobom, diagnozowaniu i leczeniu, a także zapewniając zaopatrzenie zespołom wsparcia medycznego.
+Apteki powinny wyznaczyć farmaceutów, którzy zajmą się zaopatrzeniem, przechowywaniem i dystrybucją kluczowych leków, a także dostosują zasoby do potrzeb, aby zagwarantować zaopatrzenie dla praktyki klinicznej.
+Lista obejmuje leki przeciwwirusowe, środki przeciwdrobnoustrojowe, przeciwgorączkowe i przeciwbólowe, kortykosteroidy i kilka innych kategorii leków. Zobacz tabelę
+opracowaną przez Chińskie Stowarzyszenie Farmaceutyczne w Załączniku 1.
+Wykaz kluczowych urządzeń, sprzętu i środków ochrony indywidualnej, opracowany
+również przez Chińskie Stowarzyszenie Farmaceutyczne, patrz Załącznik 2.
+Zapobieganie Aby pomóc w kontrolowaniu dalszego rozprzestrzeniania się wirusa, osoby podejrzane lub z
+potwierdzoną chorobą powinny być izolowane od innych pacjentów i leczone przez pracowników ochrony zdrowia z zachowaniem ścisłych środków kontroli zakażeń.
+Osoby, które miały kontakt z osobami z objawami i potwierdzonym zakażeniem SARS-CoV2, powinny być monitorowane za pośrednictwem lokalnych zespołów opieki zdrowotnej.
+Standardowe zalecenia WHO dla ogółu społeczeństwa dotyczące ograniczenia narażenia i
+przenoszenia tej i innych chorób układu oddechowego są następujące, i uwzględniają higienę rąk i układu oddechowego oraz bezpieczne praktyki żywieniowe:
+1. Często myj ręce przy użyciu środka na bazie alkoholu lub wody z mydłem;
+2. Zakrywaj usta i nos podczas kaszlu i kichania zgiętym łokciem lub chusteczką
+– natychmiast wyrzuć chusteczkę i umyj ręce;
+3. Unikaj bliskiego kontaktu z każdym kto ma gorączkę i kaszel;
+4. Jeśli masz gorączkę, kaszel i trudności w oddychaniu, zwróć się po pomoc
+lekarską jak najwcześniej i powiedz o swojej historii podróży lekarzowi;
+5. Odwiedzając targowiska na obszarach, na których obecnie występują przypadki nowego koronawirusa, unikaj bezpośredniego niezabezpieczonego
+kontaktu z żywymi zwierzętami i powierzchniami mającymi z nimi kontakt;
+6. Należy unikać spożywania surowych lub niedogotowanych produktów zwierzęcych. Z surowym mięsem, mlekiem lub podrobami zwierzęcymi należy
+obchodzić się ostrożnie, aby uniknąć zanieczyszczenia krzyżowego niegotowaną żywnością, zgodnie z dobrymi praktykami bezpieczeństwa żywności.
+(Światowa Organizacja Zdrowia, 2020)
+10
+Epidemia koronawirusa SARS-CoV-2: Informacje i tymczasowe wytyczne dla farmaceutów i pracowników farmacji | Strona 7 z 29
+Samoizolacja osób z objawami i/lub osób, które mogły mieć kontakt z osobami zakażonymi
+Samoizolacja oznacza unikanie sytuacji, w których można zarazić inne osoby. Oznacza to
+wszystkie sytuacje, w których możesz mieć kontakt z innymi, takie jak spotkania towarzyskie,
+miejsca pracy, szkoły, ośrodki opieki nad dziećmi/przedszkola, uniwersytety, spotkania wyznaniowe, placówki opieki and osobami starszymi i opieki zdrowotnej, więzienia, spotkania
+sportowe, supermarkety, restauracje, centra handlowe i spotkania publiczne. (Ministerstwo
+Zdrowia Nowej Zelandii, 2020).

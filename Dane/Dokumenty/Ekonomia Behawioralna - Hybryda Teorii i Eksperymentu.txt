@@ -1,0 +1,222 @@
+Streszczenie
+Tematyka ekonomii behawioralnej w ostatnich latach staje się coraz szerzej znana,
+a jej założenia torują sobie drogę w powszechnej świadomości. Znaczny wzrost zainteresowania jej założeniami nastąpił po przyznaniu w 2017 r. Richardowi H. Thalerowi Nagrody
+Banku Szwecji im. Alfreda Nobla w dziedzinie nauk ekonomicznych za jego wkład w ekonomię behawioralną. Celem opracowania jest próba zaprezentowania obszarów badań ekonomicznych, w których zastosowanie znalazła dziedzina ekonomii behawioralnej. Dokonano
+przeglądu literatury, wskazano obszary budzące kontrowersje nie tylko wśród teoretyków,
+ale również w środowiskach biznesowych. Wskazano przykłady zachowań nieracjonalnych
+z punktu widzenia klasycznych zasad teorii ekonomicznych, zarówno po stronie konsumenta, jak i producenta.
+Słowa kluczowe: ekonomia behawioralna, ekonomia neoklasyczna, eksperyment ekonomiczny, emocje, obserwacje
+Wprowadzenie
+Ekonomia behawioralna stała się spoiwem łączącym teorię ekonomii klasycznej i neoklasycznej z psychologicznymi modelami zachowań ludzkich weryfikowanymi eksperymentalnie, zwłaszcza w zakresie badania motywacji. Pierwsze związki między nimi
+Adres e-mail: piotr.niemcewicz@gmail.com
+10 Problemy współczesnej ekonomii
+zostały odkryte już w latach czterdziestych XX wieku, ale nie rozwinięto wówczas
+badań akademickich (Moglia, 2013). W odróżnieniu od klasycznego pojmowania
+motywów wyboru ekonomicznego, koncepcje ekonomii behawioralnej, odrzucające
+prymat racjonalności na rzecz motywów emocjonalnych, wspierane są narzędziami
+neuronauki kognitywnej (Naqvi, Shiv, Bechara, 2016). W niniejszym artykule dokonano przeglądu dostępnej literatury i wybrano przykłady ilustrujące różne punkty widzenia zarówno zwolenników, jak i przeciwników paradygmatów ekonomii behawioralnej.
+Dokonano próby określenia, czy ekonomia behawioralna stoi w opozycji do ekonomii
+neoklasycznej, czy też jest uzupełnieniem miejsc, których nie da się opisać, stojąc na
+gruncie klasycznego definiowania zjawisk zachodzących na rynku. Dla zapoznania się
+z aktualnie dostępną literaturą przedmiotu dokonano przeglądu baz danych: EBSCO,
+Google Scholar, Scopus i Research Starters, a także dostępnych źródeł encyklopedycznych, dostarczających ścisłych definicji używanych pojęć. W celu dotarcia do artykułów źródłowych przeanalizowano bibliografię wybranych publikacji.
+1. Ekonomia behawioralna – geneza
+Historycznych korzeni behawioryzmu George Graham doszukuje się u brytyjskich
+empirystów: Johna Locke’a i Davida Hume’a (Graham, 2017). Behawioryzm cieszył
+się największą popularnością aż do początków rewolucji w kogniwistyce (Bechtel,
+Graham, Balota, 1998). Od tamtych czasów behawioryzm stał się doktryną, która
+przez jednych badaczy jest odrzucana, przez innych zaś rozwijana, łączona z innymi
+dziedzinami. Behawioryzm w aktualnej postaci zajmuje się stosowaniem metod
+badawczych wykorzystywanych w naukach przyrodniczych do badania ludzkiej
+psychiki, ze szczególnym uwzględnieniem zależności statystycznych między pojawiającymi się bodźcami a reakcjami na nie. Ekonomia behawioralna jest dziedziną zajmującą się weryfikowaniem założeń ekonomii neoklasycznej i klasycznej
+na podstawie wyników badań z dziedziny psychologii i socjologii. Ekonomia neoklasyczna, nurt dominujący w XX wieku, wywodząca się z prac takich ekonomistów, jak William Jevons i Alfred Marshall, stała się nauką sformalizowaną, szeroko
+wykorzystującą aparat matematyczny i narzędzia analityczne. Akceptacja poglądów
+Vilfredo Pareto doprowadziła do porzucenia wiązania teorii ekonomicznych z psychologią, odrzucono poglądy Adama Smitha, Alfreda Marshalla i Johna M. Keynesa
+na temat tego, jak ludzie myślą o zachowaniu (Camerer, Loewenstein, 2003). 
+11 Piotr Niemcewicz
+Ekonomia behawioralna – hybryda teorii i eksperymentu
+Idealizowane przypadki doskonałej konkurencji i pełnej informacji zostały
+z czasem wyparte bardziej realistycznymi modelami zakładającymi występowanie
+nieidealnej konkurencji i niekompletnej informacji. W miejsce idealnej racjonalności wyborów stają się widoczne pojęcia związane z psychologią, neuronauką i socjologią. Pojawia się nazwa ekonomia behawioralna. W modelach ekonomicznych
+zaczynają funkcjonować ograniczenia związane z emocjami, zdolnościami jednostek, wpływem na otoczenia i środowiska na dokonywane wybory. Milton Friedman
+w 1953 roku w eseju O metodologii ekonomii pozytywnej zawarł stwierdzenie, że
+teorii naukowych nie można oceniać ze względu na prawdziwość ich założeń, lecz
+według ich przydatności do dokonywania dokładnych predykcji (Friedman, 1953).
+W kolejnych latach wykazano, że na gruncie teorii racjonalnych oczekiwań nie
+można objaśnić, dlaczego na przykład (Solek, 2010):
+– stopa zwrotu z akcji jest, przeciętnie rzecz biorąc, wyższa niż z obligacji,
+również po uwzględnieniu różnic w poziomie ryzyka (jest to tzw. equity
+premium puzzle),
+– wartość przypisywana danemu obiektowi różni się w zależności od tego,
+czy dana osoba je posiada, czy też nie (inaczej mówiąc, skłonność do
+zapłaty nie jest równa skłonności do akceptacji – tzw. efekt posiadania),
+– ludzie silniej reagują na względne, a nie absolutne zmiany wartości, przykładowo podniesienie ceny o pewną kwotę ma większy wpływ na podjęcie decyzji o odłożeniu zakupu, gdy początkowa cena była niska, niż przy
+wyższej cenie początkowej,
+– na użyteczność ma wpływ porównanie z innymi osobami w podobnej
+sytuacji,
+– konsumenci niekiedy odraczają przyjemność w czasie, zamiast ją przyspieszyć, wbrew zasadzie dodatniej stopy preferencji czasowej,
+– decydenci biorą pod uwagę koszty utopione, zamiast je ignorować,
+– na wielu rynkach powstają bańki spekulacyjne, skoro cena aktywów odzwierciedla ich wartość i uwzględnia wszystkie istotne informacje (np. uzyskane z analizy fundamentalnej spółek giełdowych).
+Szukając alternatywnych do szkoły neoklasycznej teorii, które mogłyby
+udzielić odpowiedzi na powyższe pytania, w 1955 roku Herbert Simon, uważając,
+że jednostki podejmują decyzje nie posiadając pełnej informacji oraz nie mogąc
+w pełni jej przetworzyć, zaproponował teorię ograniczonej racjonalności, zgodnie
+z którą konsumenci zadowalają się osiągnięciem wystarczająco satysfakcjonującego poziomu użyteczności, w miejsce teoretycznie maksymalnego (Simon, 1955). 
+12 Problemy współczesnej ekonomii
+Podobna teoria, opisująca producentów, została sformułowana przez Harveya
+Leibensteina jako teoria nieefektywności-X. Wynika z niej, że producenci nie wybierają najtańszych metod produkcji, a więc w rozumieniu klasycznym dopuszczają
+się marnotrawstwa zasobów (Leibenstein, 1966). Prace, które powstawały w tamtym
+okresie, doprowadziły do zdefiniowania nowego nurtu, nazwanego ekonomią behawioralną, która miała za zadanie wyjaśnić anomalie niedające się wyjaśnić metodami dostępnymi w nurcie ekonomii neoklasycznej. W tym celu do klasycznego
+modelu ekonomicznego dodano podstawy psychologii opisujące zachowania ludzi
+oraz obserwacje eksperymentalne weryfikujące założenia teoretyczne. Do najważniejszych prac, w mojej opinii, należą Ekonomia eksperymentalna: teoria wartości
+narzuconej (Smith, 1976), wprowadzająca zasady przeprowadzania eksperymentów,
+Teoria perspektywy (Kahneman, Tversky, 1979), opisująca procesy decyzyjne w warunkach niepewności oraz praca W kierunku pozytywnej teorii wyboru konsumenta
+(Thaler, 1980). Ze względu na obszerność badań oraz zróżnicowanie analizowanych
+aspektów, ekonomia behawioralna nie jest kompleksową szkołą, a raczej otwartym,
+hybrydowym zbiorem teorii, koncepcji i szkół, takich jak szkoła Carnegie (Herbert
+Simon), szkoła Michigan (George Katona), ekonomia psychologiczna (uhonorowana przyznaniem w 2002 roku Nagrody Nobla w dziedzinie ekonomii dla Daniela
+Kahnemana), makroekonomia behawioralna (George Akerlof), teoria ewolucyjna
+(Richard Nelson, Sidney Winter), finanse behawioralne (Richard Thaler, nagroda
+Nobla w 2017 r.), ekonomia eksperymentalna (Nagroda Nobla w 2002 r. dla Vernona
+L. Smitha) (Tomer, 2007). Ekonomiści behawioralni powrócili do korzeni ekonomii, do prac Adama Smitha, który zwracał uwagę na moralność w postępowaniu
+jednostek, na kierujący ludźmi altruizm. Te fundamenty zostały z biegiem czasu
+porzucone w ramach ortodoksyjnego głównego nurtu ekonomii, powrót do nich jest
+wynikiem pojawienia się nowych teorii bazujących na badaniach rzeczywistych
+zachowań. Aktualnie opisywane są interakcje między indywidualnymi wyborami
+a nawykami i instytucjami (Brette, Lazaric, da Silva, 2017).
+2. Zachowanie „nieracjonalne” uczestników rynku – przykłady
+Koncepcja homo œconomicus zakłada, że człowiek jako jednostka działa racjonalnie,
+dążąc zawsze do maksymalizacji zysków (producent) i użyteczności (konsument),
+osiąganych w wyniku dokonywania wyborów ekonomicznych, przy danych nakładach. Paradygmat człowieka ekonomicznego, wykreowany przez Johna Stuarta Milla 
+13 Piotr Niemcewicz
+Ekonomia behawioralna – hybryda teorii i eksperymentu
+na bazie prac Adama Smitha, zakłada, że zachowanie ludzkie jest rozsądne, człowiek
+kieruje się swoim egoistycznym interesem, a jego wybory są racjonalne, gdyż oparte
+na pełnej informacji. W rzeczywistości okazało się jednak, że ludzie nie podejmują racjonalnych decyzji ekonomicznych, popełniają błędy, dokonując wyborów, nie
+kontrolują swoich zachowań, jednym słowem nie postępują tak, jak wynika z teorii
+szkoły klasycznej. Obserwacje poczynione na gruncie ekonomii behawioralnej zaburzyły dwa filary, na bazie których powstała koncepcja homo œconomicus: interes
+własny i racjonalność wyboru (Kesternich, Reif, Rübbelke, 2017). Można znaleźć
+wiele przykładów na poparcie twierdzenia, że człowiek nie zawsze działa z egoistycznych, racjonalnych ekonomicznie pobudek, co dotyczy zarówno konsumentów,
+jak i producentów; poniżej wskazano kilka wybranych.
+Jako przykład nieracjonalnego ekonomicznie zachowania konsumentów można
+wskazać zakupy produktów z certyfikatami fair trade. Sprawiedliwy handel, fair
+trade, jest międzynarodowym ruchem konsumentów, firm handlowych i spółdzielni
+produkcyjnych, celem działania którego jest ułatwienie dostępu producentów z krajów
+Południa do konsumentów z krajów Północy. Dążąc do wyeliminowania ubóstwa,
+fair trade głosi, że naczelną zasadą działania jest uznanie prymatu człowieka nad
+zyskami. Konsumenci, często z pobudek ideowych, są skłonni zapłacić większą sumę
+za kupowany produkt opatrzony certyfikatem niż za analogiczny produkt spoza sieci
+fair trade. W miejsce niższej ceny konsument zyskuje dobre samopoczucie i spokojne
+sumienie, wynikające z poczucia udziału w sprawiedliwym podziale dóbr i wspieraniu gospodarek ubogich krajów (O’Connor, Sims, White, 2017).
+Innym przykładem z tej samej grupy zachowań był bojkot produktów koncernu
+Maspex w sierpniu 2017 roku po pojawieniu się reklam napojów energetycznych
+Tiger, uznanych powszechnie za oburzające i obrażające powstańców warszawskich.
+Klienci bojkotowali wszystkie napoje firmy, której praktyki uznane zostały za nieetyczne. Do protestów dołączyło Polskie Radio i grupa Lotos, rezygnująca ze sprzedaży produktów na stacjach paliw (money.pl, 2017). Po wybuchu skandalu koncern
+wydał oświadczenie z przeprosinami i przelał na rzecz powstańców kwotę 500 tys. zł.
+Protestujący zyskali wówczas poczucie ukarania nieetycznego producenta, rezygnując z zakupu jego produktów, jednak po krótkim czasie tendencja spadkowa sprzedaży została przełamana, a nawet nastąpił wzrost sprzedaży (wirtualnemedia.pl, 2017).
+Analogiczną ilustracją takiego zachowania jest ostentacyjne niszczenie produktów. Bojkot polskiego browaru Ciechan ze względu na różnice światopoglądowe
+właściciela i grupy konsumentów charakteryzował się ostentacyjnym, publicznym
+wylewaniem piwa produkowanego przez ten browar. W efekcie okazywano nega-
+14 Problemy współczesnej ekonomii
+tywne emocje, ale ze względu na fakt wcześniejszego zakupu produktów, z punktu
+widzenia producenta, wpływy nie zmieniły się, a po pewnym czasie protesty ucichły.
+Działanie w tym przypadku nie przyniosło zakładanych efektów ekonomicznych,
+a nawet osiągnięto efekt przeciwny do zamierzonego, jedynie zaspokojono potrzebę
+protestu uczestników bojkotu ideologicznego (wirtualnemedia.pl, 2017).
+Zbliżone egzemplifikacje można znaleźć dla nieracjonalnego zachowania producentów. Dobrą ilustracją takiego przypadku jest odmowa wykonania wydruku
+plakatów (Polska) pomimo prawnego obowiązku wykonania usługi i narażenia się
+na zarzut popełnienia wykroczenia i karę grzywny (PAP, 2017) oraz odmowa obsłużenia klienta w pizzerii (USA), co w konsekwencji doprowadziło do zamknięcia
+lokalu, ale również zorganizowania zbiórki publicznej dla właścicieli zakończonej
+zebraniem kwoty ponad 840 tys. USD (Deptuła, 2015). Oba działania miały podłoże
+światopoglądowe. W tych przypadkach producenci (usługodawcy) zrezygnowali
+z zysku na rzecz zgodności z wyznawanymi zasadami i przekonaniami religijnymi. Stracili zysk, część klientów, w zamian zachowując poczucie życia w zgodzie
+z uniwersalnymi, wyznawanymi wartościami. Efektem ubocznym było zyskanie
+nowych klientów wyznających te same zasady.
+Przykład stosowania w praktyce zasady work-life balance wskazuje, że część
+pracodawców rezygnuje z krótkoterminowych zysków i akceptuje spadek wydajności pracowników wiedząc, że zbudowanie harmonii na linii praca–życie prywatne
+nie jest łatwe, zwłaszcza w okresie dorastania dzieci. Według badań brytyjskich,
+z biegiem czasu obecność małych dzieci w domu traci jednak na znaczeniu (White,
+Hill, McGovern, Mills, Smeaton, 2003). W dłuższej perspektywie pracodawca ma
+szansę uzyskać (hipotetycznie) lojalność, podziw i szacunek pracowników.
+Dla wielu pracodawców naturalnym jest zaangażowanie się w działalność
+na rzecz społeczności lokalnych lub w projekt o znaczeniu ogólnospołecznym,
+co definiuje się jako społeczną odpowiedzialność przedsiębiorstw (Kaczmarek,
+2013). Podejmowanie decyzji strategicznych i działań, które mają korzystny wpływ
+zarówno na zysk firmy, jak i wzrost dobrobytu społecznego, w tym wypadku może
+się odbywać nawet kosztem zysku firmy. Konsekwencja w tego typu działaniach
+prowadzi do budowy reputacji przedsiębiorstwa i zaufania do firmy. Czy jednak
+rzeczywiście powyższe przykłady wskazują na nieracjonalność? Czy też słowo nieracjonalność nie powinno zostać ujęte w cudzysłów? To, co wydaje się nieracjonalne
+jednej osobie, dla drugiej jest działaniem racjonalnym. Na dokonywane na całym
+świecie codziennie wybory mają wpływ nie tylko matematyczne równania rozliczające koszty i przychody po stronie finansów, ale również aspekty niemierzalne: 
+15 Piotr Niemcewicz
+Ekonomia behawioralna – hybryda teorii i eksperymentu
+wychowanie, etyka, religia, wyznawane wartości. Postępowanie zgodnie z zasadami,
+które są częścią jednostki, jest wartością dodatkową, a dla uczestnika rynku może
+być nie mniej ważną od osobistej korzyści.
+3. Krytyka i zarzuty wobec ekonomii behawioralnej
+Kontrowersje, które wywołują badania prowadzone w ramach eksperymentów pod
+szyldem ekonomii behawioralnej, dotyczą przede wszystkim niespójności koncepcji
+i teorii wysnuwanych w ramach tego nowego nurtu w ekonomii. Część zarzutów wywołana jest zapewne niechęcią do odrzucania tego, co latami było traktowane jako
+pewnik, część z nich wynika z krytycznego podejścia do uwzględniania w analizie
+kryteriów, które są trudno mierzalne, jak na przykład wpływ otoczenia społecznego
+i wywieranych nacisków na wybory dokonywane przez jednostki. Fundamentalne
+zasady przeprowadzania eksperymentów ekonomicznych zbudowane przez Vernona
+Smitha rozwiązywały problemy, z którymi borykały się laboratoria ekonomiczne:
+wprowadzono gratyfikację finansową powiązaną z wyborami dokonywanymi przez
+uczestników eksperymentów oraz wprowadzono kontrolę ich preferencji, co przybliżało warunki laboratoryjne do rynkowych (Smith, 1976). Wspomniane eksperymenty mogą być prowadzone w warunkach laboratoryjnych lub polowych. Wykazanie
+korelacji między nimi wymaga prowadzenia obu typów badań, co może wywołać
+pytania o celowość dublowania obserwacji. Z drugiej strony trudno uwzględnić
+powiązanie wszystkich emocji, które mogą mieć wpływ na zachowanie konkretnego człowieka w konkretnym miejscu i czasie z jego preferencjami dotyczącymi wyboru, gdyby pomiar był prowadzony w nieco tylko zmienionych warunkach.
+Nawet badanie laboratoryjne może różnić się w zależności od warunków fizycznych
+panujących w pomieszczeniu, takich jak temperatura, hałas, nasłonecznienie. Stąd
+powtarzalność eksperymentu również stoi pod znakiem zapytania. Podnoszone jest
+również wyciąganie uogólnionych wniosków na podstawie badań pojedynczych
+przypadków, które można traktować jako odchylenie, a nie normę, a statystycznie można je odrzucić, co wykazał Eugene Fama już w 1998 roku (Fama, 1998),
+a w ostatnich latach do zarzutów odniósł się również Colin Camerer, który w artykule polemicznym odrzucił krytykę ekonomii eksperymentalnej autorstwa Stevena
+Levitta i Johna Lista (Camerer, 2011).
+Również badania procesów podejmowania decyzji prowadzone w ramach neuroekonomii, wspierane przez techniki neuronauki poznawczej, takie jak obrazowa-
+16 Problemy współczesnej ekonomii
+nie funkcjonalne obszarów mózgu, pozwala na szukanie związków między jego
+stanami a stanami umysłu. Krytycy neuroekonomii zgadzają się z wykazywanymi
+korelacjami aktywności między obszarami mózgu, jednak podważają możliwość
+jednoznacznego wykazania ciągów przyczynowo-skutkowych zachowań. Te zarzuty
+zostaną zapewne rozwiązane wraz z rozwojem technologii, takich jak EEG (elektroencefalografia), MEG (magnetoencefalografia), fMRI (funkcjonalne obrazowanie
+metodą rezonansu magnetycznego), pozytronowa tomografia emisyjna, GSR (reakcja
+skórno-galwaniczna), pomiar tętna, oraz pojawieniem się nowych metod badawczych (Morin, 2011). Metod nieinwazyjnego obrazowania aktywności mózgu jest
+mnóstwo, a ich znajomość może prowadzić do świadomego fałszowania wyników
+badań, a to z kolei może być podstawą do odrzucenia części z nich. Krytycy badań
+zachowań konsumentów podnoszą również etyczny aspekt badań zachowań metodami neuromarketingu, który może służyć wzmocnieniu manipulowania siły przekazu
+marketingowego. Z odkrytego w ramach ekonomii behawioralnej efektu ramowania
+wynika, że ten sam fakt może zostać odebrany pozytywnie lub negatywnie w zależności od tego, jak zostanie przedstawiony, co obrazowane jest na przykładzie
+szklanki, która może być w połowie pełna albo w połowie pusta. W zależności od
+opisu sytuacji, zdanie ludzi na ten sam temat może się zmienić, a stąd już tylko krok
+do manipulacji zachowaniami i kreowania wyborów (Ledgerwood, 2013).
+Podsumowanie
+W 2017 roku laureatem Nagrody Banku Szwecji im. Alfreda Nobla w dziedzinie
+nauk ekonomicznych został Richard H. Thaler za wkład w ekonomię behawioralną.
+Jego badania pozwoliły połączyć analizę procesu podejmowania decyzji ekonomicznych z badaniami psychologicznymi. Thaler wykazał, że ludzie nie zawsze działają
+racjonalnie, mają problemy z samokontrolą, a na zachowanie jednostek wpływają
+preferencje społeczne (Nobelprize.org, 2017). Zapytany przez dziennikarzy o to,
+w jaki sposób wyda 9 milionów koron nagrody, odpowiedział, że „w najbardziej
+irracjonalny sposób, w jaki tylko będzie to możliwe” (PAP, 2017). W 2002 roku
+Nagrodę Nobla odebrali Daniel Kahneman i Vernon L. Smith w innych dziedzinach
+należących również do nurtu ekonomii behawioralnej: psychologii ekonomicznej
+i ekonomii eksperymentalnej. Z faktu podkreślania przez Fundację Noblowską, że
+nagroda w dziedzinie ekonomii przyznawana jest za osiągnięcia mające bezpośredni
+wpływ na życie człowieka, należy wnioskować, że ekonomia behawioralna zna-
+17 Piotr Niemcewicz
+Ekonomia behawioralna – hybryda teorii i eksperymentu
+lazła się w głównym nurcie współczesnej ekonomii. Można się z jej założeniami
+zgadzać lub polemizować, nie można jej pomijać. Jednocześnie należy zauważyć, że
+poszczególne dziedziny nauki nie są już rozłączne, a stają się synergicznie przenikające nawzajem. Podobnie jednostki ludzkie, w miarę zdobywania doświadczenia,
+adaptują się do zmiennych warunków otoczenia, również patrząc pod kątem zachowań rynkowych. Wzajemne przenikanie różnych dziedzin nauki i czerpanie z ich
+paradygmatów powinno pozwolić na wypracowywanie nowych, dokładniejszych
+modeli opisujących zachowanie jednostki w otoczeniu rynkowym. Przyszłości ekonomii behawioralnej, po zaakceptowaniu założeń, że decyzje podejmowane przez
+ludzi wynikają z różnych motywacji, z których wiele nie posiada racjonalnego sensu
+ekonomicznego, należy dopatrywać się w kluczowym uzupełnianiu zasad ekonomii
+klasycznej i neoklasycznej. Ludzie używają rozumu, ale ich wybory nie są w pełni
+racjonalne. Stosowanie psychologicznych opisów ludzkich zachowań, wspartych
+eksperymentami ekonomicznymi w opracowywaniu modeli dokonywania wyborów
+opartych o założenia behawioralne, może pozwolić na osiąganie przez organizacje
+zakładanych celów ekonomicznych, społecznych czy produkcyjnych dzięki lepszemu zrozumieniu i przewidywaniu często nieracjonalnych decyzji, które mogą być
+podejmowane przez szeroko rozumianych uczestników rynku.

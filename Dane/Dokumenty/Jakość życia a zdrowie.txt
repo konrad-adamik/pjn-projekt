@@ -1,0 +1,175 @@
+Pojęcia "jakość życia" i "zdrowie" coraz częściej spotyka się w literaturze
+psychologicznej. Kategorie te, podobnie jak pojęcie "szczęścia", mają wiele
+cech wspólnych. Wydaje się, że cechą najbardziej charakterystyczną jest to,
+że są one skrajnie wieloznaczne, a jednocześnie bardzo istotne dla życia
+człowieka. Bardzo wnikliwą analizę porównawczą kategorii "szczęście"
+i "zdrowie psychiczne" przeprowadził Tatarkiewicz [1979]. Analiza ta stosuje się także do kategorii jakości życia, gdyż w nowoczesnych badaniach jest
+ona często ujmowana i "mierzona" jako poczucie zadowolenia z życia lub
+jako dobrostan (well being).
+Z analizy tej wynika, że wspomniane wyżej kategorie są obiektywne
+i subiektywne zarazem. W sytuacji porównywania zdrowia i jakości życia to
+zagadnienie wydaje się najważniejsze i dlatego właśnie problem ten stanie
+się myślą przewodnią dalszych rozważań.
+Na wstępie zasygnalizuję, iż przyjmuję założenie, że jakość życia ujmowana obiektywnie to zespół warunków życia człowieka, obiektywne atrybuty świata przyrody, przedmiotów i kultury oraz obiektywnie oceniane
+atrybuty człowieka związane z poziomem życia i pozycją społeczną. Wśród
+tych obiektywnych wyznaczników jakości życia mieści się także struktura
+organizmu człowieka i poziom funkcjonowania jego układów biologicznych,
+czyli zdrowie. Jakość życia, ujmowaną subiektywnie, określam jako rezultat
+wewnętrznych procesów wartościowania różnych sfer życia i życia jako całości. Jest to więc kategoria poznawczo-przeżyciowa (emocjonalna), a podmiot
+jest najważniejszym, jeżeli nie jedynym źródłem danych, na podstawie których wnioskuje się o poziomie jakości życia.
+Owo wartościowanie zależy oczywiście od struktury potrzeb i indywidualnego systemu wartości a zwłaszcza od indywidualnego pojęcia sensu życia.
+Nawet fragmentaryczny przegląd literatury na temat jakości życia, jego
+natury, obiektywnych i subiektywnych uwarunkowań [Bauer 1966; Bradburn 1969; Campbell i in. 1976; Czapiński 1992; Diener 1984], sposobów
+badania poziomu jakości życia i niektórych aspektów szczęścia, a zwłaszcza
+prac zajmujących się predyktorami jakości życia oraz związkiem jakości życia ze zdrowiem [Filipp, Ferring 1991; Czapiński 1992] wskazuje na ogromne zróżnicowanie podejść i sprzeczność wyników badań empirycznych.
+Z lektury tych prac wyłania się zarówno duża liczba różnych problemów natury teoretycznej, metodologicznej, jak i zachęta do nowych badań.
+Sądzę, że pewien istotny postęp w rozumieniu zależności pomiędzy zdrowiem a jakością życia będzie możliwy wówczas, gdy zostaną podjęte pewne
+zasadnicze problemy ważne dla empirycznych badań nad predyktorami ja-kości życia oraz gdy do określenia kategorii zdrowia wykorzysta się nową
+wiedzę na ten temat. W dotychczasowych badaniach poświęconych zadowoleniu z życia, szczęściu i jakości życia, zmienne związane ze zdrowiem traktowano w sposób zbyt uproszczony, jednostronny.
+Zadaniem tego artykułu jest więc przedstawienie:
+— wybranych problemów badania jakości życia,
+— najważniejszych podejść do kategorii "zdrowie",
+— analiza wybranych zagadnień współzależności pomiędzy jakością życia
+i subiektywną koncepcją zdrowia, holistyczno-funkcjonalną koncepcją
+zdrowia i problemami zachowań zdrowotnych.
+I. PROBLEMY POMIARU JAKOŚCI ŻYCIA
+Z licznych badań, zarówno na dużych próbach populacyjnych, prowadzonych zwłaszcza w USA [por. Flanagan 1980; Diener 1984], jak i na grupach
+osób zdrowych i chorych po ciężkich wypadkach [Brickman i in. 1978] wynika, że obiektywne warunki poziomu życia nie są jednoznacznymi predyktorami poczucia jakości życia. Z faktu, że pewni ludzie posiadają znacznie
+wyższy poziom finansowy (np. na skutek dużej wygranej w grze losowej),
+a inni mają obiektywnie zły stan zdrowia (np. na skutek urazu kręgosłupa)
+nie można przewidywać, że pierwsi będą mieli znacznie wyższe wyniki
+w pomiarach poczucia zadowolenia z życia. Dotyczy to zwłaszcza pomiarów
+jakości życia rzutowanych w czas przeszły i projektowanych w czas przyszły. Badania Brickmana i in. [1978] wykazały jednoznacznie, iż w przypadku określani a jakośc i życia u osób, któr e w okresie badani a były
+uczestnikami krytycznych wydarzeń życiowych pomiary jakości życia odniesione do czasu sprzed tych wydarzeń, czasu związanego z tymi wydarzeniami oraz czasu przyszłego, wykazują znaczące różnice. Trzeba się więc liczyć
+z tym, że zupełnie inne będą wyniki i inną funkcję będą pełniły oceny jakości życia: a) bieżącego, b) przeszłego, c) przyszłego.
+Gdy dokonamy, podobnie jak Filipp i Ferrigen [1991], podziału warunków życia na korzystne i niekorzystne oraz ocenę jakości życia na pozytywną i negatywną otrzymamy cztery możliwe kombinacje przedstawione
+w tabeli 1.Z punktu widzenia psychologicznego ważne problemy pojawiają się wówczas, gdy stwierdzimy zaistnienie układu B "Dylemat niezadowolenia", mianowicie wbrew korzystnym warunkom życia dana osoba odczuwa niską
+jakość życia. Dla psychologii zdrowia szczególnie ważny jest układ zwany
+"Paradoksem zadowolenia" (pole C). Wyjaśnienia wymaga, dlaczego osoba,
+która przebywa w niekorzystnych warunkach będących obiektywnie złym
+predyktorem jakości życia posiada wysokie poczucie jakości życia.
+Przechodząc do ważnych problemów natury metodologicznej trzeba zaznaczyć, że nawet wówczas, gdy zakładamy, że w badaniu jakości życia kierujemy
+się indywidualną, subiektywną oceną osób badanych, istotna jest dbałość
+o minimalizowanie "błędów pomiaru". Z badań [por. Strack, Argyle, Schwarz
+1991] wynika, że osoby badane podają wyższe wartości dla ocen zadowolenia
+z życia w sytuacji bezpośredniej rozmowy z badającym niż w sytuacji wypełniania kwestionariusza, że globalne oceny jakości życia w ogóle znacznie bardziej podlegają wpływowi aktualnej sytuacji i aktualnego stanu emocjonalnego
+badanych, aniżeli wówczas, gdy ogólny pomiar jakości życia jest wynikiem zsumowania ocen składowych, dotyczących różnych obszarów życia i działalności.
+Stwierdzono też, że trafniejsze jest podejście, w którym oceny jakości życia
+przeprowadza się tak, aby np. parcjalne oceny zadowolenia z sytuacji materialnej, mieszkaniowej, rodzinnej, małżeńskiej, koleżeńskiej, edukacyjnej i politycznej kraju, itp. wyprzedzały globalną ocenę bieżącego życia. Trafniejszą diagnozę
+jakości życia uzyskuje się także wówczas, gdy pomiary jakości życia będą dotyczyły zarówno poznawczego aspektu — satysfakcji i aspektu emocjonalnego, zadowolenia z uczuciem radości życia. Można też stawiać pytania ukryte o chęć życia,
+dążenie do zmian, czy też stawiając badanym zadania o charakterze pobudzania
+do refleksji i bilansowania życia w całości lub jego etapów.
+Jednym z ważnych, a często pomijanych zabiegów powinno być ważenie
+sfer życia poprzez wprowadzanie do oceny poziomu zadowolenia np. z życia
+rodzinnego lub zawodowego wskaźnika wagi (miejsca w hierarchii wartości)
+tych obszarów życia i aktywności. Filipp i Ferring [1991] wykazali, że procedura taka zmienia w sposób istotny wyniki badań nad poczuciem jakości
+życia. W badaniach nad jakością życia w sytuacjach krytycznych wydarzeń
+i w sytuacji choroby bierze się ponadto pod uwagę poczucie nasilenia zmiany w wyniku konfrontacji z wydarzeniem, walencję zmiany "in plus" czy "in
+minus" oraz zakres tzn. liczbę obszarów życia, w których zmiany wystąpiły
+a także to, w jakim stopniu zmiana ta jest pożądana lub nie. W wielu
+wczesnych badaniach oraz niektórych nowszych nie stosowano takich ważnych procedur, chociażby tej, która polega na ważeniu sfer życia. Może to
+być jedną z przyczyn, że przy porównywaniu różnych ocen jakości życia
+z wymiarami zdrowia uzyskuje się bardzo różne, często sprzeczne wyniki.
+I I. SPOSOBY UJMOWANIA KATEGORII ZDROWIA W RELACJ I DO
+JAKOŚCI ŻYCIA
+Zarówno profesjonaliści zajmujący się ochroną zdrowia i leczeniem zaburzeń, jak i badacze różnych dziedzin medycyny, przedstawiciele nauk huma-nistycznych i społecznych: filozofii, socjologii i psychologii są jednomyślni co
+do tego, że zdrowie może być określane obiektywnie jak i subiektywnie -
+jako pojęcie, świadomość zdrowia i poczucie zdrowia. Sposoby myślenia naukowego o zdrowiu odzwierciedlają się w bardzo różny sposób w świadomości potocznej [Faltermaier 1990; Herzlich 1973; Sęk i in. 1992]. Gdy więc -
+studiując predyktory jakości życia - pytamy o to, czy zdrowie jest ważne
+dla jakości życia, nie wiemy nic o tym, jak badani rozumieją owo zdrowie.
+Najbardziej charakterystyczna dla porównań pomiędzy jakością życia
+(w ujęciu dobrostanu) a zdrowiem jest sprzeczność stwierdzana już w badaniach Campbella i in. [1976] i potwierdzona przez Czapińskiego [1992] wyrażająca się w tym, że ludzie zapytani o źródło jakości życia stawiają
+zdrowie na jednym z pierwszych miejsc; uważają też, że człowiekowi szczęśliwemu można oprócz poczucia bezpieczeństwa i wolności przypisać poczucie dobrego zdrowia [por. Sokołowski 1990]. Natomiast rzeczywista siła
+związku pomiędzy zadowoleniem z życia, czyli poczuciem jakości życia a zadowoleniem ze stanu zdrowia, jest znacznie słabsza. Wkład jakości życia
+zdrowego do globalnego poczucia jakości życia jest istotnie mniejszy niż zadowolenie z życia rodzinnego, warunków finansowych i mieszkaniowych,
+przyjaciół itp. Wyjaśnić to można na kilka sposobów. W pierwszym rzędzie
+można stwierdzić, że zależy to od błędu pomiaru jakości życia spowodowanego tym, że pomiary zadowolenia z różnych sfer życia nie są korygowane
+wskaźnikiem wagi danej sfery dla poszczególnych ludzi. Inne wyjaśnienie
+można zbudować na tym, że odrębna jest natur a świadomości zdrowia
+i znaczenie jego wagi dla jakości życia, a zupełnie inną funkcję pełni ocena
+zdrowia w relacji do innych wartości i celów życiowych. Przemawiałyby za
+tym nasze badania, które wykazały, że subiektywne, metaforyczne określenia zdrowia są związane z cenionymi wartościami, a zdrowie jest jednocześnie częściej traktowane jako wartość instrumentalna niż ostateczna; służy
+do realizacji cenionych wartości, podobnie jak inteligencja i kompetencje —
+pozostaje więc niejako w tle. Wyraził to zresztą bardzo trafnie Tatarkiewicz
+pisząc, że "Zdrowie jest warunkiem szczęścia istotnym, choć nie jedynym"
+[Tatarkiewicz 1979, s.218].
+W literaturze z zakresu zdrowia psychicznego znajdziemy podejścia, które identyfikują zdrowie psychiczne z psychicznym dobrostanem co znalazło
+zresztą swoje odzwierciedlenie w definicji Światowej Organizacji Zdrowia
+Psychicznego. Przy takim podejściu zdrowie jest utożsamiane z jakością życia jako jednym z wymiarów szczęścia. Nie jest to jednak podejście, które
+odgrywa istotne znaczenie we współczesnych modelach zdrowia. Stwierdza
+się bowiem wraz z rozwojem medycyny behawioralnej i psychologii zdrowia,
+iż zdrowie można ujmować w ramach innych perspektyw teoretycznych -
+biomedycznej i holistyczno-funkcjonalnej [por. Sęk i in. 1992].
+W modelu biomedycznym ujmuje się zdrowie jako kategorię zobiektywizowaną. Zdrowie jest najczęściej rozumiane jako stan braku zakłóceń
+w funkcjach biologicznych organizmu. Organizm w stanie zdrowia realizuje
+normalnie te funkcje. Zdrowie człowieka podlega obiektywnym zasadom regulacji i jest zdeterminowane wyposażeniem genetycznym, wrodzoną strukturą. Zdrowie zależy od odporności biologicznej, a do załamania zdrowia dochodzi wówczas, gdy człowiek nie jest w stanie przeciwstawić się szkodliwym wpływom. W tym modelu zdrowie i choroba pozostają poza kontrolą podmiotu; o tym decyduje fachowa opieka zdrowotna i przestrzeganie jej zaleceń
+oraz powszechnie obowiązujących reguł higieny. Prawdopodobnie taki model
+zdrowia najczęściej zakładano w badaniach nad jakością życia i taki też model
+był z pewnym przybliżeniem odwzorowywany przez respondentów, gdy odpowiadali na pytania o wartość zdrowia i znaczenie zdrowia dla jakości życia.
+W modelu holistyczno-funkcjonalnym nawiązuje się do humanistycznych
+nurtów w medycynie i trendów współczesnej ekologii [Sęk 1992]. Zdrowie
+wyraża się we wzajemnej relacji jaka zachodzi między człowiekiem a jego
+otoczeniem i jest procesem ukierunkowanym na zapewnienie dynamicznej
+równowagi. W tych procesach równoważenia człowiek wykorzystuje dostęp ną energię do sprostania wymaganiom otoczenia. O poziomie zdrowia
+współdecydują czynniki patogenne - także stresory i zgeneralizowane zasoby odpornościowe [Antonovsky 1979; Hobfoll 1989], jako cechy pozytywne
+z punktu widzenia transakcji między otoczeniem i podmiotem, są więc też
+swoistym potencjałem zdrowia. W tym podejściu, do potencjałów zdrowia
+zalicza się nie tylko energię witalną jednostki i jej odporność biologiczną,
+ale także przyrodnicze i społeczno-kulturowe zasoby otoczenia, prozdrowotne i proekologiczne systemy wartości, a nade wszystko cechy psychiczne
+podmiotu, takie jak: wiedzę, racjonalność postępowania, optymizm i poczucie sprawstwa. Wszystkie te cechy wyznaczają "sense of coherence" — poczucie koherencji, które jest bardzo złożonym, globalnym, względnie trwałym
+przekonaniem, że świat wewnętrzny i zewnętrzny jest przewidywalny i że
+zmiany w nim zachodzące są możliwe do opanowania i będą przebiegały
+w oczekiwanym kierunku [Antonovsky 1979]. To poczucie scala działanie
+potencjałów zdrowia i określa miejsce na wymiarze: ZDROWIE-CHOROBA,
+zwanym też wymiarem "HE-DE" (health - disease).
+Tak złożone, całościowe i funkcjonalne podejście do zdrowia sprawia, że
+można stawiać zupełnie nowe problemy badawcze dotyczące zależności pomiędzy nim i jakością życia. Przed zaprezentowaniem niektórych z nich
+warto może jeszcze dodać, że badania nad potocznymi koncepcjami zdrowia
+[Herzlich 1973; Sęk i in. 1992] wykazały, że w świadomości potocznej w różnym stopniu odzwierciedlają się naukowe koncepcje zdrowia.
+Badani definiują zdrowie zgodnie z modelem biomedycznym w sposób
+negatywny, jako brak objawów chorobowych; brak możliwości odczuwania
+zdrowia, odczuwa się jedynie jego zakłócenie. Takie funkcjonowanie subiektywnej koncepcji zdrowia może w sposób istotny rzutować na obiektywne
+pomiary zdrowotnych determinant jakości życia.
+Inne określenia potoczne sprowadzają się do definiowania zdrowia jako
+potencjału lub rezerwuaru zdrowia. W tym ujęciu zdrowie oznacza obiektywne cechy jednostki jako organizmu; najczęściej wymienia się tu witalność, odporność i biologiczno-konstytucjonalne zasoby. Jeżeli zdrowie jest
+tak pojmowane, to jest ono wówczas najbardziej podobne do innych obiektywnych determinant jakości życia.
+I wreszcie pewna grupa badanych określa zdrowie jako wynik procesów
+równoważenia zasobów i zagrożeń, jako poczucie pełnego dobrostanu bio-logicznego, psychologicznego i społecznego. Przy takim potocznym ujęciu
+zdrowia jest ono - jak to już zaznaczono - bardzo podobne do subiektywnej
+jakości życia. Byłoby więc bardzo interesujące badanie tego jak przedstawia
+się jakość życia — jego poziom i struktura - u osób posiadających, czy też
+ściślej mówiąc, preferujących jedno z powyższych podejść do zdrowia.
+Te trzy potoczne modele zdrowia wyznaczają także odmienne ustosunkowania do choroby. Przy pojmowaniu zdrowia jako swoistej "próżni", zdrowie
+zostaje przez chorobę zniesione, przy pojęciu zdrowia jako potencjału (rezerwuaru) stanowi ono zespół cech używanych do przeciwstawiania się chorobie, a przy ujmowaniu zdrowia jako wyniku procesów przystosowywania
+się, objawy choroby są asymilowane w mechanizmy zdrowia.
+Powstaje więc problem, czy nie jest tak, że właśnie ludzie preferujący
+zdrowie jako proces stałego równoważenia zasobów z zagrożeniami należą
+do tej grupy, która w sytuacji krytycznego wydarzenia i przewlekłej choroby
+zachowuje wysokie poczucie jakości życia i przekształca jego strukturę.
+W wyniku zastosowania adekwatnych sposobów radzenia sobie z chorobą
+(np. pod postacią redefinicji sensu) czerpie zadowolenie z innych niż dotychczas sfer życia. Byłoby to prawdopodobne wyjaśnienie przytoczonego na
+wstępie "paradoksu zadowolenia".
+Przy porównywaniu niektórych miar jakości życia, zadowolenia i różnych postaci optymizmu ze zdrowiem, powstają najciekawsze i najważniejsze dla psychologii zdrowia problemy.
+Najlepiej zbadano wpływ zadowolenia z życia, optymizmu i różnych
+form zaufania do życia na rozwój zdrowia, jego ochronę [Antonovsky 1987;
+Deneke i in. 1987; Taylor 1989] i na skuteczność zmagania się z chorobą
+[Scheier, Carver 1987; Scheier i in. 1989]. Związki są tu prawdopodobnie
+dwustronne: wysokie poczucie jakości życia ułatwia zmaganie się z chorobą,
+czyli powoduje przesuwanie się na wymiarze ZDROWIE-CHOROBA w kierunku bieguna zdrowia i umacnia procesy równoważenia zagrożeń z zasobami. Następnie wynik tych procesów - wyższy poziom - zdrowia wpływa
+zwrotnie na zasoby warunkujące subiektywne poczucie jakości życia.
+Sprawą najbardziej kontrowersyjną i nie wyjaśnioną do końca jest
+wpływ optymistycznych złudzeń i nierealistycznego zadowolenia z życia
+oraz antycypacja stabilnej, wysokiej jakości życia w przyszłości - na zdrowie. Sprawdzenia wymagałaby teza, że osoby optymistyczne i charakteryzujące się wysokim poczuciem jakości życia są jednocześnie wystarczająco
+wyczulone na sygnały ryzyka. Oznaczałoby to, że osoby z wysokim poczuciem zadowolenia z życia potrafią też trafnie i szybko przeciwdziałać zagrożeniom dl a zdrowia , przewidywa ć je i zapobiegać im. Największ e
+wątpliwości budzi jednak nastawienie tej grupy ludzi do propozycji zmian
+nawyków antyzdrowotnych (np. palenie tytoniu) na zachowania prozdrowotne. O tym, że w tym zakresie należy się spodziewać znacznie bardziej złożonych zależności przekonują badania Schwarzera [1992], który wykazał, że
+optymizm "obronny", a zwłaszcza złudzenia całkowitej odporności na zagrożenia chorobowe (np. AIDS), zaniżają motywację do podjęcia decyzji zmiany
+zachowań ryzykownych. Natomiast tzw. złudzenia "funkcjonalne" dotyczące
+zarówno optymistycznego przewidywania jakości życia, jak i zdolności pora-dzenia sobie w sytuacjach podwyższonego ryzyka, globalnego poczucia
+samoskuteczności są gwarantem włączenia we właściwym momencie decyzji
+zmiany zachowań względem zdrowia i wprowadzenia ich następnie w czyn.
+Schwarzer [1992] wykazał, że specyficzny wzór polegający na przewadze optymizmu funkcjonalnego nad obronnym wpływa na generowanie podmiotowych decyzji zmiany zachowań na prozdrowotne.
+Szczególnie ciekawe możliwości dalszych badań nad różnymi wymiarami
+zdrowia w porównaniu z jakością życia i optymizmem przynosi ze sobą koncepcja salutogenezy i jej kluczowe pojęcie, "sense of coherence". Ten wieloaspektowy model ujmowania zdrowia zaproponowany przez socjologa
+medycyny wymaga jednak dalszych badań, aby można było go połączyć
+z problematyką jakości życia.

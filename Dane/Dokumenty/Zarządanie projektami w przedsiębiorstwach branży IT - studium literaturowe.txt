@@ -1,0 +1,376 @@
+1. Wstęp
+W ciągu ostatnich 20 lat obserwuje się dynamiczny rozwój produktów i usług na rynku
+technologii informacyjnej. Postępujące procesy cyfryzacji i informatyzacji społeczeństw,
+a także rozwój branży IT zaowocowały powstaniem i przeprowadzeniem setek tysięcy
+projektów informatycznych na świecie na przełomie kilku ostatnich dekad.
+Zgodnie z najnowszym raportem Głównego Urzędu Statystycznego, w Polsce istnieje
+obecnie 2045 przedsiębiorstw spełniających kryterium działalności w zakresie branży
+informatycznej. Większość podmiotów z branży IT prowadzi działalności usługową, co może
+wynikać ze specyfiki przypisów Polskiej Klasyfikacji Działalności (PKD), gdzie masowa
+produkcja oprogramowania i wszelkie czynności z nim związane są uznawane w formie usługi.
+Przedsiębiorstwa informatyczne w Polsce odgrywają szczególną rolę w realizowaniu
+innowacyjnych przedsięwzięć IT. Według danych GUS-u, w 2015 roku przedsiębiorstwa
+informatyczne z sektora ICT, do którego zalicza się branża IT oraz High-Tech, wprowadzały
+innowacje niemal trzykrotnie częściej niż przedsiębiorstwa innowacyjne z sektora produkcji
+i usług ogółem1
+.
+Mimo dynamicznego rozwoju branży informatycznej, firmy IT cały czas borykają się ze
+sporymi problemami w zarządzaniu nowym produktem. Z badań przeprowadzonych na
+kilkudziesięciu tysiącach projektów w latach 1994-2006 przez Standish Group oraz z badań
+przeprowadzonych na podstawie 300 respondentów z Polski z 2011 roku2 wynika, że tylko
+21% projektów informatycznych zakończyło się sukcesem. Tak słaby wynik może wynikać ze
+specyficznych dla branży IT czynników ryzyka, które zagrażają sukcesowi projektu.
+Do czynników tych można zaliczyć złożoność projektów informatycznych czy czas realizacji
+przedsięwzięcia. Inne badania z polskiego rynku IT3 wykazują, że do czynników, które mają
+największy wpływ na niepowodzenie projektów wytwarzania oprogramowania można zaliczyć
+problemy z: jakością produktu, zrozumieniem zakresu projektu, a także estymacją czasu
+realizacji wyznaczonych zadań. Dodatkowym problemem jest brak stosowania sformalizowanych procedur. Aby uniknąć takich problemów, przedsiębiorstwa IT zaczęły korzystać ze
+standardów i metodyk zarządzania projektami, które stanowią zbiór zasad i wytycznych,
+umożliwiających sukcesywne kierowanie projektem. 
+2. Charakterystyka projektu informatycznego
+Za projekt rozumie się ograniczone w czasie przedsięwzięcie, którego celem jest
+wytworzenie unikalnego produktu, usługi lub stanu docelowego4
+. Projekt powinien charakteryzować się jednokrotnością i odrębnością strukturalną, a także musi mieć wyznaczony zakres,
+zasoby i budżet, celem jego skutecznego zrealizowania5
+.
+Projektem informatycznym (projektem IT) nazywa się przedsięwzięcie, którego celem jest
+stworzenie systemu informatycznego, czyli powiązanych ze sobą takich elementów, jak:
+oprogramowania, sprzętu, zasobów ludzkich, informacji oraz elementów organizacyjnych,
+które mają za zadanie przetwarzanie danych za pośrednictwem techniki komputerowej.
+Projekty informatyczne mogą dotyczyć utworzenia nowego lub znaczne zmodyfikowanie już
+istniejącego rozwiązania z zakresu technologii informacyjnej na rynku 6
+. Zatem projekty
+informatyczne mogą obejmować wdrożenie nowego oprogramowania (ang. Software),
+uruchomienie nowego produktu w postaci sprzętu komputerowego (ang. Hardware), a także
+uruchomienie kompleksowych systemów, usług lub działalności z obszaru infrastruktury IT
+w ramach danej organizacji7
+.
+Projekty informatyczne różnią się od projektów realizowanych w pozostałych branżach
+działalności produktowo-usługowej. Szczególnie istotnym elementem, odróżniającym projekty
+informatyczne od pozostałych przedsięwzięć jest zmienny zakres projektu. Zakres projektu
+może ulec zmianie ze względu na nieprzewidziane decyzje zleceniodawcy. W przypadku
+projektów IT dochodzi również do zjawiska intensywnej komunikacji i współpracy producenta
+oprogramowania z klientem przy tworzeniu nowego produktu, które określa się mianem
+tzw. kooperacji użytkownika z deweloperem 8
+. Aktywne włączenie klienta do projektu
+umożliwia łatwiejszą wymianę wiedzy między zespołem projektowym a zleceniodawcą.
+Projekty informatyczne wymagają specjalnych kompetencji od kierownika projektu, takich jak
+wysokie umiejętności zarządzaniem zasobami ludzkimi w projekcie9
+oraz znajomość wymagań
+jako-ściowych podczas tworzenia nowego oprogramowania10
+.
+Przy realizowaniu projektu IT stosuje się wyspecjalizowane narzędzia do wspomagania
+zarządzania projektem w postaci oprogramowania komputerowego, takie jak: Microsoft
+Project, Zoho Project, Central Desktop, Collabtive, GanttProject, Crarizen, Gemini, JIRA, GoPlan, Prowork Flow, OpenProject, Project,Net czy GlassCubes11
+. Istotną rolę w przypadku
+projektów informatycznych stanowią również tzw. systemy kontroli wersji SVN lub CVS.
+Systemy kontroli wersji zawierają informacje o aktualizacjach poprzednich wersji
+oprogramowania, a także statystyki, terminy oraz inne parametry, które umożliwiają lepszą
+kontrolę nad projektem oraz rozwojem nowego produktu12
+.
+Przy kompleksowych, wdrożeniowych projektach IT, dość często stosuje się metody
+szacowania wielkości przedsięwzięcia konstrukcji systemu informatycznego, dzięki którym
+można uzyskać podstawowe wytyczne dla organizacji prac projektowych13
+. W badaniach przeprowadzonych w 2011 roku wykazano, że analiza przedwdrożeniowa dla projektów
+informatycznych ma kluczowe znaczenie w procesach wdrażania rozwiązań IT w przedsiębiorstwach. Wielu dostawców oprogramowania zapomina o ważnych czynnikach ryzyka,
+uniemożliwiających sukcesywne wdrażanie zmian w zakresie systemów informatycznych.
+3. Zarządzanie projektami informatycznymi w przedsiębiorstwach
+branży IT
+3.1. Standardy i metodyki zarządzania projektami informatycznymi
+Istnieje wiele standardów i metodyk, które stanowią wytyczne do zarządzania projektem
+w przedsiębiorstwie. Przez metodykę rozumie się zbiór zasad i sposobów dotyczących
+wykonywania pewnej pracy i zmierzania do określonych celów. Natomiast o standardzie
+mówimy wtedy, gdy zbiór zasad zawartych w metodyce przyjmuje sformalizowaną postać15
+.
+Ze względu na rozwój poszczególnych metodyk, literatura dzieli je na tradycyjne oraz zwinne.
+Najbardziej znane podejścia i metodyki do zarządzania projektami w branży IT przedstawiono
+w tabeli 1. W nawiasach kwadratowych umieszczono twórców lub instytucje zarządzające
+poszczególnymi metodykami i standardami.
+Podejścia do zarządzania projektami w przedsiębiorstwach branży IT
+Podejścia w zarządzaniu projektami w przedsiębiorstwie
+Tradycyjne Zwinne
+Standard PMBOK® Guide [PMI]
+Metodyka PRINCE2® [AXELOS]
+Podejście IPMA® [IPMA]
+Metodyka AgilePM® [DSDM Atern]
+Metodyka Scrum [Scrum.org]
+Metodyka Scrumban [Corey Ladas]
+Metodyka Extreme Programming [Extremeprogramming.org]
+Metodyka Crystal Clear
+[Alistair Cockburn]
+Metodyka Hybrydowa PRINCE2 Agile® [AXELOS]
+Indywidualne rozwiązania przedsiębiorstwa do zarządzania projektami
+Źródło: Opracowanie własne.
+Tradycyjne metodyki, uznawane za klasyczne podejście do zarządzania projektem, mają
+ściśle określone procedury działania przy planowaniu i realizowaniu projektu. Charakteryzują
+się z góry ustalonym, niezmiennym planem, budżetem, a także właściwie przydzielonymi
+zasobami. W takim przypadku zakres projektu nie może ulec zmianie. Zupełnie inaczej działają
+metodyki zwinne. Przy dynamicznie zmieniających się wymogach odbiorcy dochodzi do zmian
+w zakresie projektu, a cała struktura organizacji pracy ma zupełnie inny wymiar. Należy
+również zaznaczyć, że przedsiębiorstwa informatyczne często stosują własne, zindywidualizowane systemy zarządzania projektami, które zostały wypracowane na bazie pozostałych
+metodyk oraz dotychczasowych doświadczeń przy rozwoju nowych produktów16
+. Kierownictwo organizacji dość często wybiera metodykę zarządzania projektami w sposób
+intuicyjny17
+. Do wyboru danej metody zarządzania projektem w przedsiębiorstwie można
+również zastosować system agentowy, przy czym wymaga to dokładnej znajomości jego
+dojrzałości projektowej.
+Za klasyczne ujęcie zarządzania projektami uznaje się standard PMBOK® Guide (Project
+Management Body of Knowledge Guide). Standard ten jest oparty na zbiorze dobrych praktyk
+z obszaru zarządzania projektami, zebranych oraz opublikowanych na bazie wieloletnich
+doświadczeń i badań przez Project Management Institute (PMI) 18
+. Należy zaznaczyć, że
+PMBOK® Guide zapewnia wskazówki oraz ogólną wiedzę z zakresu zarządzania projektami,
+z uwzględnieniem: roli przywódczej, przeprowadzenia projektu od początku do końca,
+zasobów projektu, analizy ryzyka oraz narzędzi stosowanych do realizacji projektu.
+Metodyka zarządzania projektami PRINCE2® (Projects in Controlled Environments 2)
+jest nazywana ustrukturalizowanym podejściem do zarządzania projektami z uwzględnieniem
+wysokiej jakości organizacji prac projektowych przy wykorzystaniu sformalizowanej
+dokumentacji projektowej. Metodyka PRINCE2® stosuje planowanie oparte na produktach, nie zaś oparte na działaniach19
+. Uzupełnieniem metodyki PRINCE2® jest dodatkowa metodyka
+PRINCE2 Agile®, która została wprowadzona przez podmiot zarządzający AXELOS
+w 2015 roku20
+. PRINCE2 Agile® jest hybrydowym połączeniem sformalizowanych, tradycyjnych rozwiązań ze zwinnym podejściem do zarządzania projektami.
+Podejście IPMA® (International Project Management Association) do zarządzania projektami stanowi ustrukturyzowany zbiór wytycznych do zapewnienia wysokich kompetencji
+z obszaru zarządzania projektami dla menadżerów projektów. IPMA® odgrywa istotną rolę
+w rozwoju i promocji zawodu kierownika projektów przez dokumentację IPMA Competence
+Baseline (ICB). Podejście IPMA® dostarcza kierownikom projektów wiedzę z zakresu trzech
+grup kompetencji: behawioralnych, kontekstowych i technicznych. Tak zdefiniowane
+kompetencje mają zapewnić skuteczną wizję integralności wszystkich komponentów
+zarządzania projektami z perspektywy kierownika projektu21
+.
+Zwinne zarządzanie projektami tzw. Agile Project Management (APM) stanowi metodykę
+adaptacyjnego zarządzania projektem, gdzie często dochodzi do zmian zakresu przedsięwzięcia. Za twórcę takiego rozwiązania uznaje się Jima Highsmitha, który w 2004 roku
+opracował zbiór zasad do adaptacyjnego zarządzania projektami. Zwinna metodyka
+zarządzania projektami jest w szczególności stosowana przez przedsiębiorstwa branży
+informatycznej22
+. Metodyka APM powstała na podstawie Manifestu Agile (tzw. Agile Software
+Developement Manifesto), który został utworzony w 2001 roku z inicjatywy naukowców
+i przedstawicieli branży IT, wykorzystujących różne metodyki wytwarzania oprogramowania,
+takie jak: Scrum, DSDM Atern, Extreme Programming czy Crystal Clear23
+. Przesłanką do
+powstania Manifestu Agile były nieskuteczne próby migracji ze środowiska produkcyjnego
+zasad, które w przypadku wytwarzania oprogramowania zupełnie się nie sprawdzały.
+Tradycyjne metodyki zarządzania projektem oparte na niezmiennym, z góry ustalonym planie
+projektu nie znalazły odzwierciedlenia w spełnianiu dynamicznie zmieniających się kryteriów
+i wymogów klienta z rynku IT24
+.
+Wszechobecnie stosowaną metodyką z podejścia zwinnego jest tzw. metodyka Scrum.
+Polega ona na iteracyjnym tworzeniu oprogramowania za pośrednictwem zespołu projektowego, którym zarządza Scrum Master (tłum. mistrz Scrum) z inicjatywy Product Ownera
+(tłum. właściciel produktu) 25
+. Początkowo Product Owner oraz Scrum Master organizują
+spotkanie startowe (Kick-off meeting). Na spotkaniu startowym zostają ustalone cele projektu i sposób zorganizowania zespołu projektowego, a przede wszystkim zostaje sporządzony
+tzw. backlog – będący rejestrem z listą zadań do zrealizowania w projekcie, zebranych na
+podstawie wymogów użytkowników aplikacji. Harmonogram podzielony jest na kilkudniowe
+lub tygodniowe etapy w postaci tzw. sprintów, po których robi się spotkania kontrolne. Oprócz
+tego stosuje się codzienne, 15-minutowe spotkania zespołu projektowego w celu omówienia
+aktualnego statusu produktu. Zasady działania metodyki Scrum w zwinnym podejściu do
+zarządzania projektami przedstawiono na rys. 1. 
+Wraz z czasem trwania projektu realizowane są poszczególne Sprinty oraz aktualizowany
+jest backlog produktu. Po zrealizowaniu odpowiedniego Sprintu dochodzi do spotkania
+z właścicielem produktu, który testuje aktualną wersję aplikacji i przedstawia swoje dalsze
+zastrzeżenia odnośnie jego praktycznej funkcjonalności.
+3.2. Porównanie metodyk i podejść do zarządzania projektem informatycznym
+Tradycyjne standardy i metodyki zarządzania projektami są rzadko stosowane w branży IT
+w porównaniu z metodykami zwinnymi. Standard PMBOK® stanowi zbiór wiedzy w postaci
+metod i technik, wykorzystywanych w procesach zarządzania projektami. Natomiast
+praktyczny szablon wytycznych, zawierających szczegółowe opisy procesów zarządzania
+projektami, został zawarty w metodyce PRINCE2®26
+. Zarówno standard PMBOK® Guide,
+jak i metodyka PRINCE2® są oparte na ściśle ustalonym planie projektu, który nie może ulec
+zmianie. Standard PMBOK® Guide nie ma informacji odnośnie do szczegółowych podziałów
+odpowiedzialności w zespole projektowym i nie zawiera wskazówek dotyczących integralności
+projektu. Natomiast metodyka PRINCE2 jest zbyt mocno sformalizowana do wykorzystania
+w adaptacyjnym środowisku pracy, wymagającym swobodnych zmian zakresu projektu
+i unikającym tworzenia nadmiernej dokumentacji.
+Zupełnie inaczej jest w przypadku metodyk zwinnych, jak np. w przypadku metodyki
+Scrum, będącej zbiorem zasad opisujących organizację pracy i strukturę zespołu projektowego,
+które są dostosowane do skutecznego tworzenia i wdrażania oprogramowania lub infrastruktury
+informatycznej z udziałem klienta. Cechy charakterystyczne metodyk zwinnych, takie jak:
+nastawienie na satysfakcję klienta, prowadzenie intensywnej komunikacji z klientem przez cały
+okres trwania projektu, otwartość na zmianę, a także prowadzenie codziennych spotkań
+samoorganizującego się zespołu projektowego, umożliwiają szybkie dostarczenie produktu na
+dynamicznie zmieniającym się rynku. W projektach zwinnych stosuje się tzw. podejście
+iteracyjne, które polega na stopniowym rozwoju oprogramowania w postaci wydawania co raz
+nowszych wersji aplikacji. Możliwość testowania poszczególnych wersji oprogramowania
+przez zespół projektowy, klientów oraz wszystkich interesariuszy, pozwala na skuteczne
+zarządzanie ryzykiem projektu. Za kluczowy czynnik sukcesu projektów zwinnych uznaje się
+nastawienie na zespół projektowy oraz otwartość na zmianę27
+.
+Porównanie podejść i metodyk do zarządzania projektem IT zawarto w tabeli 2.
+W przypadku podejścia zwinnego uwzględniono metodykę Scrum, obecnie najbardziej
+powszechną i popularną przy produkcji oprogramowania w branży IT. W tabeli nie zawarto
+podejścia IPMA® ze względu na specyfikację samego standardu, który ma wspierać
+i weryfikować kompetencje menedżera projektu, a nie stanowi sformalizowanej metodyki
+realizacji całego projektu.
+Tabela 2
+Porównanie najczęściej stosowanych podejść i metodyk zarządzania projektami
+Podejście/
+Metodyka
+Parametry
+projektu
+Tradycyjne podejście Zwinne podejście
+Standard
+PMBOK® Guide
+Metodyka
+PRINCE2®
+Metodyka Scrum
+Kto zarządza projektem
+i podejmuje decyzje? Kierownik Projektu Kierownik Projektu,
+Komitet Sterujący i inni
+Scrum Master,
+Product Owner
+Jak rozumiany jest
+sukces projektu? Dostarczenie produktu Osiągnięcie zamierzonych
+korzyści
+Efektywnie działające
+oprogramowanie
+Jak wygląda kwestia
+wymagań klienta?
+Sprecyzowane przed
+realizacją projektu
+Muszą być znane przed
+rozpoczęciem projektu
+Stale aktualizowane
+przed, w trakcie, a nawet
+po projekcie
+Zarządzanie ryzykiem?
+Realizowane wyłącznie
+z inicjatywy
+kierownika projektu
+Realizowane przez część
+zespołu projektowego,
+według ściśle określonych
+wytycznych
+Realizowane przez cały
+zespół – codzienna
+identyfikacja ryzyka
+Kontrola projektu,
+a komunikacja?
+Ustalona
+w harmonogramie,
+zależy od kierownika
+projektu
+Częsta, uwzględnia
+kontrolę jakości
+w kolejnych fazach
+Codzienne spotkania
+(Daily Scrum) Struktura zadaniowa
+projektu?
+Struktura Podziału
+Pracy
+Diagramy Struktury
+i Następstwa Produktów Backlog oraz Sprinty
+Ingerencja klienta
+podczas trwania projektu? Niska Średnia Wysoka
+Odpowiedzialność?
+Kierownik projektu
+odpowiedzialny za
+całość
+Podzielona między
+odpowiednie role
+członków zespołu
+projektowego
+Odpowiedzialny jest cały
+zespół ze Scrum
+Masterem
+Zakres projektu? Stały Stały Zmienny
+Cykl zarządzania
+projektem?
+Sekwencyjnokaskadowy Sekwencyjno-kaskadowy Iteracyjny, przyrostowy
+i adaptacyjny
+Jak można zauważyć w tabeli 2, zwinne podejście ma charakter przyrostowy, oparty na
+sprzężeniach zwrotnych z klientem. Pozwala zatem dopasować się zespołowi deweloperskiemu
+do surowych wymagań każdego klienta z rynku IT.
+W przypadku projektów IT można rozróżnić dwa podejścia do produkcji oprogramowania.
+W pierwszym przypadku, przy tzw. kaskadowym produkowaniu oprogramowania (Waterfall
+Software), zasoby oraz czas projektu mogą ulec dynamicznej zmianie ze względu na
+dostosowanie do z góry narzuconego, niezmiennego zakresu projektu 28
+. Natomiast przy
+wykorzystaniu metodyk zwinnych, następuje odwrócenie tej zależności. Zasoby oraz czas są
+niezmienne, a zakres projektu zostaje dostosowany do zaleceń klienta odnośnie do tworzonego
+produktu lub usługi (rys. 2). 
+Podejście typu Waterfall jest odpowiednikiem tradycyjnego podejścia do zarządzania
+projektami, w związku z tym większość nowoczesnych producentów oprogramowania stosuje
+metodykę typu zwinnego.
+3.3. Studium najnowszych badań z zakresu wykorzystania metodyk zarządzania
+projektami w przedsiębiorstwach branży IT
+W badaniach przeprowadzonych w Anglii w 2012 roku sprawdzono poziom korzyści
+i efektywności poszczególnych metodyk oraz podejść do zarządzania projektami w dużych
+przedsiębiorstwach z branży IT29
+. Przebadano członków zespołów projektowych, łącznie
+z kierownikami projektów lub liderami produktów, którzy mieli odpowiedzieć na pytanie, czy
+stosowane przez nich metodyki zarządzania projektami sprawdzają się w ściśle określonych
+sytuacjach lub krytycznych przypadkach. Wyniki badań były dość niepokojące z punktu
+widzenia stosowania metod zarządzania projektami w branży IT. Aż 47% badanych
+stwierdziło, że znajomość i stosowanie ustandaryzowanych metodyk i podejść zarządzania
+projektem są zbędne do ich indywidualnych praktyk organizacji projektu. Pozostała część
+ankietowanych wskazała wiele korzyści w stosowaniu metodyk zarządzania projektami,
+szczególnie w przypadku PRINCE2® oraz podejścia AgilePM – potwierdzono zalety lepszego
+przepływu dokumentacji i komunikacji w projekcie, wysokie kompetencje menadżerów
+znających metodyki zarządzania projektami, a także skuteczniejsze zarządzanie kontrolą
+i monitorowaniem projektu.
+Najnowsze badania z 2016 roku, przeprowadzone na grupie przedstawicieli 11 przedsiębiorstw IT stosujących zwinne podejście do zarządzania projektami w postaci metodyki Scrum,
+wykazały problem braku dyscypliny do używanego, zwinnego podejścia zarządzania
+projektami 30
+. Mimo znajomości samej metodyki Scrum, w wielu przedsiębiorstwach IT
+struktura organizacyjna zespołu projektowego była zaburzona. Działo się tak w wyniku różnych
+czynników, wynikających ze specyfiki projektu, kultury organizacyjnej firmy lub ogólnej
+organizacji pracy. Często zaburzenia wynikały z następujących powodów:
+niskiego wpływu właściciela produktu na projekt,
+podziału zespołu projektowego na mniejsze grupy,
+przekładania testowania kodu aplikacji do następnego sprintu,
+niewłaściwego aktualizowania rejestru – backlogu,
+prowadzenia tzw. niewidzialnego rozwoju produktu,
+braku zaangażowania programistów ze względu na wysokie wymagania Scrum
+Mastera.
+Z powyżej wymienionych powodów zaburzeń można stwierdzić, że przedsiębiorstwa
+informatyczne mają problem z dostosowaniem się do wymagań metodyki Scrum.
+W badaniach przeprowadzonych w 2012 roku z inicjatywy producenta oprogramowania wspomagającego zwinne zarządzanie projektem VersionOne, aż 72% ankietowanych
+(próba badawcza wyniosła dokładnie 4048 osób z branży IT) wskazało metodykę Scrum jako podstawowe rozwiązanie przy produkcji oprogramowania31
+. Jako bariery we wdrażaniu
+zwinnych podejść do zarządzania projektami respondenci wymienili: ogólny opór przed
+zmianą, problem adaptacji i zmiany kultury organizacyjnej, brak odpowiednich kompetencji
+i umiejętności, a także brak wsparcia ze strony najwyższego kierownictwa. Natomiast do zalet
+metodyki Scrum zaliczono: wysoką produktywność (stosunek wytworzonego oprogramowania
+do nakładów pracy programistów), szybkie dostarczenie produktu na rynek, transparentność,
+zwiększone morale członków zespołu projektowego i większą kontrolę nad projektem.
+Conforto E. i Amaral D. wskazują na powstanie hybrydowego modelu scalającego
+zwinne zarządzanie projektami wraz z etapowym podejściem do rozwoju nowego produktu32
+.
+W badaniach przeprowadzonych w 2016 roku na przedsiębiorstwie informatycznym średniej
+wielkości, zmierzono skuteczność i potencjał metody IVPM2 (Iterative and Visual Project
+Management Method 2), której autorami są Conforto i Amaral [2010]33. Metoda IVPM2 łączy
+praktyki zwinnego zarządzania projektami z koncepcją etapowo-bramkowego modelu Roberta
+G. Coopera w hybrydowy model zarządzania przedsięwzięciem34
+. Wyniki badań potwierdziły,
+że zastosowana metoda przynosi dodatkowe korzyści w postaci: uporządkowania projektu,
+większej dokładności przy wymianie informacji, lepszego przywództwa, a przede wszystkim
+zwiększonego zaangażowania zespołu projektowego. 
+4. Wnioski
+Na podstawie przeprowadzonych w artykule rozważań sformułowano następujące wnioski
+odnośnie do stosowanych metodyk zarządzania projektami w przedsiębiorstwach branży IT:
+1. Najczęściej stosowaną metodyką zarządzania projektami w przedsiębiorstwach
+informatycznych jest zwinna metodyka Scrum.
+2. Przedsiębiorstwa informatyczne często stosują własne, zindywidualizowane metodyki
+i techniki zarządzania projektami. Dochodzi również do integracji metodyk
+tradycyjnych i zwinnych przy realizacji kompleksowych przedsięwzięć.
+3. Tradycyjne metodyki zarządzania projektami, takie jak: PMBOK® Guide i PRINCE2®
+nie nadają się do realizowania projektów w branży IT, ze względu na charakter
+powstawania oprogramowania, mogą jednak stanowić uzupełnienie fundamentalnej
+wiedzy z zarządzania projektami przy wykorzystaniu metodyk zwinnych. 
+4. Projekty informatyczne, których celem jest wytworzenie oprogramowania, wymagają
+iteracyjnego i adaptacyjnego cyklu życia projektu. Przyrostowe tworzenie produktów
+umożliwia dynamiczne operowanie zakresem projektu, które pozwala spełniać zmienne
+wymogi jakościowe od klientów.
+5. W podejściu zwinnym do zarządzania projektami kluczową rolę odgrywa intensywna
+komunikacja w postaci regularnych sprzężeń zwrotnych pomiędzy zespołem projektowym a klientem i użytkownikiem produktu.
+6. Niektóre przedsiębiorstwa IT mają sceptyczny stosunek do metodyk i standardów
+zarządzania projektami, w wyniku czego wolą stosować podejście etapowo-bramkowe
+Roberta G. Coopera do rozwoju nowego produktu lub indywidualne rozwiązania do
+wdrażania produktów.
+Powyżej przedstawione wnioski skłaniają do sformułowania problemu badawczego
+w postaci następującego pytania: „Jakie metodyki zarządzania projektami są obecnie
+stosowane w przedsiębiorstwach branży IT w Polsce przy rozwoju nowego produktu?” Należy
+rozważyć przeprowadzenie szczegółowych badań nad aktualnym podejściem do zarządzania
+projektami w Polskich przedsiębiorstwach branży IT. Istotne będzie również zbadanie poziomu
+wiedzy projektowej, jaką dysponują poszczególne przedsiębiorstwa IT.

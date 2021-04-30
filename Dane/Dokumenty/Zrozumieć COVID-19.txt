@@ -1,0 +1,318 @@
+2. Informacje podstawowe
+2.1 Mechanizm powstawania nowych chorób zakaźnych
+SARS-COV-2 jest typowym wirusem pochodzenia zwierzęcego, jest przyczyną choroby
+COVID-19 zaliczanej do grupy zoonoz. To w tej grupie klasyfikowana jest zdecydowana większość chorób ludzkich. Przenoszenie patogenów między zwierzętami i ludźmi (ale też ludźmi
+i zwierzętami) odbywa się jako element naturalnego cyklu biologicznego.
+Przez ostatnie 70 lat obserwuje się na świecie postępującą i przyspieszającą presję antropogeniczną. Masowo i masywnie przekształcane jest naturalne środowisko. Prowadzi to do powstawania nowych warunków obiegu patogenów (wirusów, bakterii, pasożytów) – w ramach
+nisz socjo-ekologicznych. W rezultacie powstaje zupełnie nowy ekosystem, którego atrybuty
+i skład prowadzą do bliskich i częstych kontaktów między zwierzętami dzikimi, udomowionymi, ludźmi. To tutaj krążenie patogenów przyspiesza, powodując powstawanie nowych chorób
+w niekorzystnych dla człowieka warunkach.
+Przełamanie bariery międzygatunkowej i kolonizowanie populacji ludzkiej przez patogeny
+opisywane jest najczęściej przez model zakładający 5 etapów cyklu życia „nowego” patogenu
+odzwierzęcego (Ryc. 3):
+1. pierwszy etap przebiega wśród zwierząt, następuje namnożenie się wirusa do krytycznej
+reprezentatywności (powszechności występowania w środowisku danego regionu).
+Ryc. 3
+Etapy rozwoju nowej epidemii
+ŹRÓDŁO ZA: WG NUNEZ ET AL., 2020
+INFORMACJE PODSTAWOWE
+12
+2. drugi etap to przełamanie bariery międzygatunkowej zwierzę – człowiek i skolonizowanie
+lokalnej społeczności przez nowy patogen tzw. rozlewanie się (ang.spillover): na tym etapie
+nowa choroba przebiega w formie niezdiagnozowanej przez służby sanitarne, ma charakter endemiczny.
+3. w trzecim etapie następuje rozprzestrzenienie w populacji ludzkiej, czyli choroba jest przenoszona między ludźmi i ujawnia się w społecznościach poza miejscem powstania, czyli
+etap wykrycia COVID-19 w Wuhan.
+4. czwarty etap to kontynentalne, a następnie globalne rozpowszechnienie nowej choroby
+oraz poszukiwanie niemedycznych i medycznych środków zaradczych, przemieszczona
+w nowe miejsce choroba jest szybko rozpowszechniana w lokalnych społecznościach
+i przekazywana do sąsiednich poprzez ruch ludności (transport lotniczy, samochodowy,
+wizyty towarzyskie, aktywność zawodowa).
+5. w etapie 5 następuje wynalezienie leków i/lub szczepionki, co zazwyczaj nie usuwa w całości patogenu ze społeczności ludzkiej, ale pozwala na jego kontrolowanie.
+Czas, jaki upływa między kolejnymi etapami w modelu jest bardzo różny, w zależności
+od typu patogenu, sposobu jego propagacji (np. przez kontakty osobiste lub pożywienie) oraz
+aktywność kontaktów międzyludzkich. W uproszczeniu te same prawa dotyczą pojawienia
+się wirusa SARS-CoV-2, bardzo ważna różnica dotyczy etapu 4 – czyli globalnego tempa rozprzestrzeniania się. Właśnie mija pół roku od pierwszego zdiagnozowanego przypadku COVID-19 w Polsce, a mamy już ponad 60 000 przypadków potwierdzonych medycznie zachorowań w kraju. Jest to tempo procesu nie obserwowane w skali ludzkości, jest bezpośrednią
+konsekwencją globalizacji, czyli m.in. masowego przemieszczania się ludzi na duże odległości
+w krótkim czasie.
+SARS-CoV-2 jest kolejnym po SARS i Zika wirusem, który został bardzo szybko przemieszczony z pierwotnej niszy ekologicznej, różnica polega jednak na dotkliwości skutków zdrowotnych tak intensywnego, globalnego rozlania się nowej choroby. Co ważne, dotychczasowe
+wyniki badań wskazują, że COVID-19 rozpowszechnia się między ludźmi we wszystkich znanych
+warunkach geograficznych.
+2.2 Epidemia COVID-19
+2.2.1 Faza początkowa. Pierwsze informacje o nowej chorobie pojawiły się w grudniu 2019 r.,
+kiedy w Chinach wykryto skupisko chorych z ciężkim zapaleniem płuc w mieście Wuhan w prowincji Hubei. Umożliwił to system ostrzegania o występowaniu nietypowych zapaleń płuc,
+który został wdrożony w Chinach po poprzednich epidemiach SARS, MERS i grypy. Światowa
+Organizacja Zdrowia została poinformowana 31 grudnia 2019 r., gdy wykryto 44 zachorowania, a 9 stycznia 2020 r. informacja, że choroba jest powodowana przez nowego koronawirusa
+podobnego do SARS-CoV obiegła świat. Początkowo wszystkie zachorowania powiązane były
+z targiem żywymi zwierzętami i owocami morza, więc spodziewano się, że wirus jest patogenem
+odzwierzęcym. Niepokój specjalistów wzrósł po potwierdzeniu transmisji człowiek – człowiek.
+23 stycznia 2020 r. w prowincji Hubei rozpoznanych było zaledwie niecałe 400 zachorowań, ale
+w trybie pilnym rozpoczęto budowę szpitala mogącego pomieść 1000 pacjentów. 23 stycznia
+2020 r. wdrożono również w Wuhan i prowincji Hubei tzw.lockdown, czyli częściowe zamrożenie gospodarki, zakaz wychodzenia z domów oraz kordon sanitarny. Rządy innych krajów
+wprowadzały ograniczenia dla osób powracających z Chin. Początkowo wydawało się, że uda
+się utrzymać chorobę w południowo-wschodniej Azji, lub że wygaśnie ona wraz z nadejściem
+wiosny. Jednak już pod koniec stycznia w Europie zaczęły pojawiać się przypadki zachorowań.
+Początkowe introdukcje udało się opanować w Niemczech, Francji, Finlandii i w Wielkiej Brytanii. Epidemia wymknęła się spod kontroli najpierw we Włoszech, a następnie w Hiszpanii
+i Francji. Europa zachodnia stała się epicentrum pandemii w marcu 2020 r. W wielu krajach
+znaczne przyspieszenie transmisji następowało w konsekwencji wydarzeń związanych z dużymi zgromadzeniami, jak np. festiwale, mecze czy wybory. Wirus dotarł do Europy środkowej
+i wschodniej z opóźnieniem, a duża część krajów tego regionu wprowadziła restrykcje natychmiast po pojawieniu się pierwszych przypadków (Ryc. 4).
+Chronologia wydarzeń, mniejsza gęstość zaludnienia i mobilności ludności, jak również
+różnice w podejściu do diagnostyki są najprawdopodobniej powodem mniejszej ogólnie liczby
+przypadków w tych krajach.
+ZROZUMIEC´ COVID-19 INFORMACJE PODSTAWOWE
+13
+Ryc. 4
+Kumulatywna liczba wykrytych
+przypadków COVID-19 w krajach
+sąsiadujących z Polską,
+średnia ruchoma z 14 dni. Wykres
+przedstawiony
+został dla początkowego okresu epidemii,
+od 1.02.2020 do 15.04.2020
+ŹRÓDŁO: COVID-19 DATA REPOSITORY BY THE CENTER
+FOR SYSTEMS SCIENCE AND ENGINEERING (CSSE) AT
+JOHNS HOPKINS UNIVERSITY,
+HTTPS://GITHUB.COM/CSSEGISANDDATA/COVID-19
+Ryc. 5
+Kraje sąsiadujące zPolską można podzielić
+na3 grupy pod względem występowania
+„pierwszej fali” epidemii, jako wzrostu
+a następnie spadku dziennej liczby nowych
+przypadków COVID-19. Dzienna liczba nowych
+przypadków (średnia ruchoma z7 dni) jest tup
+podana w proporcji na1 mln mieszkańców
+A: Kraje, w których nie wystąpiła „pierwsza
+fala” – Polska i Ukraina. W obydwu tych
+krajach dzienna liczba nowych przypadków
+utrzymywała się przez pewien czas natym
+samym poziomie. Jednak na Ukrainie
+zaczęła rosnąć w czerwcu. Polska natomiast
+utrzymała dzienną liczbę nowych
+przypadków nastałym poziomie aż
+dopołowy lipca, a następujący potem
+wzrost był dużo słabszy niż na Ukrainie.
+B: Kraje, w których „pierwsza fala” epidemii
+była mała (Polska dla porównania).
+C: Kraje w których „pierwsza fala” była duża
+(Polska dla porównania). Widzimy,
+żeSzwecja jest specyficzna, ponieważ
+w kwietniu i maju występowała w niej
+wysoka, lecz płaska fala nowych
+przypadków. Jednak w czerwcu liczba
+nowych przypadków w Szwecji gwałtownie
+wzrosła, a w lipcu spadła. We wszystkich
+krajach (A, B,C) widać pojawienie się
+„drugiej fali” pod koniec lata. Szczególnym
+przypadkiem jest Szwecja, gdzie „druga
+fala” wzrosła i silnie opadła w sierpniu
+w ciągu jednego miesiąca. Widoczny jest
+także spadek „drugiej fali” w Polsce we
+wrześniu. Źródło danych
+epidemiologicznych: COVID-19 Data
+Repository by the Center for Systems Science
+and Engineering (CSSE) at Johns Hopkins
+University, https://github.com/
+CSSEGISandData/COVID-19.
+ŹRÓDŁO DANYCH O POPULACJI PAŃSTW:
+MODUŁ COUNTRYINFO JĘZYKA PYTHON
+A
+B
+C
+INFORMACJE PODSTAWOWE
+14
+Wirus szybko przedostał się również na pozostałe kontynenty. 5 marca 2020 r. potwierdzono zachorowania u mieszkańców 84 krajów. 11 marca 2020 r. WHO ogłosiła, że nowa choroba
+przybrała postać pandemii. Fala zachorowań wystąpiła w Stanach Zjednoczonych, a następnie
+w krajach Ameryki Łacińskiej. Nadejście zimy na półkuli południowej zbiegło się z drastycznym
+zaostrzeniem sytuacji w tym obszarze, gdzie zaczęła się ona stabilizować dopiero w drugiej połowie sierpnia 2020 r. Zachorowalność narasta w Azji, zwłaszcza w Indiach, ale też w Europie
+zachodniej w efekcie poluzowania rygorów sanitarnych.
+Pierwszy przypadek w Polsce rozpoznano 4 marca 2020 r. i zachorowanie to zostało zdiagnozowane u osoby, która przyjechała z Niemiec. Jednakże na ukształtowanie się sytuacji w naszym
+kraju miały wpływ liczne przyjazdy osób zarażonych z różnych krajów europejskich, głównie
+w ramach akcji #LOTdoDOMU, kiedy PLL LOT zrealizowały w krótkim czasie 400 lotów z 70
+miejscowości na 5 kontynentach wykonanych zaledwie w 3 tygodnie. Do połowy marca 2020 r.
+około 30% wszystkich rozpoznań stanowiły przypadki chorych, którzy zarazili się za granicą.
+Odsetek ten spadł do ok. 15% w drugiej połowie marca 2020 r. i dalej do około 2‒3% obecnie
+(dane Państwowej Inspekcji Sanitarnej i Narodowego Instytutu Zdrowia Publicznego – PZH).
+W marcu 2020 r. najczęstsze introdukcje miały miejsce z następujących krajów: Austria (16,1%),
+Francja (13,7%), Wielka Brytania (13,7%), Niemcy (9,4%), Hiszpania (9,1%) i Włochy (7%).
+2.2.2 Cykle sezonowe i wieloletnie zależności regionalne. Występowanie chorób zakaźnych
+często podlega cyklom sezonowym. Najbardziej znanym przykładem są epidemie grypy, tzw.
+sezony grypowe, ale cyklicznie występują również np. choroby przenoszone przez kleszcze, czy
+zakażenia żołądkowo-jelitowe. Sezonowość występowania chorób zakaźnych może wiązać się
+z (a) aktywnością wektorów zakażenia, np. kleszczy; (b) sezonowością zachowań zwierząt będących rezerwuarem zarazka; (c) pogodą (temperatura, wilgotność) wpływającą na przeżywalność
+zarazka oraz aktywnością człowieka; (d) innymi warunkami środowiskowymi (np. zasolenie
+wody, występowanie alg); (e) koinfekcjami innymi patogenami, które podlegają sezonowości;
+(f) sezonową zmiennością zachowań ludzkich, częstością i typem kontaktów; (g) zmiennością
+funkcjonowania układu odpornościowego; (h) zmiennością patogenu. W chwili obecnej ewentualna sezonowość występowania SARS-CoV-2 nie jest wyjaśniona, a obserwacje w obecnym
+sezonie są utrudnione z powodu intensywnych działań przeciwepidemicznych. Oprócz sezonowości, przy naturalnym szerzeniu się zakażeń, często występują cykle wieloletnie. Podczas
+epidemii choruje duża część populacji, u której wytwarza się naturalna odporność, co prowadzi
+do wygaszenia epidemii. Po kilku latach pojawia się nowe pokolenie nieuodpornione przeciwko
+chorobie, a dodatkowo może dojść do spadku nabytej odporności lub też mutacji patogenu. Powoduje to nagromadzenie się w populacji osobników wrażliwych, a w konsekwencji możliwość
+ponownego wybuchu epidemii.
+0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+80000
+90000
+100000
+Liczba przypadków
+Data rozpoznania
+Afryka Oceania Ameryka Północa
+Ameryka Łacińska Chiny Azja bez Chin
+Europa zachodnia Europa środkowo-wschodnia
+Ryc. 6
+Liczba przypadków
+(7-dniowa średnia ruchoma)
+zakażeń SARS-CoV-2
+naświecie wg obszaru
+geograficznego
+ŹRODŁO: DANE WG ECDC
+HTTPS://WWW.ECDC.EUROPA.EU/EN/GEOGRAPHICAL-DISTRIBUTION-2019-NCOV-CASES
+ZROZUMIEC´ COVID-19 INFORMACJE PODSTAWOWE
+15
+Epidemie chorób szerzących się drogą kropelkową typowo przebiegają szybciej w miejscach o
+dużej gęstości zaludnienia. Spodziewany przebieg wygląda więc tak, że początkowo zapadalność rośnie na obszarach wielkomiejskich, a dopiero później w mniejszych miejscowościach i
+na wsiach. Podobny schemat wystąpił również i dla zakażeń SARS-CoV-2, powodując istotne
+różnice geograficzne.
+W początkowej fazie epidemii, pierwsze przypadki osób chorych rozmieszczone były losowo
+na obszarze Polski, ale bardzo szybko zauważalne było koncentrowanie się nowych zachorowań w dużych miastach i ich aglomeracjach (Warszawa, Kraków, Poznań, Łódź). Początkowy
+szybki przyrost liczby potwierdzonych zachorowań wynikał z kilku czynników: (1) powrotów
+do kraju w trakcie sezonu szkolnych wakacji zimowych, (2) liczne powroty z zagranicy już po
+11 marca 2020 r. czyli po zamknięciu kraju, (3) początkowego intensywnego przemieszczania
+się osób pracujących i studiujących poza głównym miejscem zamieszkania. Ustabilizowanie się
+warunków częściowego zamrożenia gospodarki i ograniczenie mobilności (zamknięcie szkół i
+uniwersytetów, organizacja pracy zdalnej, wysokie i egzekwowane mandaty za łamanie zasad
+sanitarnych) znacznie ograniczyły możliwość transmisji COVID-19, co na koniec kwietnia
+2020 r. skutkowało następującą sytuacją epidemiczną (Ryc. 7):
+1. Największa liczba przypadków i brak stabilizacji warunków transmisyjności COVID-19
+występowały w powiatach o największej gęstości zaludnienia oraz, niestety, w powiatach,
+w których wirus został przypadkowo wprowadzony do domów opieki.
+2. Kontrola przemieszczania się ludności skutkowała ograniczeniem przestrzennym rozwoju epidemii – 13 powiatów było wolnych od zakażeń, w przeważającej większości liczba
+potwierdzonych przypadków nie przekraczała 5.
+Ryc. 7
+Suma zachorowań na
+COVID-19 wg powiatów,
+stan na 27 kwietnia 2020 ŹRÓDŁO: OPRAC. A. AFELT, ICM UW NA PODSTAWIE DANYCH PUBLICZNYCH
+zachorowania
+covid-19
+0
+0–5
+5–20
+20–50
+50–100
+100–200
+200–500
+pow. 500
+INFORMACJE PODSTAWOWE
+16
+3. Największa bezwzględna liczba przypadków była (i wciąż jest) charakterystyczna dla aglomeracji o dużej liczbie mieszkańców i gęstości zaludnienia, co przy kropelkowej drodze
+transmisji jest uzasadnione (im większa liczba możliwych kontaktów międzyludzkich,
+tym większa liczba zakażeń).
+Generalnie, koniec restrykcyjnego wprowadzenia zasad sanitarnych skutkował utrzymaniem
+cyrkulacji wirusa tylko w obszarach wysokiego ryzyka (duża gęstość zaludnienia) i stopniowego
+ograniczania w instytucjach wysokiego ryzyka (domy opieki). Co ważne i warte podkreślenia
+– w tym czasie w skali kraju sukcesywnie notowano nowe przypadki zachorowań, ale od połowy
+kwietnia zaczęła szybko przyrastać liczba osób ozdrowiałych.
+Poluzowanie zasad sanitarnych począwszy od 4 maja 2020 r. po około 40 dniach spowodowało (Ryc. 8):
+1. Podwojenie liczby zachorowań (z 13 000 na 27 000), przy stałym przyroście liczby nowych
+przypadków oscylujących między 250 a 400
+2. Wyraźne klasterowanie (koncentrowanie się) nowych ognisk zakażeń (m.in. kopalnie
+na Górnym Śląsku, zakłady pracy, duże spotkania towarzyskie jak komunie czy wesela)
+3. Rozpoczęło się rozlewanie epidemii po kraju – liczba powiatów bez koronawirusa zmniejszyła się o połowę, szybko przyrastała liczba powiatów o największych tygodniowych przyrostach nowych zachorowań
+4. Niestety, rozpoczął się w tym czasie niebezpieczny proces zaburzenia równowagi między
+liczbą osób chorych a ozdrowiałych.
+Analiza przestrzenna na poziomie powiatów sugeruje, że obecność COVID-19 wykrywana
+w społeczności danej jednostki administracyjnej jako przestrzennie jednorodne rozlanie się
+zachorowań. Tymczasem, głębsze wejrzenie w dane wskazuje, że wirus rozwija się przestrzenŹRÓDŁO: DANE ZA: P. TARNOWSKI HTTPS://PUBLIC.TABLEAU.COM/PROFILE/PIOTREKT#!
+Ryc. 8
+Suma zachorowań
+naCOVID-19 wg powiatów,
+stan na3 czerwca 2020
+ZROZUMIEC´ COVID-19 INFORMACJE PODSTAWOWE
+17
+nie w sposób klastrowy. Oznacza to, że nosiciel wirusa (wektor) jest źródłem zakażenia osób,
+z którymi był w kontakcie (w domu, miejscu pracy, spotkania towarzyskiego, transporcie publicznym) bez należytego dbania o spełnianie prostych, ale skutecznych zaleceń sanitarnych.
+Konsekwencją jest bardzo wyraźne, lokalne koncentrowanie się potwierdzonych zachorowań
+na COVID-19 w obrębie kraju (Ryc. 9).
+Obraz ten koresponduje z przestrzennym rozkładem koncentracji ludności w kraju, naśladując w ogólności rozkład przestrzenny aglomeracji. Jest to również pośrednio obraz przestrzennej
+mobilności Polaków w trakcie epidemii przed sezonem wakacyjnym.
+Co zmieniły wakacje. Ograniczenie międzynarodowego ruchu ludności poprzez restrykcje
+krajowe tranzytu lądowego i lotów oraz wymogi sanitarne zmieniło plany wypoczynku. W konsekwencji tegoroczny sezon wakacyjny w dużej części koncentrował się na ruchu turystycznym
+w obrębie kraju. W połączeniu z rozluźnieniem zasad sanitarnych oraz wydawaniem miękkich
+zaleceń i rekomendacji przez instytucje krajowe, niestety, aktualna sytuacja epidemiczna kraju
+nie jest korzystna tuż przez początkiem sezonu jesiennego i ponownym (jak każdego roku) początkiem sezonowych infekcji. Na dzień 12 września 2020 r., 6 miesięcy po wdrożeniu restrykcji
+sanitarnych oraz zgodnie z historią zmian polityki sanitarnej w ostatnich 3 miesiącach, aktualnie
+w kraju odnotowanych jest 73 650 zachorowań, 59 725 wyzdrowień, 2182 zgonów. Na koniec
+sezonu wakacyjnego i na otwarcie roku szkolnego 2020/2021, COVID-19 został introdukowany we wszystkich powiatach (Ryc. 9). Przyrasta liczba zachorowań w powiatach z dotychczas
+największą liczbą przypadków, ale przede wszystkim szybko przyrasta liczba powiatów z wykrytymi w ostatnich tygodniach licznymi ogniskami koronawirusa (powiaty z liczbą przypadków
+od 5 do 20). Bardzo niebezpieczna epidemicznie jest szybko przyrastająca od końca kwietnia
+2020 r. liczba kontaktów osobistych osób zarażonych. Średnia wielkość rodziny w Polsce wg
+Ryc. 9
+Koncentracja przestrzenna
+potwierdzonych przypadków
+zachorowań na COVID-19,
+stan dla 19000
+zdiagnozowanych
+przypadków, czerwiec 2020 ŹRÓDŁO: OPRACOWANIE NA PODSTAWIE DANYCH PZH-PIB, M. KURSA, A. AFELT, ICM UW
+INFORMACJE PODSTAWOWE
+18
+GUS to 2,6 osoby. Na koniec kwietnia 2020 r. średnia liczba osób, z którymi była w kontakcie
+osoba zakażona COVID-19 wynosiła 2,7 osoby (wg danych PZH-PIB). Oznacza to, że w trakcie częściowego zamrożenia gospodarki bardzo mocno ograniczyliśmy naszą liczbę kontaktów
+pozarodzinnych. Niestety, wraz ze zniesieniem obostrzeń sanitarnych, począwszy od 4 maja
+2020 r. liczba osób w tzw. kontakcie sanitarnym zaczęła bardzo szybko przyrastać. W połowie
+sierpnia 2020 r. liczba ta zwiększyła się średnio, statystycznie do 8! Oznacza to, że tworzymy
+w ten sposób bardzo korzystne warunki do dalszego szybkiego rozwoju epidemii.
+2.3 Patogeneza i przebieg kliniczny COVID-19
+Koronawirus SARS-CoV-2 przenika do wnętrza komórek poprzez interakcję białka S (spike,
+kolec) i enzymu konwertazy angiotensyny 2 (ACE2). Dodatkowo w procesie tym bierze udział
+przezbłonowa proteaza serynowa 2 (TMPRSS2). Obecność tych białek na powierzchni komórek
+decyduje o ich podatności na wniknięcie wirusa. Są one obecne w dużej ilości na komórkach
+nabłonka dróg oddechowych (w większej – na powierzchni komórek jamy nosowo-gardłowej)
+oraz komórkach śródbłonka naczyń płucnych.
+Zainfekowanie komórek dolnych dróg oddechowych (głównie pneumocytów typu II) powoduje u niektórych pacjentów nasilone uszkodzenie pęcherzyków płucnych związane z uszkodzeniem bariery pęcherzykowo-włośniczkowej, uszkodzeniem kapilar płucnych, formowaniem
+wysięków i naciekami z granulocytów obojętnochłonnych. W proces ten zaangażowany jest
+układ odpornościowy pacjenta – składowe dopełniacza i uwalniane cytokiny prozapalne (w najcięższych postaciach choroby, z niewydolnością wielonarządową, obserwuje się niekontrolowane
+uwalnianie cytokin, tzw. burzę cytokinową).
+Ryc. 10
+Suma zachorowań
+naCOVID-19 wg powiatów,
+stan na12 września 2020
+ŹRÓDŁO: DANE ZA: P. TARNOWSKI HTTPS://PUBLIC.TABLEAU.COM/PROFILE/PIOTREKT#!
+ZROZUMIEC´ COVID-19 INFORMACJE PODSTAWOWE
+19
+Obecność ACE2 na powierzchni komórek śródbłonka naczyniowego i ich zakażanie przez
+wirusa powoduje uszkodzenie komórek śródbłonka i wykrzepianie wewnątrznaczyniowe.
+Związany z tym brak przepływu krwi powoduje niedotlenienie i nieodwracalne uszkodzenie
+narządów. Fakt, że białka umożliwiające wnikanie SARS-CoV-2 do komórek obecne są w różnych tkankach i narządach powoduje, że wirus wyrządza szkody również poza układem oddechowym. Są one potęgowane niedotlenieniem wynikającym z ostrej niewydolności oddechowej
+i hipoksemią.
+2.4 Pozapłucne manifestacje choroby
+Obecność enzymu ACE2 w wielu tkankach powoduje, że SARS-CoV-2 jest w stanie infekować
+i uszkadzać tkanki nie tylko układu oddechowego. Bezpośrednie uszkodzenie tkanek przez wirusa odgrywa istotną rolę w pojawianiu się objawów ze strony innych narządów. Występują tu
+jednak również inne mechanizmy – uszkodzenie na tle niedotlenienia, dysregulacja odpowiedzi immunologicznej oraz wynikające z zaburzeń przepływu krwi w mikrokrążeniu, wtórnych
+do uszkodzenia śródbłonka naczyniowego i zakrzepicy wewnątrznaczyniowej. Do tego ostatniego mechanizmu przywiązuje się ostatnio dużą rolę, szczególnie, że istotny odsetek chorych
+umiera z powodu incydentów zakrzepowo-zatorowych.
+Do pozapłucnych manifestacji COVID-19 zalicza się te ze strony układu krążenia (cechy
+zapalenia mięśnia sercowego, zaburzenia rytmu serca, ostre zespoły wieńcowe, kardiomipatia
+takotsubo, ostre serce płucne), ośrodkowego układu nerwowego (m.in. majaczenie, bóle głowy,
+udar mózgu), zaburzenia krzepnięcia krwi i zmiany naczyniowe, uszkodzenie nerek i wątroby,
+objawy żołądkowo-jelitowe (biegunka, nudności i wymioty, utrata łaknienia), objawy oczne
+oraz zmiany skórne.
+2.5 Trwałe następstwa po zakażeniu
+Pojawiające się pytanie dotyczące długotrwałego, negatywnego wpływu COVID-19 na organizm
+ludzki na razie pozostaje bez odpowiedzi. Biorąc jednak pod uwagę raporty, które wskazują,
+że u części pacjentów efekty choroby na układ oddechowy utrzymują się po powrocie do zdrowia, a u rekonwalescentów SARS-CoV z 2003 r. zgłaszano przez wiele miesięcy po wyzdrowieniu
+m.in. upośledzenie czynności płuc, należy uznać, że istnieje prawdopodobieństwo wystąpienia
+takich efektów. Nie ma obecnie konsensusu, jak długo takie zmiany się utrzymują, i jaki będą
+miały wpływ na poszczególne narządy – serce, układ nerwowy, nerki czy naczynia krwionośne.
+Najczęściej wymieniane, potencjalne skutki choroby to zwłóknienie płuc, choroby naczyń płucnych i ogólnoustrojowych, rozstrzenie oskrzeli, chroniczne zmęczenie, sarkopenia i schorzenia
+neurologiczne. W części krajów powstały już platformy (np. https://covid.joinzoe.com/post/
+covid-long-term), które pozwalają na samodzielne zgłaszanie podobnych zaburzeń, co pomoże
+w ich leczeniu i zapobieganiu.
+Na tym etapie nie można wykluczyć, że również osoby, które przeszły COVID-19 bezobjawowo, lub u których choroba miała łagodny charakter, nie doświadczą konsekwencji choroby
+w dłuższej perspektywie. Warto zaznaczyć, że brak wyraźnych objawów nie oznacza braku zmian
+w organizmie. U dużej części pacjentów bezobjawowych i skąpoobjawowych obserwowano nieprawidłowości w obrazie płuc oraz zmiany w obrazie krwi. Badania retrospektywne pokazują,
+że zmiany te mogą utrzymywać się przez dłuższy czas – u około 10% pacjentów, którzy łagodnie
+przeszli chorobę, obserwowano utrzymującą się utratę zmysłów węchu i smaku.

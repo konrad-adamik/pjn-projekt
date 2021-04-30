@@ -1,0 +1,197 @@
+WPROWADZENIE
+1. Założenia badawcze
+W prezentowanej pracy chciałabym opisać skutki działania cenzury PRL-u
+dla rozwoju literatury polskiej w latach czterdziestych i pięćdziesiątych XX wieku. Mniej zajmować mnie będzie organizacja i system funkcjonowania Głównego Urzędu Kontroli Prasy Publikacji i Widowisk (GUKPPiW), starannie już
+przez historyków opisane1
+, bardziej – jego konkretne działania na polu literatury pięknej – ingerencje, naciski, zapisy, zatrzymania druku, czyli – ślady w tekstach. Badania moje – w odróżnieniu od szeregu innych prac – będą zmierzały
+w kierunku interpretacji filologicznych i ustaleń historycznoliterackich, a nie –
+historycznych.
+Cele i strategie postępowania badawczego zdeterminował zakres dostępnych
+źródeł. Zachowane materiały tyczące kontrolowania piśmiennictwa przed rokiem
+1948 są bardzo skromne. Dokumenty istniejące, przechowywane w Archiwum
+Akt Nowych (AAN) w Warszawie, wykazują także spore ubytki. Nie ma żadnych akt osobowych, materiały dotyczące większości tekstów są niepełne, rzadko
+można natknąć się na wydruki szczotkowe, niewiele też zachowało się rejestrów
+postulowanych zmian. Z konieczności skupiłam się na analizie najpowszechniej
+spotykanego w teczkach typu dokumentu – cenzorskiej recenzji, sporo więc –
+gdy chodzi o szerszą problematykę – przypuszczeń i postulatów dalszych badań.
+Mogę tu jednak postawić ostrożną hipotezę, że mało prawdopodobne jest, iż
+w badanym zespole z lat 1948–1958 nie znajdzie się ani jedna wzmianka na temat
+jakiegoś istotnego tekstu literatury pięknej. Jeśli nie zachowały się recenzje pierwotne, zwykle napotkać można recenzję wtórną, pismo z wydawnictwa lubwzmiankę w bardzo skrupulatnie prowadzonych sprawozdaniach opisowych.
+Jednakże brak pełnej dokumentacji pociąga za sobą niepełność lub niemożność
+ostatecznych ustaleń, co rodzi niebezpieczeństwo nieprecyzyjności lub nadintepretacji. Starając się uniknąć badawczych nadużyć, nie formułowałam zbyt wielu
+daleko idących wniosków. Ogromne tu pole dla wszystkich, którzy będą później
+owe ustalenia weryfikowali.
+Niniejsza praca oparta jest na kilkuletniej kwerendzie. Ambicją moją było
+zapoznanie się ze wszystkimi dostępnymi materiałami dotyczącymi literatury
+pięknej z lat czterdziestych i pięćdziesiątych. Przeczytałam całość dokumentacji
+od 1945, stwierdzając, że najstarsze materiały tyczące piśmiennictwa nieperiodycznego datowane są na 1948 rok. I stąd ograniczenie chronologiczne pracy
+i wnioskowanie oparte właśnie na pismach z lat 1948–1958. Archiwalia wcześniejsze traktuję jedynie jako kontekst. Historycznie rzecz biorąc, wyróżnić da
+się tu trzy podokresy: 1944 (1945)–1948, 1949–1955 oraz 1956–1958. Mnie jednak
+interesować będzie głównie ciągłość procesów.
+Z dziesięciolecia 1948–1958 zachowało się w archiwum około 1330 teczek.
+Ślady cenzurowania literatury pięknej mieszczą się w 300 z nich. Praca moja
+opiera się kwerendzie obejmującej w s z y s t k i e dokumenty dotyczące literatury
+pięknej, co daje łączną liczbę około 45 000 pism. W badaniach swoich postaram
+się owe dokumenty jak najpełniej wykorzystać, trzymając się możliwie „blisko”
+materiału archiwalnego.
+Wybór zakresu badań nie jest przypadkowy. Kierowały mną zarówno
+względy merytoryczne, jak i metodologiczne. Nie wydaje się możliwe wyzyskanie w jednej książce całego zachowanego zespołu z lat 1945–1990, jest na to zbyt
+obszerny, za duże są też różnice pomiędzy zawartością poszczególnych teczek.
+Nie można w prosty sposób porównywać materiałów z bardzo różnych czasów
+historycznych i pokusić się o sensowne generalizacje. Nie jest to też praca na siły
+jednego badacza, co sygnalizują i inni zajmujący się problematyką2
+. Ograniczenie
+chronologiczne wydało się tu najzasadniejsze.
+Większość moich stwierdzeń odnosi się tylko do cenzury lat 1948–1958, ale
+okazuje się, że wiele tez wytrzymuje próbę ogólności i przekracza rok 1958.
+Zawsze starałam się takie rozróżnienie wyraźnie zaznaczyć.
+Przyjęte w pracy ramy czasowe nie pokrywają się z przyjętymi w historii
+literatury cezurami; dowolność wynika ze stanu źródeł. Stosunkowo pełne (zachowane) ślady cenzurowania literatury pięknej datuje się od 1948 roku; 1958 natomiast można postrzegać jako czas „wypalenia się” polskiego Października. Wykorzystałam także porównawczo materiały z lat późniejszych, by sprawdzić jak
+toczą się w urzędzie losy wybranych tekstów w zależności od czynnika podstawowego – łagodzenia i zaostrzania sytuacji politycznej.
+Zajęcie się najwcześniejszymi zachowanymi śladami działań GUKPPiW da
+się wielorako motywować. Po pierwsze, w tym okresie wszystko jest jeszcze
+płynne, widać różne „pęknięcia” w systemie i nieścisłości we wdrażaniu nowego
+porządku. Pozwala to dostrzec i opisać sposoby „przyzwyczajania się” literatury
+polskiej do nowej sytuacji. W stosunkowo krótkim, dziesięcioletnim okresie zmienia się też diametralnie sytuacja polityczna, a także traktowanie kultury i formy
+jej kreowania. W sposób bezpośredni przekłada się to na zmiany zaleceń tyczących ingerencji w teksty literackie. Warto zaznaczyć, że okresy 1948–1949 oraz
+1956–1958 charakteryzuje mniej agresywna kontrola niż lata realizmu socjalistycznego.
+Zaostrzenie działań cenzury przyszło, jak wynika ze źródeł GUKKPiW, pod
+koniec 1948 roku. Badacze piszą tu o przełomie 1948 roku – sygnowanym utworzeniem Komitetu Upowszechniania Książki i stworzeniu Wydziału Prasy i Wydawnictw KC PZPR, czy 1949 roku – daty Zjazdu Szczecińskiego i powołania
+Komisji Selekcji Książek w Bibliotekach Polskich3
+. Łagodniejszy kurs cenzury
+zaczął, z kolei, obowiązywać mniej więcej od początku 1955 roku. Najbardziej
+liberalna kontrola słowa miała miejsce pomiędzy październikiem 1956 a październikiem 19574
+; nie było to jednak zupełne „bezcenzurze”, a jedynie kontrola
+mniej wnikliwa niż wcześniej. Jakkolwiek są to ramy z piśmiennictwa znane,
+a nas będzie interesować najbardziej potwierdzenie ich w materiale archiwalnym,
+to głębokość różnic w sposobach czytania tego samego utworu niejednokrotnie
+budzić musi zdumienie. Ciekawe jest też samo „przechodzenie” od pewnego liberalizmu do bardzo ostrej kontroli w latach stalinowskich. Można tu prześledzić
+drogę stalinizacji kultury, a potem odwrót od niej w okresie Października.
+W latach powojennych aktywni pisarsko są jeszcze przedstawiciele międzywojennego Parnasu literackiego, przyzwyczajeni do swobodniejszego pisania
+i publikowania, wyrośli na odmiennych, niż serwowane przez władzę ludową,
+założeniach i modach twórczych. Zderzenie ich osobowości i talentów z wulgarnymi wymogami urzędu kontroli rodzi różnorodne możliwości radzenia sobie
+z patową sytuacją. W wielu wypadkach da się to prześledzić i opisać. W latach
+1948–1958 debiutuje też wielu młodych, nieznających stanu wolności twórczej.
+I „starzy mistrzowie”, i „pryszczaci” stosują różnorodne strategie omijania cenzorskiego ołówka: przeczekanie, kostium, kamuflaż, strategię „porcelanowego
+pieska”, „mowę ezopową” i inne. W toku pracy nad książką spróbuję ustalić,
+czy pewne sposoby są bardziej charakterystyczne dla danej grupy pokoleniowej,
+czy ich wybór zależy raczej od indywidualnych preferencji twórczych.
+Ze względu na zainteresowania badawcze skupić się chciałabym na literaturze pięknej, ze szczególnym uwzględnieniem ingerencji w teksty o wysokich
+wartościach artystycznych. Najmniejszą uwagą otoczę utwory dramatyczne z racji
+specyfiki tej grupy piśmiennictwa i zupełnie inne sposoby jej kontroli (cenzurowanie zarówno samego tekstu, jak i sposobów wystawienia). Przede wszystkim
+zajmować będą mnie utwory nowe, zgłoszone do druku po raz pierwszy. W tej
+grupie można wyliczyć teksty powstałe pod presją i przy świadomości istnienia urzędu oraz te, pisane „swobodnie” przed rokiem 1944, dopiero w procesie
+wydawniczym skonfrontowane z cenzorskim okiem5
+. Wybrany do badań okres
+jest, w końcu, ostatnim, gdy publikowane były w większej liczbie dzieła pisane
+bez świadomości przemian politycznych, jakie nastąpią w Polsce po zakończeniu
+drugiej wojny światowej. Ich los będzie w GUKPPiW bardzo szczególny, a droga
+do wydania – kręta.
+Tu można też zgłosić postulaty dalszych badań, przy wykorzystaniu tego samego materiału dokumentacyjnego. Inną perspektywę wniosłoby systematyczne
+przyjrzenie się wznowieniom, z ciekawymi pytaniami o kryteria selekcji, zmiany
+w tekstach, zupełny zakaz druku6
+. Interesującym tropem byłoby także prześledzenie cenzurowania przez GUKPPiW literatury obcej i skonfrontowanie ustaleń7
+. W formie kontekstu, chciałabym zaproponować więc spojrzenie na losy
+piśmiennictwa literaturoznawczego, gdzie zmieszczą się rozważania na temat
+wznowień klasyki oraz Odwilży Ilji Erenburga, głośnego tekstu obcego, którego
+wydanie okazało się jedną z ważniejszych cenzorskich pomyłek badanych lat.
+Pisząc o cenzurze rosyjskiej w czasach zaborów Maria Prussak stwierdza,
+że dostępne źródła archiwalne są osobliwe i do interpretacji niełatwe:
+Dokumenty odsłaniają więc przede wszystkim świadomość cenzora, jego wyczulenie na ewentualny szyfr, aktualną strategię władz i niewiele mówią o problemach samego tekstu8
+.
+Podobne trudności pojawiają się i przy interpretacji akt cenzury PRL-u. Dotarcie
+do prawdy o kontrolowaniu literatury pięknej wymaga głębokiego wniknięcia
+w treść dokumentów, przy zmniejszonym do nich zaufaniu. Konieczne wydaje
+się tu czytanie niezgodne z intencją autora, quasi-dekonstrukcja wypowiedzi,
+szukanie pęknięć, niekonsekwencji i błędów.
+Praca oparta na źródłach GUKPPiW, czyli jednej tylko strony konfliktu, rodzi
+liczne ograniczenia. Obraz, który wyłania się z analizy dokumentów jest obrazem
+spaczonym, bo to są dokumenty o zupełnie „innej” logice. Zawsze należy też
+pamiętać, że urząd cenzury nie był instancją nadrzędną, a jedynie wykonawcą
+dyrektyw. Wszelkie wnioskowanie musi więc być bardzo ostrożne.
+Stan badań filologicznych nad cenzurą PRL-u nie jest bardzo zaawansowany.
+Kilka książek i artykułów wykorzystujących kwerendy archiwalne w zestawieniu
+z ogromem ukrytego w Archiwum Akt Nowych materiału wydaje się skromnym
+dorobkiem. Historycy literatury sięgali do akt wyrywkowo, poszukując z reguły
+danych na temat konkretnego twórcy, bądź tekstu, często w celu dokonania ustaleń edytorskich, na przykład Tadeusz Drewnowski i Sławomir Buryła, przygotowując edycję Pism Borowskiego, czy Alina Molisak pisząc monografię Bogdana Wojdowskiego. Około trzydziestu recenzji tekstów wysokoartystycznych
+zgłoszonych do wydania w latach 1948–1955 opublikował z krótkim wstępem
+Dariusz Jarosz9
+. Warto jednak pamiętać, że spuścizna po GUKPPiW udostępniana jest dopiero od roku 1990, nie ma też – jak się wydaje – w środowisku
+rozpowszechnionej informacji o sposobach i możliwościach korzystania z owego
+zasobu. W ostatnich latach obserwuje się wśród polonistów wzrost zainteresowania aktami „Ministerstwa Prawdy”, do czego niniejsza praca ma ambicję
+w skromnym zakresie się przyczynić.
+W toku pracy nad książką korzystałam z wielu rozpraw tyczących szeroko
+pojętego zagadnienia kontroli literatury. W tym miejscu chciałabym wzmiankować jedynie te pionierskie, wyznaczające standardy pisania, zasady cytowania
+źródeł, ustalające podstawy wiedzy o działalności GUKPPiW na polu literatury.
+Są to publikacje Marty Fik, Tadeusza Drewnowskiego, Johna M. Batesa, Joanny
+Hobot, Piotra Perkowskiego. Do prac tych będę się odnosić wielokrotnie; w tym
+miejscu pragnę jednak wzmiankować ich podstawowe tezy, by zaznaczyć punkt,
+od którego wychodzą moje intuicje badawcze.
+W artykule Cenzor jako współautor10 Marta Fik odkrywa ważną zasadę funkcjonowania cenzury w PRL-u – jej tajność. W związku ze ściśle przestrzeganą
+klauzulą niejawności, cenzor miał głęboki wpływ na ostateczny kształt książki,
+filmu, czy spektaklu. Wpływ, dodajmy, nierejestrowany przez odbiorcę.
+John M. Bates w artykułach Cenzura w epoce stalinowskiej11 oraz Cenzura wobec
+problemu niemieckiego w Polsce (1948–1955)12 podejmuje dwie podstawowe kwestie:
+zaostrzenia cenzury w latach 1949–1954 i służebności GUKPPiW wobec innych
+partyjnych czynników kontroli. Na przykładzie kilkunastu utworów literackich,
+które trafiły do urzędu w latach stalinowskich, cytując cenzorskie „zapisy”, badacz dokonuje analizy całego systemu sprawowania kontroli nad literaturą. Podtym względem są to prace prawdziwie pionierskie, ich poszczególne ustalenia
+będą wielokrotnie przywoływane.
+Najobszerniejszą rozprawą wykorzystującą spuściznę po GUKPPiW, na
+którą jak dotąd natrafiłam, jest książka Joanny Hobot Gra z cenzurą w poezji Nowej
+Fali13. Wiele tu znakomitych stwierdzeń, przykładów; do najciekawszych należą
+opisy strategii stosowanych przez nowofalowych poetów w walce z cenzorem,
+a także wzmiankowane nawiązanie cenzury PRL-owskiej do systemu organizacyjnego cenzury carskiej. Joanna Hobot formułuje też istotną tezę o dezaktualizacji, która staje się ceną za skomplikowane i piętrowe zabiegi przeprowadzane
+na własnych tekstach.
+W obszernym artykule, a jest to tylko wyimek większej, niepublikowanej
+w całości pracy, Pół wieku z cenzurą. Przypadek Tadeusza Konwickiego14 Piotr Perkowski szczegółowo opisuje losy wydawnicze kolejnych utworów autora Rojstów.
+Podkreśla nieustanną obecność cenzora w świadomości pisarskiej Konwickiego
+i kształtowanie tekstów w nieustannym dialogu z cenzurą. Cenzor jest tu najuważniejszym (przez to najlepszym?) czytelnikiem. Nowatorskie ustalenia badacza można przełożyć, jak wynika z szerszej kwerendy, także i na sytuację innych
+autorów, co pozwoli zapytać o uniwersalność prezentowanych rozpoznań.
+Jestem też intelektualnym dłużnikiem wielu dzieł historycznych, wśród których specjalne miejsce zajmują opracowania Darii Nałęcz oraz Aleksandra Pawlickiego. Rozprawa Kompletna szarość. Cenzura w latach 1965–1972. Instytucja i ludzie15 zasługuje tu na szczególne wyróżnienie z racji swej kompletności (znacznie przekraczającej zarysowany w tytule przedział czasowy) oraz szerokości horyzontów badawczych, wytrzymujących próbę skonfrontowania z materiałem
+znacznie wcześniejszym.
+Książka dzieli się na cztery części: „próba syntezy”, „przypadki szczególne”,
+„strategie autorskie”, „konteksty”16 oraz zawiera wprowadzenie i krótkie zakończenie. W części pierwszej chciałam zaprezentować teorię i praktykę działania
+GUKPPiW, opisać mechanizm zarówno wtedy, gdy działa sprawnie, jak i wtedy,
+gdy rysują się w nim różne „pęknięcia” i nieścisłości. „Przypadki szczególne”
+są analizami sytuacji cenzurowania konkretnych pisarzy, dzieł, czy typów literatury. Dobór przykładów jest tu podyktowany prawdą badań materiałowych –
+nie chciałam stwarzać modeli, a tylko opisać najciekawsze ujawnione w czasie
+kwerendy sytuacje. W części trzeciej postarałam się zarysować autorskie strategie radzenia sobie z opresją. Do zweryfikowania jest tu sporo wniosków innych
+badaczy dotyczących reakcji polskiej literatury na fakt istnienia instytucjonalnej kontroli słowa: cofnięcie się w prywatność (Tadeusz Drewnowski17), „drugi
+obieg” jako efekt istnienia cenzury (Stanisław Siekierski18), zahamowanie rozwoju prozy realistycznej o tematyce współczesnej (Leszek Szaruga19), „ezopowość” jako styl dominujący w literaturze polskiej i idąca za tym hermetyczność
+przekazu (Ryszard Nycz20), szczególność porozumiewania się z czytelnikami (Jerzy Smulski21). Sprawdzić też chciałabym, czy hipoteza o podobieństwach reakcji
+polskiego piśmiennictwa na cenzurę carską i PRL-owską, znajduje przełożenie
+na strategie tekstowe poszczególnych pisarzy.
+W książce podjęte zostaną rozważania tyczące cenzurowania i sposobów
+omijania cenzury, a także – autocenzury, będącej swoistą antycypacją i zastępowaniem urzędniczego ołówka. Interesować mnie więc będą obie strony – autor,
+jego strategie wewnętrzne (zapisane) i zewnętrzne, przyjęte wobec obecności
+i nieuchronności kontroli oraz cenzor – myślący, działający, mający swoje wytyczne funkcjonariusz państwowy. Jeśli się zastanowić, to się okaże, że stron
+w owym bezkrwawym konflikcie było więcej. Bo przecież nie można pominąć
+wydawcy – o jego zasadniczej roli przyjdzie wielokrotnie wspomnieć – ani czytelnika, czasami pamiętającego o potencjalnej możliwości zamazania autorskiej
+intencji (odbiorca kontestator), a czasami – zupełnie wobec takich procedur bezbronnego (odbiorca naiwny).
+Wypada także zapytać, co jest podstawowym obiektem namysłu: kształtowanie tekstu, czy odbiór? Jeśli praca opiera się na opisie sposobów współtworzenia przez GUKPPiW i jego agendy konstruktu pod nazwą „polska literatura
+współczesna”, najbardziej interesujący wydaje się styk procesu twórczego i recepcji. Stąd wykorzystanie metodologii charakterystycznej dla badań tekstologicznych i badań recepcji. Konkretnie będę zajmować się głównie interpretacją
+cenzorskich raportów; wnioski zawarte w recenzjach ilustrują wszak powody,
+dla których zapada wyrok na tekst. Z pewnością interesujące byłoby także przeprowadzenie pełnych dochodzeń tekstologicznych ważniejszych wzmiankowanych w rozprawie utworów z uwzględnieniem danych pozyskanych z archiwum. Przekracza to jednak – jak się wydaje – ramy jednej książki. W wąskimzakresie próba taka zostanie podjęta w podrozdziale poświęconym prozie Jerzego Andrzejewskiego.
+Założeniem niniejszej rozprawy jest przyjrzenie się procesom tworzenia literatury wysokoartystycznej w końcu lat czterdziestych i latach pięćdziesiątych.
+Zawsze w cieniu cenzury. Jako praca wykorzystująca materiały archiwalne może
+być ona nowatorska w jednym względzie – spojrzenia, mimo ograniczenia chronologią, systemowego.
+Tu pozwolę sobie na prywatną anegdotę. Pomysł książki zrodził się z nieporozumienia. Próbowałam bowiem sprawdzić, jak po roku 1989 wydawane są
+utwory „okrojone” wcześniej przez cenzurę, zakładając a priori, że ktoś dokonał nowych edycji. Okazało się, że – poza nielicznymi wyjątkami22 – integralne
+kształty nie zostały jeszcze przywrócone. Tak pojawiła się myśl o przeczytaniu
+owych pierwotnych wersji.
+Postulat przywracania tekstom postaci kanonicznej wypływa w nauce polskiej coraz częściej. Na Kongresie Slawistów w Krakowie mówił o tym już w 1998
+roku Tadeusz Drewnowski:
+Polska tekstologia i edytorstwo mają rozwiniętą teorię, która jednak nie całkiem
+wystarcza i pasuje do ubiegłej epoki. (...) W odniesieniu do literatury tego czasu
+pierwszą kategorią musi się stać kategoria tekstu integralnego, przywracanie,
+jeśli naturalnie się da, pełnego, autentycznego, tekstu autorskiego23
+.
+To kolejne ważne ustalenie tyczące skutków działania GUKPPiW – nie znamy
+większości tekstów w ich postaci integralnej, miliony okaleczonych dzieł pozostają trwałą pamiątką po PRL-u24. Referat Drewnowskiego wyznacza horyzont
+dalszych dociekań i zadań, których – jak się wydaje – wystarczy dla całego pokolenia badaczy. I dla mnie niniejsza książka jest zaledwie wstępem do pracy
+edytora. Muszę przyznać, że kilkuletnia kwerenda raczej oszołomiła mnie bogactwem i wielością treści, niż zniechęciła brakami. Wśród materiałów mniej ciekawych tkwią prawdziwe „perły”. Sygnalizowane przez badaczy ubytki w aktach
+są z pewnością bardzo dotkliwe, lecz tego, co pozostało, wystarczy filologom na
+wiele lat pracy.
+W związku z tym, że materiały GUKPPiW można uznać za trudno dostępne
+(znalezienie konkretnych dokumentów jest bardzo żmudne), przy analizie nie
+tylko się do nich odwołuję, ale i częściowo prezentuję.

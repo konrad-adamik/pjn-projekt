@@ -1,0 +1,179 @@
+WSTĘP
+Koronawirusy to jedne z największych wirusów RNA
+pod względem rozmiaru wirionu i długości genomu.
+Nazwa „koronawirus” pochodzi od łacińskiego słowa corona i nawiązuje do budowy otoczki tych cząsteczek,
+która pod mikroskopem elektronowym widziana jest jako
+otoczona przez pierścień małych struktur.
+Przez lata koronawirusy traktowane były jako łagodne patogeny, wywołujące nieznacznie nasilone objawy ze strony
+dróg oddechowych, ustępujące w ciągu kilku dni. Dopiero
+pojawienie się nowych, wysoce zakaźnych gatunków spowodowało wzrost zainteresowania tymi patogenami. W listopadzie 2002 roku w chińskiej prowincji Guangdong wybuchła
+epidemia wywołana przez nieznany wcześniej, wysoce zakaźny gatunek koronawirusa – SARS. Jego nazwa wywodzi się
+od zespołu chorobowego, który ten patogen wywołuje – ostra
+ciężka niewydolność oddechowa (severe acute respiratory syndrome). Wskutek infekcji dochodziło do uszkodzenia tkanki
+płucnej oraz indukcji nadmiernej odpowiedzi immunologicznej. Wysoka śmiertelność oraz zakaźność wirusa doprowadziły do globalnej pandemii. W ciągu jednego sezonu wirus
+rozprzestrzenił się do 37 krajów, stwierdzono 8273 przypadki zakażenia, wśród których odnotowano 775 zgonów(1,2).
+W lipcu 2003 roku Światowa Organizacja Zdrowia (World
+Health Organization, WHO) ogłosiła eradykację wirusa SARS. Jego nagłe zniknięcie tłumaczono zastosowaniem
+skutecznych środków zapobiegających transmisji patogenu.
+W 2012 roku, 10 lat od epidemii SARS, ogłoszono przypadki
+nowej choroby układu oddechowego, wywołanej przez koronawirusa MERS – bliskowschodniego zespołu niewydolności
+oddechowej (Middle East respiratory syndrome). Nie doszło
+jednak do wybuchu epidemii ogólnoświatowej. Transmisja
+wirusa MERS pomiędzy ludźmi wymaga bowiem długotrwałego, bezpośredniego kontaktu z osobą zakażoną. Do chwili obecnej epidemia MERS objęła 2030 osób w 27 krajach,
+wśród których odnotowano 748 przypadków śmiertelnych(3).
+Zarówno SARS, jak i MERS są wirusami zoonotycznymi, mogącymi wywoływać zakażenia zarówno u ludzi, jak
+i u zwierząt. Ich naturalnym rezerwuarem są nietoperze.
+Aby wirusy te mogły być patogenne dla ludzi, musi dwukrotnie dojść do tak zwanego przełamania gatunkowego –
+najpierw pomiędzy nietoperzami a innymi ssakami (żywicielami pośrednimi), następnie zaś między tymi ssakami
+a człowiekiem. W przypadku wirusa SARS żywicielami pośrednimi były jenoty i cywety palmowe, z kolei w przypadku wirusa MERS – wielbłądy(4,5).
+Do transmisji zakażenia wirusami SARS i MERS między
+ludźmi dochodzi w wyniku bliskiego kontaktu (droga kropelkowa, kontakt bezpośredni). Istotnymi cechami gatunkowymi koronawirusów, związanymi z ich patogennością,
+są wysoka odporność na warunki środowiskowe oraz zdolność przetrwania w postaci aerozolu. Dlatego też zakażenie
+może się szerzyć np. przez system wentylacyjny. Istotne znaczenie ma także transmisja zakażenia poprzez kontakt pośredni (skażone przedmioty) na drodze fekalno-oralnej(6,7).
+Ludzkie koronarwirusy wymieniane są jako jedne z najczęstszych przyczyn infekcji dróg oddechowych, obok rinowirusów, adenowirusów czy wirusa grypy. W zdecydowanej większości przypadków wywołują łagodne dolegliwości, które bez
+żadnej interwencji medycznej ustępują w ciągu kilku dni(8).
+Wyjątkiem okazały się jednak wirusy SARS i MERS, które
+mogą powodować ciężkie zapalenia płuc, prowadzące do niewydolności oddechowej, a nawet zgonu chorego(9). Okres inkubacji zakażenia tymi pandemicznymi wirusami jest podobny, choć nieco dłuższy w przypadku MERS (2–15 dni vs 2–14
+dni w przypadku SARS). Objawy zachorowania są podobne.
+Najczęściej występują gorączka, dolegliwości bólowe mięśni,
+biegunka i wymioty. Istnieją jednak pewne różnice w przebiegu klinicznym infekcji wywołanej tymi patogenami. W zakażeniu SARS występuje zapalenie płuc, prowadzące do niewydolności oddechowej (acute respiratory distress syndrome, ARDS),
+wymagającej zastosowania sztucznej wentylacji. Z kolei zakażenia dróg oddechowych wirusem MERS mogą mieć przebieg
+od bezobjawowego, poprzez łagodny, aż do ARDS(10,11).
+Celem niniejszej pracy jest przedstawienie charakterystyki nowego koronawirusa, który pojawił się w populacji ludzi w grudniu 2019 roku – 2019-nCoV. Omówiono przebieg transmisji
+zakażenia i wybuchu epidemii, objawy i odpowiedź immunologiczną na zakażenie, możliwości leczenia oraz rokowanie.
+ROZWÓJ EPIDEMII 2019-nCoV
+W dniu 29 grudnia 2019 roku kilka lokalnych zakładów opieki zdrowotnej w Wuhan (Chiny) zgłosiło 4 przypadki zapaleń płuc o nieznanej przyczynie. Dwa dni później Miejska
+Komisja Zdrowia Wuhan opublikowała pierwszą oficjalną informację na temat zachorowań. Epidemiologicznie wszystkie przypadki związane były z miejskim targiem owoców morza, co wskazywało na odzwierzęcą transmisję zakażenia(12).
+W dniu 31 grudnia 2019 roku Chińskie Centrum Kontroli
+i Zapobiegania Chorobom (Chinese Center for Disease
+Control and Prevention, China CDC) powołało zespół szybkiego reagowania, by przeprowadzić dochodzenie epidemiologiczne i etiologiczne dotyczące nieznanego czynnika zakaźnego(13). Następnego dnia targ rybny został zamknięty i odkażony,
+a 9 stycznia China CDC na łamach „The Wall Street
+Journal” podało, że zidentyfikowano nowego koronawirusa
+2019-nCoV(14). Został on wyizolowany od pierwszego chorego,
+a następnie zweryfikowany u kolejnych 16 zakażonych osób(15).
+W ciągu kolejnych 2 dni (10–11 stycznia 2020 roku) podano pierwsze sekwencje genomu wirusa(16), a od 13 stycznia
+władze innych krajów zaczęły zgłaszać przypadki infekcji
+2019-nCoV na ich terytorium: początkowo były to Tajlandia,
+Japonia oraz Korea Południowa(17). W tym samym czasie odnotowano pierwsze zgony z powodu wywoływanego przez
+wirusa zapalenia płuc(17). Opisywane przypadki choroby
+u pracowników ochrony zdrowia, a także u członków rodzin,
+którzy nie mieli bezpośredniego kontaktu ze źródłem zwierzęcym, zaczęły wskazywać na możliwość rozprzestrzeniania się
+wirusa z człowieka na człowieka(17,18) Na ryc. 1 przedstawiono schemat rozwoju epidemii 2019-nCoV.
+
+ODPOWIEDŹ IMMUNOLOGICZNA
+NA ZAKAŻENIE
+Patofizjologia niezwykle wysokiej patogenności koronawirusów nie została w pełni poznana(9). Uważa się jednak, że
+istotne znaczenie mają w niej nie tylko czynniki wirusowe,
+ale również odpowiedź immunologiczna gospodarza.
+W przebiegu infekcji wywołanych wirusami SARS oraz MERS
+obserwuje się zwiększone stężenia cytokin prozapalnych w surowicy, takich jak interleukiny: IL-1B, IL-6, IL-12, IL-17, interferon γ (IFN-γ) i czynnik martwicy nowotworów α (tumour
+necrosis factor α, TNF-α). Mimo że cechują się one zdolnością aktywacji limfocytów T pomocniczych (Th1), odgrywających kluczową rolę w usuwaniu wirusa z zainfekowanych komórek, to indukują jednocześnie destrukcję tkanki płucnej,
+a im wyższe ich stężenia, tym bardziej rozległe uszkodzenia.
+Podobną korelację zaobserwowano wśród chorych zakażonych
+2019-nCoV, przyjmowanych do szpitala w Wuhan. Chorzy hospitalizowani na oddziale intensywnej terapii z powodu powikłań charakteryzowali się wyższymi stężeniami cytokin
+[głównie IL-1B, IFN-γ, białka indukowanego interferonem 10
+(interferon gamma-induced protein 10, IP-10) oraz białka chemotaktycznego dla monocytów (monocyte chemoattractant
+protein 1, MCP1] niż ci leczeni bardziej zachowawczo(9).
+Podczas infekcji dochodzi do obrzęku tkanki płucnej oraz
+napływu komórek zapalnych. Powoduje to złuszczenie nabłonka pęcherzykowego oraz niszczenie przegród pęcherzykowych. Uszkadzany jest również śródbłonek naczyń
+płucnych(19). Zmiany te mogą powodować zarówno stosunkowo łagodne zaburzenia czynnościowe, jak i ARDS, prowadzący do zgonu chorego.
+OBJAWY I PRZEBIEG KLINICZNY
+W przypadku infekcji 2019-nCoV okres inkubacji choroby wynosi 4–7 dni (średnio 5 dni)(18,20), natomiast okres zakaźności, zgodnie z aktualnymi badaniami, 5–19 dni (średnio 7 dni)(18). Najnowsze, niepublikowane dane wskazują,
+że w rzadkich przypadkach okres inkubacji koronawirusa
+może wynosić nawet do 24 dni.
+Najczęstszymi objawami początkowymi choroby są: gorączka (98%), suchy kaszel (76%), dolegliwości bólowe mięśni
+oraz ogólne osłabienie. Rzadziej pojawiają się: bóle głowy,
+krwioplucie czy biegunka. W przebiegu choroby u większości pacjentów rozwija się duszność. Zwykle ma to miejsce
+w ciągu pierwszych 2 dni od przyjęcia do szpitala(9).
+Huang i wsp. oraz Chan i wsp. stwierdzili, że najczęstszymi odchyleniami w badaniach laboratoryjnych u chorych
+hospitalizowanych z powodu infekcji koronawirusowej 2019-nCoV były: leukopenia z limfopenią, trombocytopenia, wysokie wartości białka C-reaktywnego
+(C-reactive protein, CRP) oraz niskie wartości prokalcytoniny (PCT). W tomografii komputerowej klatki piersiowej odnotowywano zmiany zapalne tkanki płucnej
+o charakterze matowej szyby, zlokalizowane głównie obwodowo. Rzadziej obserwowano płatowe i subsegmentowe konsolidacje(9,18).
+Aktualne dane podają, że u wszystkich pacjentów z infekcją
+koronawirusową 2019-nCoV rozwija się zapalenie płuc(9).
+Obejmuje to jednak zróżnicowane zaawansowanie choroby –
+od przypadków stosunkowo łagodnych, leczonych zachowawczo, po niewydolność oddechową, wymagającą hospitalizacji na oddziale intensywnej terapii(17). Najczęstszymi powikłaniami są: ARDS (29%), rozwijający się zwykle w 2.–3.
+dobie hospitalizacji, wiremia (15%), ostre uszkodzenie
+mięśnia sercowego (12%) oraz wtórne infekcje bakteryjne
+(10%). Średnio co dziesiąty hospitalizowany chory wymaga mechanicznej wentylacji z powodu niewydolności
+oddechowej(9).
+Średni czas od wystąpienia objawów do hospitalizacji, w zależności od źródła, wynosi 6–12 dni(9,20). Mimo że pacjenci
+szukają pomocy medycznej stosunkowo szybko po pojawieniu się dolegliwości (około 2 dni), to opóźnienie w hospitalizacji jest już znacznie dłuższe. Wskazuje to na trudności
+w postawieniu diagnozy i izolacji tych osób na wczesnym
+etapie choroby(20).
+Przebieg infekcji uzależniony jest głównie od wieku pacjenta. Krótszy okres inkubacji, bardziej nasilone objawy kliniczne i radiologiczne, a także wyższe wykładniki
+stanu zapalnego obserwuje się u osób w starszym wieku.
+29.12.2019
+4 pierwsze przypadki zapaleń
+płuc o nieznanej etiologii
+31.12.2019
+Oficjalna informacja o zachorowaniach
+na stronie Miejskiej Komisji Zdrowia Wuhan
+10.01.2020
+Opublikowanie pierwszych
+sekwencji genomu wirusa
+13.01.2020
+Pierwsze zachorowanie poza terytorium
+Chin – Tajlandia
+01.01.2020
+Zamknięcie i odkażanie targu
+rybnego w Wuhan
+09.01.2020
+Identyfikacja 2019-nCoV przez China CDC
+18–20.01.2020
+Pierwsze opisywane przypadki
+zakażeń oraz zachorowań
+u pracowników ochrony zdrowia
+Ryc. 1. Schematyczne przedstawienie rozwoju epidemii spowodowanej przez 2019-nCoV
+Agata Wawrzyniak, Karolina Kuczborska, Agnieszka Lipińska-Opałka, Agata Będzichowska, Bolesław Kalicki
+4
+PEDIATR MED RODZ Vol. 15 No. 4
+Na obecnym etapie wiedzy można sądzić, że dzieci są mniej
+podatne na zakażenie koronawirusem 2019-nCoV. W przypadku zachorowania prezentują łagodniejsze objawy choroby czy wręcz chorują asymptomatycznie. Obie te hipotezy wymagają jednak potwierdzenia w dalszej obserwacji
+klinicznej(18,20).
+LECZENIE
+Obecnie brak jest skutecznych metod leczenia czy szczepionki przeciwko koronawirusom(21,22). Leczenie chorych zakażonych 2019-nCoV polega przede wszystkim
+na empirycznej podaży oseltamiwiru, antybiotyków,
+a także glikokortykosteroidów, wspomaganych leczeniem
+objawowym(9).
+Oseltamiwir powinien być podany jak najszybciej. Stosuje się
+go ze względu na udowodnione korzystne działanie przeciwko wirusowi MERS. Nie ma jednak obecnie dowodów,
+że podobny efekt obserwuje się w przypadku infekcji nowym koronawirusem(22).
+Antybiotyki, zarówno doustne, jak i dożylne, stosowane są przede wszystkim w celu profilaktyki nadkażeń
+bakteryjnych.
+Glikokortykosteroidy podawane są chorym z ciężką postacią zapalenia płuc w celu zmniejszenia destrukcyjnego wpływu nadmiernej odpowiedzi immunologicznej na
+tkankę płucną(9). Decyzja o ich użyciu powinna zostać podjęta indywidualnie po przenalizowaniu bilansu korzyści
+i strat. Istnieją doniesienia o szkodliwym wpływie kortykosteroidów na przebieg infekcji wirusowej. Wykazano, że
+w przypadku zakażenia SARS i MERS podawanie kortykosteroidów nie zmniejszało śmiertelności, związane było natomiast z opóźnieniem eliminacji wirusa z organizmu(23,24).
+Dlatego zgodnie z aktualnymi wytycznymi WHO glikokortykosteroidy nie powinny być rutynowo stosowane w zakażeniach wirusami SARS oraz MERS(25). Potrzebne są jednak
+dowody, czy podobny efekt można zaobserwować w przypadku zapalenia płuc wywołanego 2019-nCoV.
+Opublikowane w styczniu 2020 roku wytyczne Narodowej
+Komisji Zdrowia Chińskiej Republiki Ludowej zalecają stosowanie IFN-α oraz lopinawiru/rytonawiru jako preferowanych leków przeciwwirusowych(26). Szczególnie lopinawir/
+rytonawir (inhibitory proteazy wykorzystywane w leczeniu zakażenia ludzkim wirusem niedoboru odporności
+(human immunodeficiency virus, HIV) wykazują udowodnione działanie, zmniejszające ryzyko ostrej niewydolności oddechowej czy zgonu w przypadku infekcji wywołanej
+wirusem SARS(27).
+W opiece nad chorymi z zapaleniem płuc wywołanym
+2019-nCoV bardzo istotnym elementem jest również wspomagające leczenie objawowe, m.in. tlenoterapia, wentylacja mechaniczna, a także intensywna opieka kardiologiczna
+czy hemodializoterapia w przypadku wtórnego uszkodzenia serca oraz nerek.
+Od czasu epidemii wirusa SARS trwają badania nad lekami, które mogłyby działać przyczynowo na infekcje wywołane koronawirusami. Najlepszym potencjalnym lekiem skierowanym przeciwko 2019-nCoV wydaje się
+remdesiwir – nowy analog nukleotydowy, opracowany
+pierwotnie w celu leczenia chorób wywołanych przez wirusy ebola oraz marburg. Eksperymenty na zwierzętach
+z udziałem wirusa MERS wykazały, że lek ten może skutecznie zmniejszać jego miano, a także uszkodzenia tkanki płucnej. Remdesiwir zakończył III fazę badań klinicznych dotyczących leczenia gorączki krwotocznej ebola,
+w których zebrano kompletne dane dotyczące jego farmakokinetyki oraz potwierdzono bezpieczeństwo stosowania
+u ludzi(28). Jednakże skuteczność i bezpieczeństwo remdesiwiru u chorych z infekcją 2019-nCoV wymaga dalszych
+badań klinicznych(22).
+ROKOWANIE
+Większość chorych wraca do zdrowia i eliminuje wirusa
+z organizmu, co potwierdzają badania pochodzące ze szpitala w Wuhan – 68% hospitalizowanych tam pacjentów zostało wypisanych do domu po potwierdzonej molekularnie
+eliminacji wirusa z materiału pochodzącego z dróg oddechowych(9). Również zdecydowana większość innych opisywanych przypadków została zakończona wyzdrowieniem
+chorych(18–20).
+Aktualne dane dotyczące śmiertelności wskazują, że jest
+ona znacznie mniejsza (2,84%) niż w przypadku infekcji
+wywołanej wirusami SARS (9,6%) czy MERS (34,4%)(21).
+Ponadto zgony dotyczą przede wszystkim osób w starszym wieku (mediana 75 lat), obciążonych innymi chorobami czy przebytymi zabiegami operacyjnymi. Średni czas
+od zachorowania do zgonu wynosi 14 dni (6–41 dni), przy
+czym jest krótszy w przypadku osób w wieku 70 lat lub
+starszych(21).
+PODSUMOWANIE
+Infekcje koronawirusowe w zdecydowanej większości przypadków przebiegają łagodnie. Istnieją jednak gatunki patogenów wywołujące zakażenia pandemiczne, mogące zagrażać życiu i zdrowiu człowieka. Szybka diagnostyka oraz
+odpowiednie postępowanie w przypadku zakażenia są istotne w celu ograniczenia transmisji wirusa w populacji.

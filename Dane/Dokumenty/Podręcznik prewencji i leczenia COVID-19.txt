@@ -1,0 +1,305 @@
+Część Pierwsza: Zapobieganie
+i Zarządzanie Kontrolą
+I. Zarządzanie obszarem izolowanym
+1 Klinika Zakaźna
+1.1 Układ
+(1) Placówki opieki zdrowotnej powinny stworzyć stosunkowo niezależną klinikę zakaźną, w której znajdzie się dedykowane jednostronne przejście przy wejściu do szpitala oznaczone widocznym znakiem;
+(2) Przepływ ludzi powinien odbywać się zgodnie z zasadą „trzy strefy i dwa przejścia”: strefa skażona,
+strefa potencjalnie skażona i strefa czysta, każda wyraźnie wytyczona i oznakowana, oraz dwie strefy
+buforowe między strefą skażoną a strefą potencjalnie skażoną;
+(3) Niezależne przejście powinno być zapewnione wyłącznie dla skażonych przedmiotów; należy ustanowić widoczny obszar pozwalający na jednostronną dostawę przedmiotów ze strefy biurowej (strefa
+potencjalnie skażona) do oddziału izolacyjnego (strefa skażona);
+(4) Procedury dla personelu dotyczące zakładania i zdejmowania sprzętu ochronnego powinny być znormalizowane. Schematy blokowe opisujące strefy, wysokie lustra w celu samokontroli oraz ścisła kontrola
+ścieżek spacerowych są niezbędne.;
+(5) Technicy prewencji i kontroli zakażenia powinni być przypisani do nadzoru ubioru i zdejmowania
+sprzętu poprzez pracowników w celu minimalizacji kontaminacji;
+(6) Wszystkie przedmioty w strefie skażonej, które nie zostały zdezynfekowane, nie powinny być stamtąd
+usuwane.
+1.2 Układ stref
+(1) Należy ustanowić niezależny pokój badań, laboratorium, pokój obserwacyjny i pokój reanimacyjny;
+(2) Należy utworzyć obszar badania wstępnego i segregacji w celu przeprowadzenia wstępnego badania
+przesiewowego;
+(3) Należy ustanowić odseparowane strefy diagnozy i leczenia: pacjentów z historią epidemiologiczną
+i gorączką oraz / lub z objawami ze strony układu oddechowego należy kierować do strefy podejrzenia
+skażeniem COVID-19; natomiast pacjentów z gorączką bez historii epidemiologicznej należy kierować do
+zwykłej strefy zakaźnej.
+1.3 Zarządzanie pacjentem
+(1) Pacjenci z gorączką muszą nosić medyczne maski chirurgiczne;
+(2) W celu uniknięcia przeludnienia tylko pacjenci mogą znajdować się w poczekalni;
+(3) Czas wizyty pacjenta należy zminimalizować, aby uniknąć zakażeń krzyżowych;
+(4) Należy edukować pacjentów i ich rodziny na temat wczesnego rozpoznawania objawów i kluczowych
+działań zapobiegawczych.
+7 Podręcznik prewencji i leczenia COVID-19
+1.4 Kontrola, Przyjęcie i Wykluczenie
+(1) Wszyscy pracownicy służby zdrowia powinni w pełni rozumieć cechy epidemiologiczne i kliniczne
+COVID-19 i badać pacjentów zgodnie z poniższymi kryteriami (patrz Tabela 1.);
+(2) Badanie kwasów nukleinowych (NAT) należy przeprowadzić wyłącznie u tych pacjentów, którzy spełniają kryteria podejrzenia zakażenia COVID-19;
+(3) Pacjenci, którzy nie spełniają powyższych kryteriów podejrzenia zakażeniem, którzy także nie mają
+potwierdzonej historii epidemiologicznej, ale jednak nie mogą zostać wykluczeni z zakażenia COVID-19
+na podstawie ich objawów, szczególnie z uwagi na wyniki badania obrazowego, wymagają dalszej ewaluacji w celu uzyskania kompleksowej diagnozy;
+(4) Każdy pacjent, który uzyska wynik ujemny, powinien być ponownie zbadany 24 godziny później. Tylko
+i wyłącznie jeżeli pacjent ma dwa negatywne wyniki NAT oraz negatywne objawy kliniczne, może on
+zostać wykluczony z zakażenia COVID-19 i następnie wypisany ze szpitala. Jeżeli jednak objawy kliniczne
+nie pozwolą na wykluczenie zakażenia COVID-19 należy ponownie ich badać testem NAT co 24 godziny,
+dopóki nie zostaną wykluczeni lub potwierdzeni;
+(5) Pacjentów z pozytywnym wynikiem NAT należy przyjąć i leczyć grupowo opierając się na ostrości ich
+objawów (w izolacji lub izolowanym OIOM).
+Tabela 1. Kryteria badań przesiewowych dla podejrzanych przypadków COVID-19 Historia epidemiologiczna
+1. W ciągu 14 dni przed wystąpieniem choroby pacjent ma
+historię podróży lub pobytu w regionach lub krajach wysokiego ryzyka;
+2. W ciągu 14 dni przed wystąpieniem choroby pacjent miał
+kontakt z osobami zakażonymi SARS-CoV-2 (z dodatnim
+wynikiem NAT);
+3. W ciągu 14 dni przed wystąpieniem choroby pacjent miał
+bezpośredni kontakt z pacjentami z gorączką lub objawami
+oddechowymi w regionach lub krajach wysokiego ryzyka;
+4. Grupowanie chorób (2 lub więcej przypadków z gorączką
+i / lub objawami oddechowymi występujących w takich miejscach jak domy, biura, klasy szkolne itp. W ciągu 2 tygodni.)
+Pacjent
+spełnia 1
+historię
+epidemiologiczną
+i 2 objawy
+kliniczne.
+Pacjent nie
+ma historii
+epidemiologicznej
+i spełnia
+3 objawy
+kliniczne
+Pacjent nie ma
+historii epidemiologicznej,
+spełnia 1–2
+objawy kliniczne
+i nie można
+go wykluczyć
+z zakażenia COVID-19 poprzez
+obrazowanie.
+Objawy kliniczne
+1. Pacjent ma gorączkę i / lub objawy oddechowe;
+2. Pacjent ma następujące znaleziska badania obrazowego
+CT charakterystyczne dla COVID-19: wiele plamistych cieni
+i zmian śródmiąższowych pojawia się wcześnie, szczególnie na obrzeżach płuc. Następnie następuje rozwój do
+obrazu mlecznej szyby i nacieków w obu płucach. W ciężkich
+przypadkach u pacjenta może wystąpić konsolidacja płuc
+i wysięk opłucnowy;
+3. Ilość białe krwinek we wczesnym stadium choroby jest
+normalna lub pomniejszona. Liczba limfocytów maleje
+z biegiem czasu.
+Diagnoza podejrzanego przypadku Tak Tak Konsultacja
+specjalisty
+8 Podręcznik prewencji i leczenia COVID-19
+2. Obszar Oddziału Izolacji
+2.1 Zakres zastosowania
+Obszar oddziału izolacji obejmuje obszar oddziału obserwacji, oddziały izolacji i izolowany obszar OIOM.
+Układ budynku i przebiegu pracy powinien spełniać odpowiednie wymagania przepisów technicznych
+dotyczących izolacji szpitala. Dostawcy usług medycznych z pokojami podciśnieniowymi powinni zaimplementować znormalizowane zarządzanie zgodne z odpowiednimi wymogami. Dostęp do obszaru izolowanego musi być rygorystycznie zminimalizowany.
+2.2 Układ
+Proszę odnieść się do Kliniki Zakaźnej.
+2.3 Wymagania dotyczące oddziału
+(1) Podejrzanych i potwierdzonych pacjentów należy rozdzielić na osobne obszary oddziału;
+(2) Podejrzanych pacjentów należy izolować w pokojach jednoosobowych. Każdy pokój powinien być
+wyposażony w udogodnienia, takie jak prywatna łazienka, a aktywność pacjenta powinna być ograniczona do oddziału izolacyjnego;
+(3) Potwierdzonych pacjentów można ustawić w tym samym pokoju z odstępem między łóżkami nie
+mniejszym niż 1,2 metra (około 4 stóp). Pokój powinien być wyposażony w takie udogodnienia jak łazienka I aktywność pacjenta musi ograniczać się do oddziału izolacyjnego.
+2.4 Zarządzanie pacjentem
+(1) Wizyty rodzinne i pielęgniarskie nie są dozwolone. Pacjenci powinni mieć możliwość dostępu do ich
+urządzeń elektronicznych w celu kontaktu z osobami bliskimi;
+(2) Należy edukować pacjentów w celu zapobiegania dalszego rozprzestrzenianiu się C0VID-19, mianowicie jak poprawnie nosić maski chirurgiczne, jak właściwe myć ręce, jak bezpiecznie kaszleć, oraz jak
+wygląda medyczna obserwacja i domowa kwarantanna.
+9 Podręcznik prewencji i leczenia COVID-19
+II. Zarządzanie personelem
+1 Zarządzanie przepływem pracy
+(1) Przed rozpoczęciem pracy w klinice gorączki i oddziale izolacyjnym personel musi przejść rygorystyczne szkolenie i egzamin w celu upewnienia się bezpiecznego zakładania i zdejmowania środków ochrony
+osobistej. Muszą zdać egzamin przed przystąpieniem do pracy.
+(2) Personel powinien być podzielony na parę zespołów, by umożliwić pracę zmianową. Praca każdego
+zespołu powinna być ograniczona do maksymalnie 4 godzin w strefie izolowanej.
+(3) Częstotliwość przemieszczania się do i ze strefy izolowanej powinna być jak najmniejsza, toteż leczenie, badanie oraz dezynfekcja powinny być przydzielone do każdego zespołu i wykonywane symultanicznie.
+(4) Przed wyjściem ze służby personel musi się umyć dokładnie według schematu, aby zapobiec zakażeniu ich dróg oddechowych lub błon śluzowych.
+2 Zarządzanie zdrowiem
+(1) Personel pierwszej linii w obszarach izolowanych – w tym personel medyczny, technicy medyczni oraz
+personel nieruchomości i logistyki – powinni mieszkać w odizolowanych kwaterach i nie wychodzić bez
+pozwolenia.
+(2) Celem poprawy odporności personelu należy zapewnić im pełnowartościową dietę.
+(3) Należy monitorować i rejestrować stan zdrowia wszystkich pracowników w miejscu pracy. Monitorowanie zdrowia
+personelu pierwszej linii, w tym temperatury ciała i objawów oddechowych jest szczególnie ważne. Należy także zapewnić pomoc odpowiednich ekspertów w przypadku pojawiąjących się problemów psychologicznych i fizjologicznych.
+(4) Jeżeli personel wykazuje jakiekolwiek istotne objawy, jak gorączka, należy dokonać natychmiastowej
+izolacji i testu za pomocą NAT.
+(5) Gdy personel pierwszej linii, w tym personel medyczny, technicy medyczni i pracownicy logistyczni
+kończą pracę w strefie izolacji i wracają do normalnego życia, należy wpierw dokonać testów NAT pod
+kątem SARS-CoV-2. Jeżeli wynik jest ujemny, należy ich odizolować zbiorczo na 14 dni przed zwolnieniem
+z obserwacji.
+10 Podręcznik prewencji i leczenia COVID-19
+III. Zarządzanie ochroną osobistą związaną z COVID-19
+Poziom ochrony Wyposażenie ochronne Szereg zastosowań
+Poziom
+ochrony I
+• Jednorazowa czapka chirurgiczna
+• Jednorazowa maska chirurgiczna
+• Mundur roboczy
+• Jednorazowe rękawiczki lateksowe
+i/lub jednorazowa izolacja odzież
+w razie potrzeby
+• Triaż przed badaniem, oddział ambulatoryjny
+ogólny
+Poziom
+ochrony II
+• Jednorazowa czapka chirurgiczna
+• Medyczna maska ochronna (N95)
+• Mundur roboczy
+• Jednorazowy medyczny uniform
+ochronny
+• Jednorazowe rękawiczki lateksowe
+• Okulary ochronne
+• Oddział ambulatoryjny z gorączką
+• Obszar oddziału izolacyjnego (w tym OIOM)
+• Badanie próbek innych niż oddechowe podejrzanych/ potwierdzonych pacjentów
+• Badanie obrazowe podejrzanych/ potwierdzonych pacjentów
+• Czyszczenie narzędzi chirurgicznych stosowanych u podejrzanych/ potwierdzonych
+pacjentów
+Poziom
+ochrony III
+• Jednorazowa czapka chirurgiczna
+• Medyczna maska ochronna (N95)
+Mundur roboczy
+• Mundur roboczy
+• Jednorazowy medyczny uniform
+ochronny
+• Jednorazowe rękawiczki lateksowe
+• Pełnotwarzowy sprzęt ochrony dróg
+oddechowych lub zasilany oczyszczający respirator
+• Gdy personel wykonuje operacje, takie jak
+intubacja tchawicy, tracheotomia, bronchofiberoskopia, gastroskopia itp., podczas których
+podejrzany/potwierdzony pacjent może rozpylać lub chlapać wydzieliną z dróg oddechowych
+lub płynami ustrojowymi/ krwią
+• Kiedy personel wykonuje operację i autopsję
+potwierdzonych/podejrzanych pacjentów
+• Kiedy personel wykonuje NAT dla COVID-19
+Uwagi:
+1. Cały personel zakładów opieki zdrowotnej musi nosić medyczne maski chirurgiczne;
+2. Cały personel pracujący na oddziale ratunkowym, chorób zakaźnych, opieki oddechowej, oraz na oddziale stomatologii pracowni endoskopii (gastroskopii, bronchofiberoskopii, laryngoskopii itp.) musi nosić środki wyższego bezpieczeństwa, mianowicie maski ochronne N95 w oparciu o poziom ochrony I;
+3. Podczas pobierania próbek z układu oddechowego od podejrzanych/potwierdzonych pacjentów personel musi nosić pełną ochronę twarzy opartą na ochronie poziomu II. 
+2 Procedury dezynfekcji dla obszaru oddziału izolacji COVID-19
+2.1 Dezynfekcja podłóg i ścian
+(1) Widoczne zanieczyszczenia należy całkowicie usunąć przed dezynfekcją i przekazać do użytku zgodnie z procedurami usuwania wycieków krwi i płynów ustrojowych;
+(2) Zdezynfekować podłogę i ściany środkiem dezynfekującym zawierającym 1000 mg/L chloru mycie
+podłóg, spryskiwanie lub wycieranie;
+(3) Upewnij się, że dezynfekcja jest przeprowadzana przez co najmniej 30 minut;
+(4) Przeprowadzić dezynfekcję trzy razy dziennie i powtórzyć za każdym razem, kiedy wystąpi zanieczyszczenie.
+2.2 Dezynfekcja powierzchni przedmiotów
+(1) Widoczne zanieczyszczenia należy całkowicie usunąć przed dezynfekcją i przekazać do użytku zgodnie z procedurami usuwania wycieków krwi i płynów ustrojowych;
+(2) Przetrzyj powierzchnie przedmiotów środkiem dezynfekcyjnym zawierającym 1000 mg/L chloru lub
+ściereczkami ze skutecznym chlorem; odczekać 30 minut, a następnie spłukać czystą wodą. Dezynfekcję
+należy przeprowadzić trzy razy dziennie oraz za każdym razem, kiedy pojawi się zanieczyszczenie;
+(3) Wytrzyj wpierw czystsze obszary, a dopiero następnie te bardziej zanieczyszczone: najpierw wytrzyj
+powierzchnie obiektów
+które nie są często dotykane, a następnie te dotykane często. (Po wyczyszczeniu powierzchni obiektu
+wymień zużytą ściereczkę na nową).
+2.3 Dezynfekcja powietrza
+(1) Sterylizatory plazmowe mogą być używane i nieprzerwanie pracować w celu dezynfekcji powietrza
+w środowisku z aktywnością ludzką;
+(2) W przypadku braku sterylizatorów plazmowych, należy użyć lamp ultrafioletowych przez 1 godzinę za
+każdym razem. Wykonaj tę operację trzy razy dziennie.
+2.4 Utylizacja odchodów i ścieków
+(1) Przed odprowadzeniem do miejskiego systemu kanalizacyjnego, odchody i ścieki należy zdezynfekować, stosując środek dezynfekujący zawierający chlor (początkowa dezynfekcja powinna być dokonana
+roztworem o minimalnej koncentracji chloru 40 mg/L) od początku stężenie chloru aktywnego musi być
+wyższe niż 40 mg/L). Upewnij się, że czas dezynfekcji wynosi co najmniej 1.5 godziny;
+(2) Stężenie całkowitego resztkowego chloru w zdezynfekowanych ściekach powinno osiągnąć 10 mg/L.
+14 Podręcznik prewencji i leczenia COVID-19
+3 Procedury usuwania wycieków krwi/płynów pacjenta COVID-19
+3.1 W przypadku wycieków o małej objętości (<10 ml) krwi / płynów ustrojowych:
+(1) Opcja 1: Wycieki należy przykryć chusteczkami dezynfekującymi zawierającymi chlor (zawierającymi
+5000 mg/L efektywnego chloru) i ostrożnie usunąć, a następnie powierzchnie obiektu należy dwukrotnie
+przetrzeć chusteczkami dezynfekującymi zawierającymi chlor (zawierającymi 500 mg/L skuteczny chlor);
+(2) Opcja 2: Ostrożnie usuń rozlany płyn za pomocą jednorazowych materiałów chłonnych, takich jak
+gaza, ściereczki itp. nasączone roztworem dezynfekującym zawierającym 5000 mg/L chloru.
+3.2 W przypadku rozlania dużej objętości (> 10 ml) krwi i płynów ustrojowych:
+(1) Po pierwsze, należy oznakować obecność wycieku;
+(2) Wykonaj procedury usuwania zgodnie z Opcją 1 lub 2 opisaną poniżej:
+① Opcja 1: Absorbuj rozlane płyny przez 30 minut czystym chłonnym ręcznikiem (zawierającym kwas peroksyoctowy, który może wchłonąć do 1 L płynu na ręcznik), a następnie oczyścić zanieczyszczony obszar
+po usunięciu zanieczyszczeń.
+② Opcja 2: Całkowicie przykryj wyciek proszkiem dezynfekującym lub proszkiem wybielającym na bazie
+chloru zawierającym składniki pochłaniające wodę lub całkowicie przykryj go jednorazowym materiałem
+pochłaniającym wodę. Następnie wylej wystarczającą ilość środka dezynfekującego zawierającego chlor
+10 000 mg/L na materiał pochłaniający wodę (lub przykryj suchym ręcznikiem, który zostanie poddany
+dezynfekcji wysokiego poziomu). Pozostaw na co najmniej 30 minut, zanim ostrożnie usuniesz wyciek.
+(3) Kał, wydzieliny, wymioty itp. Od pacjentów należy zbierać do specjalnych pojemników i dezynfekować
+przez 2 godziny za pomocą środka dezynfekującego zawierającego 20 000 mg/L chloru o stosunku wycieku do środka dezynfekującego 1: 2.
+(4) Po usunięciu wycieków zdezynfekuj zanieczyszczone powierzchnie lub przedmioty.
+(5) Pojemniki zawierające zanieczyszczenia można namoczyć i zdezynfekować za pomocą aktywnego
+środku dezynfekującego zawierającego 5000 mg/L chloru przez 30 minut, a następnie wyczyszczone.
+(6) Zebrane zanieczyszczenia należy usuwać jako odpady medyczne.
+(7) Zużyte przedmioty należy umieścić w dwuwarstwowych workach na odpady medyczne i zutylizować
+jako odpady medyczne.
+15 Podręcznik prewencji i leczenia COVID-19
+4 Dezynfekcja wyrobów medycznych wielokrotnego użytku powiązanych z COVID-19
+4.1 Dezynfekcja zasilanego aparatu oczyszczającego powietrze
+Uwaga: Procedury dezynfekcji w przypadku kaptura ochronnego opisane powyżej dotyczą wyłącznie
+ochrony wielokrotnego użytku kaptury (z wyłączeniem jednorazowych kapturów ochronnych).
+Zasilany aparat oczyszczający powietrze
+Daszek Silnik i pasek Powierzchnia
+baterii
+Filtr cząstek
+stałych
+Rurka
+oddechowa
+NIE odłączaj
+skrzynki filtra
+Kilkakrotnie przetrzyj je środkiem dezynfekującym zawierającym
+1000 mg/L chloru i pozwól mu działać przez 30 minut
+Moczyć w 1000
+mg/L środka
+dezynfekującego
+zawierającego
+chlor przez 30
+minut
+Wytrzyj wszystkie części wielokrotnie i równomiernie miękką szmatką zamoczoną
+w płynie czyszczącym (czysta woda)
+Umyj czystą
+wodą
+Pozostaw części do wyschnięcia i umieść je w torebce strunowej do przyszłego użytku
+!
+Uwaga: zachowaj ostrożność
+podczas wycierania styków
+akumulatora znajdujących sięw
+dolnej części silnika. Nie dotykaj
+styków baterii bezpośrednio.
+Przed następnym użyciem lub
+przechowywaniem upewnij się,
+że ta część jest całkowicie sucha.
+!
+Uwaga: nie pozwól,
+aby płyn dostał się
+do wylotu powietrza
+jednostki głównej lub
+silnika
+!
+Uwaga: nie dotykaj
+elementu filtrującego
+podczas czyszczenia
+zewnętrznej
+powierzchni. Wymień
+wkład filtra zgodnie z
+intrukcją produktu.
+16 Podręcznik prewencji i leczenia COVID-19
+4.2 Procedury czyszczenia i dezynfekcji dla endoskopii trawiennej i fiberoskopii oskrzelowej
+(1) Zanurz endoskop i zawory wielokrotnego użytku w 0.23% kwasie nadtlenooctowym (potwierdź stężenie środka dezynfekującego przed użyciem, aby upewnić się, że będzie skuteczne);
+(2) Podłącz linię perfuzji każdego kanału endoskopu, wstrzyknij 0.23% peroksyoctowy kwas do linii za
+pomocą strzykawki o pojemności 50 ml, aż do całkowitego napełnienia, i poczekaj 5 minut;
+(3) Odłącz linię perfuzyjną i umyj każdą wnękę i zawór endoskopu za pomocą specjalnej jednorazowej
+szczotki do czyszczenia;
+(4) Włóż zawory do ultradźwiękowego oscylatora zawierającego enzym, aby go oscylować. Połącz linię
+perfuzji każdego kanału z endoskopem. Wstrzyknij 0.23% kwas nadtlenooctowy do linii za pomocą strzykawki 50 ml i płucz linię nieprzerwanie przez 5 minut. Następnie wstrzykuj powietrze, w celu wysuszenia,
+przez 1 minutę;
+(5) Wstrzyknij czystą wodę do linii za pomocą strzykawki 50 ml i stale przepłukuj linię przez 3 minuty.
+Wstrzyknij powietrze, aby wysuszyć je przez 1 minutę;
+(6) Wykonaj test szczelności na endoskopie;
+(7) Włóż automatyczną endoskopową maszynę do mycia i dezynfekcji. Ustaw wysoki poziom dezynfekcji
+w celu leczenia;
+(8) Wyślij urządzenie do centrum zaopatrzenia w dezynfekcję, aby poddać je sterylizacji tlenkiem etylenu.
+4.3 Obróbka wstępna innych wyrobów medycznych wielokrotnego użytku
+(1) Jeśli nie ma widocznych zanieczyszczeń, zanurz urządzenie w dezynfekującym roztworze chloru
+1000  mg/L na co najmniej 30 minut;
+(2) Jeśli widoczne są zanieczyszczenia, zanurz urządzenie w dezynfekującym roztworze chloru
+5000  mg/L na co najmniej 30 minut;
+(3) Po wysuszeniu, spakuj i całkowicie zamknij urządzenie i wyślij je do centrum zaopatrzenia dezynfekcji.
